@@ -105,6 +105,8 @@ def detect_fomular(im, model='onmt'):
 
     global hmer, onmt, predictor
 
+    im = cv2.imread(im)
+
     if predictor is None:
         cfg = get_cfg()
 
@@ -183,21 +185,21 @@ def detect_fomular(im, model='onmt'):
 
         results.append({"box":[xmin.item(),ymin.item(),xmax.item()-xmin.item(),ymax.item()-ymin.item()], "text": latex})
 
-    # from detectron2.utils.visualizer import ColorMode
+    from detectron2.utils.visualizer import ColorMode
 
-    # MetadataCatalog.get("mfr_test").set(thing_classes=["formula"])
-    # metadata_val = MetadataCatalog.get("mfr_test") # for d in random.sample(dataset_dicts, 3):
+    MetadataCatalog.get("mfr_test").set(thing_classes=["formula"])
+    metadata_val = MetadataCatalog.get("mfr_test") # for d in random.sample(dataset_dicts, 3):
 
-    # v = Visualizer(im[:, :, ::-1],
-    #                metadata=metadata_val,
-    #                scale=0.8,
-    #                instance_mode=ColorMode.IMAGE   # remove the colors of unsegmented pixels
-    #                )
-    # v = v.draw_instance_predictions(outputs["instances"].to("cpu"))
+    v = Visualizer(im[:, :, ::-1],
+                   metadata=metadata_val,
+                   scale=0.8,
+                   instance_mode=ColorMode.IMAGE   # remove the colors of unsegmented pixels
+                   )
+    v = v.draw_instance_predictions(outputs["instances"].to("cpu"))
 
-    # import matplotlib.pyplot as plt
-    # plt.imshow(v.get_image()[:, :, ::-1], cmap='gray')
-    # plt.show()
+    import matplotlib.pyplot as plt
+    plt.imshow(v.get_image()[:, :, ::-1], cmap='gray')
+    plt.show()
 
     #cv2.imshow("x",v.get_image()[:, :, ::-1])
     # cv2.waitKey();
@@ -306,8 +308,8 @@ def predict_final(filename):
 
 #/Users/thanhtruongle/Downloads/20200611_Sample-test/a50/image248.jpg
 if __name__ == '__main__':
-    print(predict_final("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image124.jpg"))
-    #print(detect_fomular("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image124.jpg", "onmt"))
+    #print(predict_final("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image124.jpg"))
+    print(detect_fomular("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image083.jpg", "onmt"))
     #print(predict_final("/home/dcthang/Projects/MathFormulaReg/Code/mfr-pytorch-hmer/data/csv3/images4/toan_12_page_149_6.jpg"))
 
 
