@@ -600,204 +600,204 @@
 0.8287765606065705	toan_11_bt_page_188_9	mp(A B C D )
 0.76318359375	toan_11_bt_page_193_21	30 ^ {\circ} 
 0.5375223159790039	toan_11_bt_page_193_25	A D = 2 a
-0.9341139793395996	toan_11_bt_page_195_16	T _ { \overline { B C } }
-1	toan_11_bt_page_195_27	( x - 2 ) ^ { 2 } + ( y + 3 ) ^ { 2 } = 4
+0.9341139793395996	toan_11_bt_page_195_16	T _ { \overrightarrow { B C } }
+1	toan_11_bt_page_195_27	( C ) : ( x - 2 ) ^ { 2 } + ( y + 3 ) ^ { 2 } = 4
 0.9907307624816895	toan_11_bt_page_195_28	( x + 2 ) ^ { 2 } + ( y - 3 ) ^ { 2 } = 4
 0.7955098152160645	toan_11_bt_page_1_1	\vec { V }
-0.2333214300364064	toan_11_bt_page_201_3	= \frac { 1 } { 4 } \frac { H A ^ { \prime } \cdot A A ^ { \prime } \cdot B C ^ { 2 } } { S _ { A ^ { 2 } } } = ( \frac { 1 } { 2 } S A ^ { \prime } \cdot B C ) ^ { 2 } = ( S _ { S B C } ) ^ { 2 }
-0.9801282641238346	toan_11_bt_page_201_6	( S _ { S B C } ) ^ { 2 } + ( S _ { S C A } ) ^ { 2 } + ( S _ { S A B } ) ^ { 2 } = S _ { A B C } ( S _ { H B C } + S _ { H C A } + S _ { H A B } ) = ( S _ { A }
-0.99267578125	toan_11_bt_page_202_2	C > 0
+0.2333214300364064	toan_11_bt_page_201_3	= \frac { 1 } { 4 } \frac { H A ^ { \prime } . A A ^ { \prime } . B C ^ { 2 } } { S _ { A ^ { \prime } ^ { 2 } } } = ( \frac { 1 } { 2 } S A ^ { \prime } . B C ) ^ { 2 } = ( S _ { S B C } ) ^ { 2 }
+0.9801282641238346	toan_11_bt_page_201_6	( S _ { S B C } ) ^ { 2 } + ( S _ { S C A } ) ^ { 2 } + ( S _ { S A B } ) ^ { 2 } = S _ { A B C } ( S _ { H B C } + S _ { H C A } + S _ { H A B } ) = ( S _ { A B C} ) ^ 2
+0.99267578125	toan_11_bt_page_202_2	\cos C > 0
 0.664264440536499	toan_11_bt_page_202_4	\triangle A B C
-0.4184541903038913	toan_11_bt_page_203_1	\{ \begin{array} { l } { S E \perp A B } \\ { G E \perp A B } \end{array} \Rightarrow \overline { [ ( S A B ) , ( A B C D ) ] } = \hat { S E G } = 60 ^ { \circ }
-0.7143468856811523	toan_11_bt_page_205_8	C S E
-0.48507124009148583	toan_11_bt_page_209_6	A H S K = A S . A K
-0.8748924732208252	toan_11_bt_page_213_10	B C D )
-0.8092808543054844	toan_11_bt_page_213_5	L \in x \| C D
-0.9873584584701932	toan_11_bt_page_21_15	( - 1 ) - 1.5 + C = 0
-0.5643080211370943	toan_11_bt_page_224_1	\cos \frac { x } { 2 } | = \left\{ \begin{array} { c } { \cos \frac { x } { 2 } } \\ { - \cos \frac { x } { 2 } } \end{array} \right.
-0.9960978019516915	toan_11_bt_page_225_14	- \frac { 2 \pi } { 3 } + k 2 \pi ; \frac { 2 \pi } { 3 } + k 2 \pi
-0.99951171875	toan_11_bt_page_225_15	[ - \frac { 5 \pi } { 6 } + k 2 \pi ; \frac { 5 \pi } { 6 } + k 2 \pi
-0.69384765625	toan_11_bt_page_226_2	\backslash \{ \frac { \pi } { 2 } + k \pi \}
-0.47019586434748817	toan_11_bt_page_226_3	\backslash ( - \frac { \pi } { 3 } + k 2 \pi ; ; \frac { \pi } { 3 } + k 2 \pi )
-1	toan_11_bt_page_226_4	\{ \{ \frac { \pi } { 3 } + k 2 \pi \} \cup \{ \frac { \pi } { 2 } + k 2 \pi \} \}
-0.998535871389322	toan_11_bt_page_226_5	\{ ( - \frac { \pi } { 3 } + k 2 \pi ; \frac { \pi } { 3 } + k 2 \pi ] \cup \{ \frac { \pi } { 2 } + k \pi \} \}
+0.4184541903038913	toan_11_bt_page_203_1	\{ \begin{array} { l } { S E \perp A B } \\ { G E \perp A B } \end{array} \Rightarrow \widehat { [ ( S A B ) , ( A B C D ) ] } = \widehat { S E G } = 60 ^ { \circ }
+0.7143468856811523	toan_11_bt_page_205_8	\widehat { C S E }
+0.48507124009148583	toan_11_bt_page_209_6	A H . S K = A S . A K
+0.8748924732208252	toan_11_bt_page_213_10	mp(A B C D )
+0.8092808543054844	toan_11_bt_page_213_5	L \in x / / C D
+0.9873584584701932	toan_11_bt_page_21_15	3.( - 1 ) - 1.5 + C = 0
+0.5643080211370943	toan_11_bt_page_224_1	| \cos \frac { x } { 2 } | = \left\{ \begin{array} { c } { \cos \frac { x } { 2 } } \\ { - \cos \frac { x } { 2 } } \end{array} \right.
+0.9960978019516915	toan_11_bt_page_225_14	[- \frac { 2 \pi } { 3 } + k 2 \pi ; \frac { 2 \pi } { 3 } + k 2 \pi ]
+0.99951171875	toan_11_bt_page_225_15	[ - \frac { 5 \pi } { 6 } + k 2 \pi ; \frac { 5 \pi } { 6 } + k 2 \pi ]
+0.69384765625	toan_11_bt_page_226_2	\mathbb { R } \backslash \{ \frac { \pi } { 2 } + k \pi \}
+0.47019586434748817	toan_11_bt_page_226_3	\mathbb { R } \backslash ( - \frac { \pi } { 3 } + k 2 \pi ; ; \frac { \pi } { 3 } + k 2 \pi )
+1	toan_11_bt_page_226_4	\mathbb { R } \backslash \{ \{ \frac { \pi } { 3 } + k 2 \pi \} \cup \{ \frac { \pi } { 2 } + k 2 \pi \} \}
+0.998535871389322	toan_11_bt_page_226_5	\mathbb { R } \backslash \{ ( - \frac { \pi } { 3 } + k 2 \pi ; \frac { \pi } { 3 } + k 2 \pi ] \cup \{ \frac { \pi } { 2 } + k \pi \} \}
 0.8982889214530587	toan_11_bt_page_227_17	x = \beta ^ { 0 } + k 360 ^ { \circ }
-0.816957950592041	toan_11_bt_page_227_4	\operatorname { in } \alpha = a
-0.9737312374636531	toan_11_bt_page_228_3	\alpha = \arccos
+0.816957950592041	toan_11_bt_page_227_4	\sin \alpha = a
+0.9737312374636531	toan_11_bt_page_228_3	\alpha = \arccos a
 0.927734375	toan_11_bt_page_229_5	\sin x = \frac { 1 } { 4 }
 0.7623374462127686	toan_11_bt_page_22_2	\vec { V }
-0.55859375	toan_11_bt_page_22_4	M _ { 1 } = B _ { d } ( M )
+0.55859375	toan_11_bt_page_22_4	M _ { 1 } = D _ { d } ( M )
 0.9175992012023926	toan_11_bt_page_22_5	M ^ { \prime } = D _ { d ^ { \prime } } ( M _ { 1 } )
-0.5860306124100491	toan_11_bt_page_22_7	= 2 \vec { I I } ^ { \prime } = \vec { v }
-0.8060494119433448	toan_11_bt_page_233_4	\left. \begin{array} { l } { x = 30 ^ { \circ } + k 180 ^ { \circ } , k \in Z } \\ { 2 x = 240 ^ { \circ } + k 360 ^ { \circ } , k \in Z } \\ { 2 x = 60 ^ { \circ } + k 360 ^ { \circ } , k \in Z } \end{array} \right.
-0.38925883605256023	toan_11_bt_page_234_13	\Leftrightarrow \left. \begin{array} { l } { 2 x = \frac { \pi } { 4 } + k 2 \pi , k \in Z } \\ { 4 x = \frac { 3 \pi } { 4 } + k 2 \pi , k \in Z } \end{array} \right.
-0.9975595474243164	toan_11_bt_page_234_17	y = \sin 3 x \text { va� } y = \sin ( x + \frac { \pi } { 4 } )
-1	toan_11_bt_page_236_5	2 x = - 1
-0.19962608540402016	toan_11_bt_page_23_10	M ^ { \prime } N ^ { \prime } = k . \vec { M N }
-0.40802788734436035	toan_11_bt_page_241_11	9 \cos 2 x - \cos 4 x - \sin 3 x = 0
-0.21008227392937376	toan_11_bt_page_245_12	\Rightarrow \quad \left. \begin{array} { l } { 2 x = \frac { \pi } { 2 } + k \pi , k \in Z } \\ { 2 x = \pm \frac { \pi } { 3 } + k 2 \pi , k \in Z } \end{array} \right.
-0.92529296875	toan_11_bt_page_246_4	- 3 \tan x - \tan ^ { 2 } x = 3 ( 1 + \tan ^ { 2 } x ) \Leftrightarrow 4 \tan ^ { 2 } x - 3 \tan x - 1 = 0
-0.3116461332540758	toan_11_bt_page_248_22	\left. \begin{array} { l } { 4 x - \frac { \pi } { 6 } = 3 x + k 2 \pi , k \in Z } \\ { 4 x - \frac { \pi } { 6 } = - 3 x + k 2 \pi , k \in Z } \end{array} \right.
-1	toan_11_bt_page_249_11	2 x = - 1
-0.99951171875	toan_11_bt_page_249_14	\cos x \cos 2 x = 1 +
-0.9309148788452148	toan_11_bt_page_24_11	0
-0.6195142537294752	toan_11_bt_page_24_3	( I ^ { I } ; R )
-0.9067835807800293	toan_11_bt_page_253_18	\frac { \pi } { 2 } + k 2 \pi \text { va� } \pi + k 2 \pi , k \in Z
-0.9902672246517292	toan_11_bt_page_254_10	\Leftrightarrow x \neq k \pi \text { va� } x \neq \frac { \pi } { 2 } + k \pi , k \in Z
-0.971732346347153	toan_11_bt_page_254_4	\Leftrightarrow 2 x \neq \frac { \pi } { 2 } + k \pi , k \in Z
-0.9677734375	toan_11_bt_page_256_14	\{ \frac { \pi } { 2 } + k \pi , k \in Z \}
-0.2995703730600557	toan_11_bt_page_257_3	\{ ( - \frac { \pi } { 3 } + k 2 \pi ; \frac { \pi } { 3 } + k 2 \pi ] \cup \{ \frac { \pi } { 2 } + k \pi \} , k \in Z \} \}
+0.5860306124100491	toan_11_bt_page_22_7	= 2 \overrightarrow { I I } ^ { \prime } = \vec { v }
+0.8060494119433448	toan_11_bt_page_233_4	\left. \begin{array} { l } { x = 30 ^ { \circ } + k 180 ^ { \circ } , k \in \mathbb Z } \\ { 2 x = 240 ^ { \circ } + k 360 ^ { \circ } , k \in \mathbb Z } \\ { 2 x = 60 ^ { \circ } + k 360 ^ { \circ } , k \in \mathbb Z } \end{array} \right.
+0.38925883605256023	toan_11_bt_page_234_13	\Leftrightarrow \left. \begin{array} { l } { 2 x = \frac { \pi } { 4 } + k 2 \pi , k \in \mathbb Z } \\ { 4 x = \frac { 3 \pi } { 4 } + k 2 \pi , k \in \mathbb Z } \end{array} \right.
+0.9975595474243164	toan_11_bt_page_234_17	y = \sin 3 x \text { va } y = \sin ( x + \frac { \pi } { 4 } )
+1	toan_11_bt_page_236_5	\tan x \tan 2 x = - 1
+0.19962608540402016	toan_11_bt_page_23_10	\overrightarrow { M ^ { \prime } N ^ { \prime } } = k . \overrightarrow { M N }
+0.40802788734436035	toan_11_bt_page_241_11	\Leftrightarrow \cos 2 x - \cos 4 x - \sin 3 x = 0
+0.21008227392937376	toan_11_bt_page_245_12	\Rightarrow \quad \left. \begin{array} { l } { 2 x = \frac { \pi } { 2 } + k \pi , k \in \mathbb Z } \\ { 2 x = \pm \frac { \pi } { 3 } + k 2 \pi , k \in \mathbb Z } \end{array} \right.
+0.92529296875	toan_11_bt_page_246_4	4 + 3 \tan x - \tan ^ { 2 } x = 3 ( 1 + \tan ^ { 2 } x ) \Leftrightarrow 4 \tan ^ { 2 } x - 3 \tan x - 1 = 0
+0.3116461332540758	toan_11_bt_page_248_22	\left. \begin{array} { l } { 4 x - \frac { \pi } { 6 } = 3 x + k 2 \pi , k \in \mathbb Z } \\ { 4 x - \frac { \pi } { 6 } = - 3 x + k 2 \pi , k \in Z \mathbb } \end{array} \right.
+1	toan_11_bt_page_249_11	4 \sin x \cos x \cos 2 x = - 1
+0.99951171875	toan_11_bt_page_249_14	\cos x \cos 2 x = 1 + \sin x \sin 2 x
+0.9309148788452148	toan_11_bt_page_24_11	0 _ {1}
+0.6195142537294752	toan_11_bt_page_24_3	( I ^ { \prime } ; R ^ { \prime } )
+0.9067835807800293	toan_11_bt_page_253_18	\frac { \pi } { 2 } + k 2 \pi \text { va } \pi + k 2 \pi , k \in \mathbb Z
+0.9902672246517292	toan_11_bt_page_254_10	\Leftrightarrow x \neq k \pi \text { va } x \neq \frac { \pi } { 2 } + k \pi , k \in \mathbb Z
+0.971732346347153	toan_11_bt_page_254_4	\Leftrightarrow 2 x \neq \frac { \pi } { 2 } + k \pi , k \in \mathbb Z
+0.9677734375	toan_11_bt_page_256_14	\mathbb { R } \backslash \{ \frac { \pi } { 2 } + k \pi , k \in \mathbb Z \}
+0.2995703730600557	toan_11_bt_page_257_3	\mathbb { R } \backslash \{ ( - \frac { \pi } { 3 } + k 2 \pi ; \frac { \pi } { 3 } + k 2 \pi ] \cup \{ \frac { \pi } { 2 } + k \pi \} , k \in \mathbb Z \} \}
 1	toan_11_bt_page_257_8	\cos x + \cos ( \frac { \pi } { 2 } - x ) = 2 \cos \frac { \pi } { 4 } \cos ( x - \frac { \pi } { 4 } ) = \sqrt { 2 } \cos ( x - \frac { \pi } { 4 } ) \leq \sqrt { 2 }
-0.9902696006981062	toan_11_bt_page_259_13	= \sin 2 x \Leftrightarrow \cos 3 x = \cos ( \frac { \pi } { 2 } - 2 x ) \Leftrightarrow 3 x = \pm ( \frac { \pi } { 2 } - 2 x ) + k 2 \pi , k \in Z
-0.8864320548236151	toan_11_bt_page_259_19	2 x = - 1 \quad \Rightarrow \sin x \sin 2 x = - \cos x \cos 2 x
-0.99951171875	toan_11_bt_page_263_27	\cos 3 x = 1 \Leftrightarrow 3 x = k 2 \pi \Leftrightarrow x = k \frac { 2 \pi } { 3 } , k \in Z
-0.5553510328754783	toan_11_bt_page_263_28	x \cos 2 x = - 1 \quad \Leftrightarrow 2 \sin 2 x \cos 2 x = - 1
-0.99951171875	toan_11_bt_page_263_29	\sin 4 x = - 1 \Leftrightarrow 4 x = - \frac { \pi } { 2 } + k 2 \pi , k \in Z
-0.5128670950046562	toan_11_bt_page_266_17	\left[ \begin{array} { l } { x = 2 \alpha + k 2 \pi , k \in 2 } \\ { x = k 2 \pi , \quad k \in Z } \end{array} \right.
-1	toan_11_bt_page_268_5	( \sin x - \cos x ) ( 1 + \sin x - \cos x - 2 \sin x - 2 \cos x ) = 0
-1	toan_11_bt_page_269_1	3 x = \sin 5 x
-0.9980475902557373	toan_11_bt_page_269_13	\Rightarrow 2 ( \tan ^ { 2 } x + \cot ^ { 2 } x ) + 3 ( \tan x + \cot x ) + 2 = 0
-0.7351454941090196	toan_11_bt_page_269_14	\Rightarrow 2 [ ( \tan x + \cot x ) ^ { 2 } - 2 ] + 3 ( \tan x + \cot x ) + 2 = 0
-0.99951171875	toan_11_bt_page_269_19	\tan ^ { 2 } x + 2 \tan x + 1 = 0 \Rightarrow \tan x = - 1
-0.4889678955078125	toan_11_bt_page_269_28	2 x
-1	toan_11_bt_page_269_31	2 x
+0.9902696006981062	toan_11_bt_page_259_13	\Leftrightarrow \cos 3 x = \sin 2 x \Leftrightarrow \cos 3 x = \cos ( \frac { \pi } { 2 } - 2 x ) \Leftrightarrow 3 x = \pm ( \frac { \pi } { 2 } - 2 x ) + k 2 \pi , k \in Z
+0.8864320548236151	toan_11_bt_page_259_19	\tan x \tan 2 x = - 1 \quad \Rightarrow \sin x \sin 2 x = - \cos x \cos 2 x
+0.99951171875	toan_11_bt_page_263_27	\Leftrightarrow \cos 3 x = 1 \Leftrightarrow 3 x = k 2 \pi \Leftrightarrow x = k \frac { 2 \pi } { 3 } , k \in \mathbb Z
+0.5553510328754783	toan_11_bt_page_263_28	4 \sin x \cos x \cos 2 x = - 1 \quad \Leftrightarrow 2 \sin 2 x \cos 2 x = - 1
+0.99951171875	toan_11_bt_page_263_29	\Leftrightarrow \sin 4 x = - 1 \Leftrightarrow 4 x = - \frac { \pi } { 2 } + k 2 \pi , k \in \mathbb Z
+0.5128670950046562	toan_11_bt_page_266_17	\left[ \begin{array} { l } { x = 2 \alpha + k 2 \pi , k \in \mathbb Z } \\ { x = k 2 \pi , \quad k \in \mathbb Z } \end{array} \right.
+1	toan_11_bt_page_268_5	\Leftrightarrow ( \sin x - \cos x ) ( 1 + \sin x - \cos x - 2 \sin x - 2 \cos x ) = 0
+1	toan_11_bt_page_269_1	\cos x \tan 3 x = \sin 5 x
+0.9980475902557373	toan_11_bt_page_269_13	\Leftrightarrow 2 ( \tan ^ { 2 } x + \cot ^ { 2 } x ) + 3 ( \tan x + \cot x ) + 2 = 0
+0.7351454941090196	toan_11_bt_page_269_14	\Leftrightarrow 2 [ ( \tan x + \cot x ) ^ { 2 } - 2 ] + 3 ( \tan x + \cot x ) + 2 = 0
+0.99951171875	toan_11_bt_page_269_19	\Leftrightarrow \tan ^ { 2 } x + 2 \tan x + 1 = 0 \Rightarrow \tan x = - 1
+0.4889678955078125	toan_11_bt_page_269_28	\cos 2 x
+1	toan_11_bt_page_269_31	\cos 2 x
 0.962890625	toan_11_bt_page_270_33	x = \frac { \pi } { 2 }
 0.9805524349212646	toan_11_bt_page_271_12	\left. \begin{array} { l } { 2 x = \frac { \pi } { 6 } + k 2 \pi } \\ { 2 x = \frac { 5 \pi } { 6 } + k 2 \pi } \end{array} \right.
-1	toan_11_bt_page_272_22	\frac { 2 \tan x } { 1 - \tan ^ { 2 } x } + \frac { 6 } { \tan x } + \tan x = 0
-0.6082371036690938	toan_11_bt_page_275_12	\left. \begin{array} { l } { x = k \pi , k \in Z } \\ { x = \frac { \pi } { 24 } + k \frac { \pi } { 2 } , k \in Z } \\ { x = \frac { 5 \pi } { 24 } + k \frac { \pi } { 2 } , k \in Z } \end{array} \right.
-0.6200670871576941	toan_11_bt_page_275_30	x
-0.24549224150605256	toan_11_bt_page_276_10	\left. \begin{array} { l } { x = \alpha + \arcsin \frac { 1 } { 5 } + k 2 \pi , k \in Z } \\ { x = \alpha + \pi - \arcsin \frac { 1 } { 5 } + k 2 \pi , k \in Z } \end{array} \right.
-0.99951171875	toan_11_bt_page_277_18	t = \tan
-0.4341264121452095	toan_11_bt_page_27_10	G D / / G D ^ { \prime }
-0.7909477100414397	toan_11_bt_page_27_6	^ { \prime } E ^ { \prime } F ^ { \prime } G ^ { \prime }
-0.5932372641872404	toan_11_bt_page_27_9	G F \| G ^ { \prime } F ^ { \prime }
-0.6178622245788574	toan_11_bt_page_289_5	6
-0.9960968487430364	toan_11_bt_page_290_2	= x ^ { 5 } + 5 x ^ { 4 } ( - a ) + 10 x ^ { 3 } ( - a ) ^ { 2 } + 10 x ^ { 2 } ( - a ) ^ { 3 } + 5 x ( - a ) ^ { 4 } +
-0.7962354639221303	toan_11_bt_page_291_13	n ^ { - }
-0.7040753205628755	toan_11_bt_page_291_17	\left. \begin{array} { l } { 15 } \\ { 25 } \end{array} \right.
-0.496826171875	toan_11_bt_page_293_7	D = C
-0.9395115233492106	toan_11_bt_page_297_3	P ( C ) = P ( A B ) + P ( \vec { A B } )
-0.99755859375	toan_11_bt_page_297_5	B
-0.9970703125	toan_11_bt_page_2_4	A D
-0.9660176622485013	toan_11_bt_page_303_9	C _ { 7 } ^ { 4 } \cdot 4 ! = 120.7 !
-0.55219562840648	toan_11_bt_page_305_1	v ^ { 7 }
-0.7530292687855622	toan_11_bt_page_308_14	= P ( A _ { 1 } \cup A _ { 2 } \cup A _ { 3 } ) \cdot P ( B _ { 1 } \cup B _ { 2 } \cup B _ { 3 } ) = \frac { 1 } { 2 } \cdot \frac { 1 } { 2 } =
-0.8038443440309493	toan_11_bt_page_30_14	T _ { \overline { A A ^ { \prime } } }
-0.6092729517258704	toan_11_bt_page_30_3	T _ { \overline { A A ^ { \prime } } }
+1	toan_11_bt_page_272_22	3 . \frac { 2 \tan x } { 1 - \tan ^ { 2 } x } + \frac { 6 } { \tan x } + \tan x = 0
+0.6082371036690938	toan_11_bt_page_275_12	\Leftrightarrow \left. \begin{array} { l } { x = k \pi , k \in \mathbb Z } \\ { x = \frac { \pi } { 24 } + k \frac { \pi } { 2 } , k \in \mathbb Z } \\ { x = \frac { 5 \pi } { 24 } + k \frac { \pi } { 2 } , k \in \mathbb Z } \end{array} \right.
+0.6200670871576941	toan_11_bt_page_275_30	\tan x
+0.24549224150605256	toan_11_bt_page_276_10	\left. \begin{array} { l } { x = \alpha + \arcsin \frac { 1 } { 5 } + k 2 \pi , k \in \mathbb Z } \\ { x = \alpha + \pi - \arcsin \frac { 1 } { 5 } + k 2 \pi , k \in \mathbb Z } \end{array} \right.
+0.99951171875	toan_11_bt_page_277_18	t = \tan x
+0.4341264121452095	toan_11_bt_page_27_10	G D / / G ^ { \prime } D ^ { \prime }
+0.7909477100414397	toan_11_bt_page_27_6	D ^ { \prime } E ^ { \prime } F ^ { \prime } G ^ { \prime }
+0.5932372641872404	toan_11_bt_page_27_9	G F / / G ^ { \prime } F ^ { \prime }
+0.6178622245788574	toan_11_bt_page_289_5	6!
+0.9960968487430364	toan_11_bt_page_290_2	= x ^ { 5 } + 5 x ^ { 4 } ( - a ) + 10 x ^ { 3 } ( - a ) ^ { 2 } + 10 x ^ { 2 } ( - a ) ^ { 3 } + 5 x ( - a ) ^ { 4 } + ( - a ) ^ { 5 }
+0.7962354639221303	toan_11_bt_page_291_13	n ^ { 2 }
+0.7040753205628755	toan_11_bt_page_291_17	C _ { 25 } ^ { 15 }
+0.496826171875	toan_11_bt_page_293_7	D = \bar C
+0.9395115233492106	toan_11_bt_page_297_3	P ( C ) = P ( A B ) + P ( \bar { A } \bar { B } )
+0.99755859375	toan_11_bt_page_297_5	\bar B
+0.9970703125	toan_11_bt_page_2_4	\overrightarrow { A D }
+0.9660176622485013	toan_11_bt_page_303_9	6! . C _ { 7 } ^ { 4 } . 4 ! = 120.7 !
+0.55219562840648	toan_11_bt_page_305_1	x ^ { 7 }
+0.7530292687855622	toan_11_bt_page_308_14	= P ( A _ { 1 } \cup A _ { 2 } \cup A _ { 3 } ) . P ( B _ { 1 } \cup B _ { 2 } \cup B _ { 3 } ) = \frac { 1 } { 2 } . \frac { 1 } { 2 } = \frac { 1 } { 4 }
+0.8038443440309493	toan_11_bt_page_30_14	T _ { \overrightarrow { A A ^ { \prime } } }
+0.6092729517258704	toan_11_bt_page_30_3	T _ { \overrightarrow { A A ^ { \prime } } }
 0.825853068032302	toan_11_bt_page_313_1	A _ { k } = ( k ^ { 7 } - k ) : 7
-0.8994140625	toan_11_bt_page_313_2	A _ { k + 1 } : 7
-0.6243896484375	toan_11_bt_page_313_3	( k + 1 ) ^ { 7 } - ( k + 1 ) : 7
-0.9868226051330566	toan_11_bt_page_313_7	A _ { k + 1 } : 7
-0.47730588912963867	toan_11_bt_page_317_2	11
-0.8271484375	toan_11_bt_page_317_5	S
-0.6980419420273165	toan_11_bt_page_319_5	^ { 2 } + 3 ^ { 2 } + 5 ^ { 2 } + \ldots + ( 2 n - 1 ) ^ { 2 } = \frac { n ( 4 n ^ { 2 } - 1 ) } { 3 }
-0.7673163414001465	toan_11_bt_page_320_8	\mapsto u ( n )
-0.29143691062927246	toan_11_bt_page_32_8	1
-0.8394336700439453	toan_11_bt_page_334_2	n : 5
-1	toan_11_bt_page_33_10	x ^ { 2 } + y ^ { 2 } + 2 x - 4 y - 11 = 0
-0.5842456978400481	toan_11_bt_page_33_2	A ^ { \prime } B ^ { \prime } \cdot \vec { A ^ { \prime } C ^ { \prime } } = k ^ { 2 } \vec { A B } \cdot \vec { A C }
-0.9936621134412462	toan_11_bt_page_342_2	u _ { 2 } q
-0.46773195085093144	toan_11_bt_page_344_18	\imath \in N ^ { * }
-0.5737667083740234	toan_11_bt_page_345_5	\left\{ \begin{array} { l } { u _ { 1 } = 1 , u _ { 2 } = 2 } \\ { u _ { n + 1 } = 2 u _ { n } - u _ { n - 1 } + 1 } \end{array} \right.
-0.9460946785399221	toan_11_bt_page_347_17	P _ { r }
-0.45751953125	toan_11_bt_page_35_7	4
-0.85595703125	toan_11_bt_page_35_9	4
-0.7940564537420869	toan_11_bt_page_360_2	| u _ { n }
-0.9776350718457252	toan_11_bt_page_360_9	\operatorname { im } u _ { n } = a
-0.8544921875	toan_11_bt_page_362_5	- 11 < 0,01 \Leftrightarrow - 0,01 < u _ { n } - 1 < 0,01 \Leftrightarrow 0,99 < u _ { n } < 1,01
-1	toan_11_bt_page_363_2	u _ { n } = + \infty
-0.9127149753721824	toan_11_bt_page_363_5	m \frac { 4 n ^ { 2 } - n - 1 } { 3 + 2 n ^ { 2 } } = \lim \frac { 4 - \frac { 1 } { n } - \frac { 1 } { n ^ { 2 } } } { \frac { 3 } { n ^ { 2 } } + 2 } = 2
-0.9278655464975027	toan_11_bt_page_364_4	= \lim \frac { n + 1 } { \sqrt { n ^ { 2 } + n } + \sqrt { n ^ { 2 } - 1 } } = \lim \frac { n ( 1 + \frac { 1 } { n } ) } { n \sqrt { 1 + \frac { 1 } { n } } + n \sqrt { 1 - \frac { 1 } { n ^ { 2 } } } } = \lim \frac { 1 + \frac { 1 } { n } } { \sqrt { 1 + \frac { 1 } { n } } + \sqrt { 1 - \frac { 1 } { n ^ { 2 } } } }
-0.36163973808288574	toan_11_bt_page_364_6	h = a > 0
-0.8659942752402097	toan_11_bt_page_364_7	\ln V _ { n } = + \infty
-0.9026406970007262	toan_11_bt_page_366_13	\operatorname { im } u _ { n } = \lim \frac { n } { n + 1 } = \lim \frac { 1 } { 1 + \frac { 1 } { n } } = 1
+0.8994140625	toan_11_bt_page_313_2	A _ { k + 1 } \vdots 7
+0.6243896484375	toan_11_bt_page_313_3	( k + 1 ) ^ { 7 } - ( k + 1 ) \vdots 7
+0.9868226051330566	toan_11_bt_page_313_7	A _ { k + 1 } \vdots 7
+0.47730588912963867	toan_11_bt_page_317_2	S _ { 1 }
+0.8271484375	toan_11_bt_page_317_5	S _ { 4 }
+0.6980419420273165	toan_11_bt_page_319_5	1 ^ { 2 } + 3 ^ { 2 } + 5 ^ { 2 } + \ldots + ( 2 n - 1 ) ^ { 2 } = \frac { n ( 4 n ^ { 2 } - 1 ) } { 3 }
+0.7673163414001465	toan_11_bt_page_320_8	n \mapsto u ( n )
+0.29143691062927246	toan_11_bt_page_32_8	d _ {2}
+0.8394336700439453	toan_11_bt_page_334_2	n \vdots 5
+1	toan_11_bt_page_33_10	(c) : x ^ { 2 } + y ^ { 2 } + 2 x - 4 y - 11 = 0
+0.5842456978400481	toan_11_bt_page_33_2	\overrightarrow {A ^ { \prime } B ^ { \prime }} . \overrightarrow { A ^ { \prime } C ^ { \prime } } = k ^ { 2 } \overrightarrow { A B } . \overrightarrow { A C }
+0.9936621134412462	toan_11_bt_page_342_2	u _ { 2 } q ^ { 2 }
+0.46773195085093144	toan_11_bt_page_344_18	n \in \mathbb N ^ { * }
+0.5737667083740234	toan_11_bt_page_345_5	( u _ { n } ) : \left\{ \begin{array} { l } { u _ { 1 } = 1 , u _ { 2 } = 2 } \\ { u _ { n + 1 } = 2 u _ { n } - u _ { n - 1 } + 1 } \end{array} \right.
+0.9460946785399221	toan_11_bt_page_347_17	P _ { n }
+0.45751953125	toan_11_bt_page_35_7	\Delta
+0.85595703125	toan_11_bt_page_35_9	\Delta
+0.7940564537420869	toan_11_bt_page_360_2	| u _ { n } |
+0.9776350718457252	toan_11_bt_page_360_9	\lim { u _ { n } } = a
+0.8544921875	toan_11_bt_page_362_5	| u _ { n } - 1 | < 0,01 \Leftrightarrow - 0,01 < u _ { n } - 1 < 0,01 \Leftrightarrow 0,99 < u _ { n } < 1,01
+1	toan_11_bt_page_363_2	\lim {u _ { n }} = + \infty
+0.9127149753721824	toan_11_bt_page_363_5	\lim \frac { 4 n ^ { 2 } - n - 1 } { 3 + 2 n ^ { 2 } } = \lim \frac { 4 - \frac { 1 } { n } - \frac { 1 } { n ^ { 2 } } } { \frac { 3 } { n ^ { 2 } } + 2 } = 2
+0.9278655464975027	toan_11_bt_page_364_4	= \lim \frac { n + 1 } { \sqrt { n ^ { 2 } + n } + \sqrt { n ^ { 2 } - 1 } } = \lim \frac { n ( 1 + \frac { 1 } { n } ) } { n \sqrt { 1 + \frac { 1 } { n } } + n \sqrt { 1 - \frac { 1 } { n ^ { 2 } } } } = \lim \frac { 1 + \frac { 1 } { n } } { \sqrt { 1 + \frac { 1 } { n } } + \sqrt { 1 - \frac { 1 } { n ^ { 2 } } } } = \frac { 1 } { 2 }
+0.36163973808288574	toan_11_bt_page_364_6	\lim v _ { n } = a > 0
+0.8659942752402097	toan_11_bt_page_364_7	\lim { u_ {n} } { v _ { n } } = + \infty
+0.9026406970007262	toan_11_bt_page_366_13	\lim { u _ { n } } = \lim \frac { n } { n + 1 } = \lim \frac { 1 } { 1 + \frac { 1 } { n } } = 1
 0.9111328125	toan_11_bt_page_377_20	x \rightarrow - 2
 0.5348949432373047	toan_11_bt_page_380_22	f ( x ) = \{ \frac { x ^ { 2 } - 2 x - 3 } { x - 3 }
-0.9951193332672119	toan_11_bt_page_384_22	( \sqrt { n ^ { 2 } + 2 n + 1 } - \sqrt { n ^ { 2 } + n - 1 } )
-0.5064231846481562	toan_11_bt_page_389_1	| v _ { n } | = \| u _ { n } \| = | u _ { n }
-0.5378978252410889	toan_11_bt_page_38_6	j
-0.9931671619415283	toan_11_bt_page_390_16	u _ { n } = \lim \frac { 2 ^ { n - 1 } + 1 } { 2 ^ { n - 1 } }
-0.9917097059078515	toan_11_bt_page_390_25	\sin \alpha | < 1
-0.9931700215674937	toan_11_bt_page_390_29	b _ { n } = \sin \alpha + \sin ^ { 2 } \alpha + \ldots + \sin ^ { n } \alpha
-0.99853515625	toan_11_bt_page_391_5	\left\{ \begin{array} { l } { | 1 - a | } \\ { | 1 + a | } \end{array} \right.
-0.9951171875	toan_11_bt_page_391_9	u _ { n }
-0.47362012476592025	toan_11_bt_page_394_17	\lim _ { x \rightarrow \infty } \frac { 1 - \frac { 1 } { x } } { 1 + \sqrt { 1 - \frac { 1 } { x } + \frac { 1 } { x ^ { 2 } } } } = \frac { 1 } { 2 }
-0.8450437746965918	toan_11_bt_page_394_5	= \lim _ { x \rightarrow + \infty } \frac { x \sqrt { 1 - \frac { 3 } { x } } } { x + 2 }
-0.4196576991644821	toan_11_bt_page_397_13	\lim _ { \rightarrow \rightarrow x _ { 0 } } f ( x _ { 0 } ) + \lim _ { x \rightarrow x _ { 0 } } L ( x - x _ { 0 } ) + \lim _ { x \rightarrow x _ { 0 } } ( x - x _ { 0 } ) \cdot \lim _ { x \rightarrow x _ { 0 } } g ( x ) = f ( x _ { 0 } )
+0.9951193332672119	toan_11_bt_page_384_22	\lim ( \sqrt { n ^ { 2 } + 2 n + 1 } - \sqrt { n ^ { 2 } + n - 1 } )
+0.5064231846481562	toan_11_bt_page_389_1	| v _ { n } | = \| u _ { n } \| = | u _ { n } |
+0.5378978252410889	toan_11_bt_page_38_6	d ^ { \prime }
+0.9931671619415283	toan_11_bt_page_390_16	\lim { u _ { n } } = \lim \frac { 2 ^ { n - 1 } + 1 } { 2 ^ { n - 1 } }
+0.9917097059078515	toan_11_bt_page_390_25	| \sin \alpha | < 1
+0.9931700215674937	toan_11_bt_page_390_29	\lim { b _ { n } } = \sin \alpha + \sin ^ { 2 } \alpha + \ldots + \sin ^ { n } \alpha
+0.99853515625	toan_11_bt_page_391_5	= \left\{ \begin{array} { l } { | 1 - a | } \\ { | 1 + a | } \end{array} \right.
+0.9951171875	toan_11_bt_page_391_9	- u _ { n }
+0.47362012476592025	toan_11_bt_page_394_17	= \lim _ { x \rightarrow \infty } \frac { 1 - \frac { 1 } { x } } { 1 + \sqrt { 1 - \frac { 1 } { x } + \frac { 1 } { x ^ { 2 } } } } = \frac { 1 } { 2 }
+0.8450437746965918	toan_11_bt_page_394_5	= \lim _ { x \rightarrow + \infty } \frac { \sqrt [x] { 1 - \frac { 3 } { x } } } { x + 2 }
+0.4196576991644821	toan_11_bt_page_397_13	= \lim _ { x \rightarrow x _ { 0 } } f ( x _ { 0 } ) + \lim _ { x \rightarrow x _ { 0 } } L ( x - x _ { 0 } ) + \lim _ { x \rightarrow x _ { 0 } } ( x - x _ { 0 } ) \cdot \lim _ { x \rightarrow x _ { 0 } } g ( x ) = f ( x _ { 0 } )
 0.4572964302809384	toan_11_bt_page_398_4	= \lim _ { x \rightarrow 1 } ( \sqrt { 2 - x } - 1 ) = - 2
-0.9956097602844238	toan_11_bt_page_39_10	( C )
-0.9498014450073242	toan_11_bt_page_39_12	( C )
+0.9956097602844238	toan_11_bt_page_39_10	( C ^ { \prime } )
+0.9498014450073242	toan_11_bt_page_39_12	( C ^ { \prime } )
 0.3846939065406332	toan_11_bt_page_39_17	x ^ { 2 } + y ^ { 2 } - 2 x ^ { \prime } - 4 y ^ { \prime } - 4 = 0
 0.2505924077514298	toan_11_bt_page_39_2	\left\{ \left. \begin{array} { l } { x ^ { \prime } = x - 2 } \\ { y ^ { \prime } = y + 5 ^ { \prime } } \end{array} \right. \Rightarrow \left\{ \begin{array} { l } { x = x ^ { \prime } + 2 } \\ { y = y ^ { \prime } - 5 } \end{array} \right. \right.
-0.811309814453125	toan_11_bt_page_3_4	( C )
-0.99951171875	toan_11_bt_page_402_5	u _ { n } = a
-0.99951171875	toan_11_bt_page_402_9	u _ { n } = \sqrt { 3 }
-0.3714704910260325	toan_11_bt_page_403_1	\frac { 63 } { 10 } , 2 \cdot \frac { 63 } { 10 ^ { 2 } } , \ldots , 2 \cdot \frac { 63 } { 10 ^ { n - 1 } }
-0.0929619591962817	toan_11_bt_page_403_10	f ( b _ { n } )
+0.811309814453125	toan_11_bt_page_3_4	( C ^ { \prime } )
+0.99951171875	toan_11_bt_page_402_5	\lim { u _ { n } } = a
+0.99951171875	toan_11_bt_page_402_9	\lim { u _ { n } } = \sqrt { 3 }
+0.3714704910260325	toan_11_bt_page_403_1	2 . \frac { 63 } { 10 } , 2 . \frac { 63 } { 10 ^ { 2 } } , \ldots , 2 . \frac { 63 } { 10 ^ { n - 1 } }
+0.0929619591962817	toan_11_bt_page_403_10	\lim { f ( b _ { n } ) }
 0.7934440632921164	toan_11_bt_page_409_11	\left. \begin{array} { l } { \text { khi } x \rightarrow 0 } \\ { x = 0 } \end{array} \right.
 0.4747309684753418	toan_11_bt_page_409_6	x = \pm 0
 0.39359682180229916	toan_11_bt_page_410_19	y = \operatorname { sign } x = \left\{ \begin{array} { r } { 1 } \\ { 0 } \\ { - 1 } \end{array} \right.
-0.755913257598877	toan_11_bt_page_415_20	S ( r )
+0.755913257598877	toan_11_bt_page_415_20	S ^ { \prime } ( r )
 0.9443634624862067	toan_11_bt_page_415_3	f ^ { \prime } ( x ) > 0 \text { vai } f ( x ) = \frac { 1 } { 7 } x ^ { 7 } - \frac { 9 } { 4 } x ^ { 4 } + 8 x - 3
-0.9746858759317547	toan_11_bt_page_418_10	s ^ { 2 } x - 3 \sin ^ { 3 } x - 2 c
-0.33748161792755127	toan_11_bt_page_41_10	d ^ { n }
-0.9858527183532715	toan_11_bt_page_41_15	( C )
-0.9970722198486328	toan_11_bt_page_425_6	\Delta
-0.8994140625	toan_11_bt_page_439_15	\Rightarrow \sin 6 x - \sin 2 x = 0 \Leftrightarrow 2 \cos 4 x \sin 2 x = 0
+0.9746858759317547	toan_11_bt_page_418_10	= 6 \sin x \cos ^ { 2 } x - 3 \sin ^ { 3 } x - 2 \cos x \sin x
+0.33748161792755127	toan_11_bt_page_41_10	d ^ { \prime }
+0.9858527183532715	toan_11_bt_page_41_15	( C ^ { \prime } )
+0.9970722198486328	toan_11_bt_page_425_6	\Delta y
+0.8994140625	toan_11_bt_page_439_15	\Leftrightarrow \sin 6 x - \sin 2 x = 0 \Leftrightarrow 2 \cos 4 x \sin 2 x = 0
 0.6715469360351562	toan_11_bt_page_43_13	\vec { V }
-0.9975595474243164	toan_11_bt_page_443_9	- \cos 4 a \cos 3 a + 2 \cos ^ { 2 } 2 a
-0.8357925415039062	toan_11_bt_page_444_10	n ( 120 ^ { \circ } + 3 x ) - \tan ( 140 ^ { \circ } - x ) = 2 \sin ( 80 ^ { \circ } + 2 x )
-0.9292335510253906	toan_11_bt_page_444_9	s ( \pi + 2 x ) - \sin 2 x \cos ( \frac { \pi } { 2 } - 4 x ) = \frac { \sqrt { 2 } } { 2 } \sin 4 x
-0.733525357691208	toan_11_bt_page_445_15	z _ { n } = n co
-0.7159456901717931	toan_11_bt_page_44_4	J E \| I B
-0.5069437992104174	toan_11_bt_page_451_11	- \alpha ) + \sin ( 30 ^ { \circ } - \alpha ) ] [ \sin ( 45 ^ { \circ } + \alpha ) - \sin ( 30 ^ { \circ } - \alpha ) ] - \sin 15 ^ { \circ } \cos ( 15 ^ { \circ } + 2 \alpha )
-0.08334478142239371	toan_11_bt_page_452_13	
-0.9502193927764893	toan_11_bt_page_452_15	\operatorname { in } C = \sin ( A + B )
-0.9829258918762207	toan_11_bt_page_452_8	a \cos 4 a - \cos 4 a \cos 3 a + 2 \cos ^ { 2 } 2 a
-0.9888026368673763	toan_11_bt_page_455_17	\left\{ \begin{array} { l } { a _ { 1 } + 2 d = - 4 } \\ { a _ { 1 } ( a _ { 1 } + 2 d ) ( a _ { 1 } + 4 d ) = 80 } \end{array} \right.
-0.333359956741333	toan_11_bt_page_455_3	5
-0.996584415435791	toan_11_bt_page_457_4	\lim x _ { n } = + \infty
+0.9975595474243164	toan_11_bt_page_443_9	- \cos 5 a \cos 4 a - \cos 4 a \cos 3 a + 2 \cos ^ { 2 } 2 a \cos a
+0.8357925415039062	toan_11_bt_page_444_10	\tan ( 120 ^ { \circ } + 3 x ) - \tan ( 140 ^ { \circ } - x ) = 2 \sin ( 80 ^ { \circ } + 2 x )
+0.9292335510253906	toan_11_bt_page_444_9	\cos 4 x \cos ( \pi + 2 x ) - \sin 2 x \cos ( \frac { \pi } { 2 } - 4 x ) = \frac { \sqrt { 2 } } { 2 } \sin 4 x
+0.733525357691208	toan_11_bt_page_445_15	z _ { n } = n \cos n \pi
+0.7159456901717931	toan_11_bt_page_44_4	J E / / I B
+0.5069437992104174	toan_11_bt_page_451_11	= [ \sin ( 45 ^ { \circ } + \alpha ) + \sin ( 30 ^ { \circ } - \alpha ) ] [ \sin ( 45 ^ { \circ } + \alpha ) - \sin ( 30 ^ { \circ } - \alpha ) ] - \sin 15 ^ { \circ } \cos ( 15 ^ { \circ } + 2 \alpha )
+0.08334478142239371	toan_11_bt_page_452_13	= 2 \cos a . 2 \cos {3} a \cos a . 2 \sin {3} a sin a 	
+0.9502193927764893	toan_11_bt_page_452_15	\sin C = \sin ( A + B )
+0.9829258918762207	toan_11_bt_page_452_8	- \cos 5 a \cos 4 a - \cos 4 a \cos 3 a + 2 \cos ^ { 2 } 2 a \cos a
+0.9888026368673763	toan_11_bt_page_455_17	\Leftrightarrow \left\{ \begin{array} { l } { a _ { 1 } + 2 d = - 4 } \\ { a _ { 1 } ( a _ { 1 } + 2 d ) ( a _ { 1 } + 4 d ) = 80 } \end{array} \right.
+0.333359956741333	toan_11_bt_page_455_3	9 ^ { 5 }
+0.996584415435791	toan_11_bt_page_457_4	\Rightarrow \lim x _ { n } = + \infty
 0.910063042599924	toan_11_bt_page_458_10	\lim _ { \rightarrow - \infty } ( \sqrt { 2 x ^ { 2 } - 3 } - 5 x ) = \lim _ { x \rightarrow - \infty } [ \sqrt { 2 x ^ { 2 } - 3 } + ( - 5 x ) ] = + \infty
-0.8542346954345703	toan_11_bt_page_460_9	\lim _ { x \rightarrow \frac { \pi } { 2 } 2 ( x - \frac { \pi } { 2 } ) }
-0.99755859375	toan_11_bt_page_46_1	C D
-0.904524564743042	toan_11_bt_page_46_10	( C )
-0.8653807640075684	toan_11_bt_page_46_3	1 : 3 x + 2 y + 6 = 0
-0.2483662906304253	toan_11_bt_page_47_10	11 Q M
-0.7716621493635213	toan_11_bt_page_47_19	A ^ { \prime } C ^ { \prime } \cdot \vec { A ^ { \prime } B ^ { \prime } } = k ^ { 2 } \vec { A C } \cdot \vec { A B }
-0.7446480079392521	toan_11_bt_page_47_20	( \vec { A ^ { \prime } B ^ { \prime } } - p \vec { A ^ { \prime } C ^ { \prime } } ) ^ { 2 } = A ^ { \prime } B ^ { \prime 2 } - 2 p \vec { A ^ { \prime } B ^ { \prime } } \cdot A ^ { \prime } C ^ { \prime } + p ^ { 2 } A ^ { \prime } C ^ { \prime 2 }
+0.8542346954345703	toan_11_bt_page_460_9	\lim _{x \rightarrow \frac{\pi}{2}} \frac{\sin \left(x-\frac{\pi}{2}\right)}{2\left(x-\frac{\pi}{2}\right)}
+0.99755859375	toan_11_bt_page_46_1	\overrightarrow { C D }
+0.904524564743042	toan_11_bt_page_46_10	( C ^ { \prime } )
+0.8653807640075684	toan_11_bt_page_46_3	d _ { 1 } : 3 x + 2 y + 6 = 0
+0.2483662906304253	toan_11_bt_page_47_10	N P / /  Q M
+0.7716621493635213	toan_11_bt_page_47_19	\overrightarrow A ^ { \prime } C ^ { \prime } . \overrightarrow { A ^ { \prime } B ^ { \prime } } = k ^ { 2 } \overrightarrow { A C } . \overrightarrow { A B }
+0.7446480079392521	toan_11_bt_page_47_20	( \overrightarrow { A ^ { \prime } B ^ { \prime } } - p \overrightarrow { A ^ { \prime } C ^ { \prime } } ) ^ { 2 } = A ^ { \prime } B ^ { \prime 2 } - 2 p \overrightarrow { A ^ { \prime } B ^ { \prime } } . \overrightarrow { A ^ { \prime } C ^ { \prime } } + p ^ { 2 } A ^ { \prime } C ^ { \prime 2 }
 0.9712185859680176	toan_11_bt_page_48_13	M _ { 1 } = D _ { I } ( M )
-0.08925476511649322	toan_11_bt_page_50_18	
-0.5874145810009779	toan_11_bt_page_59_2	P Q \| A C
-0.6798542050838705	toan_11_bt_page_59_5	M N \| A C
-0.39110082721983064	toan_11_bt_page_59_6	Q / / M N / / A C
+0.08925476511649322	toan_11_bt_page_50_18	/alpha
+0.5874145810009779	toan_11_bt_page_59_2	P Q / / A C
+0.6798542050838705	toan_11_bt_page_59_5	M N / / A C
+0.39110082721983064	toan_11_bt_page_59_6	P Q / / M N / / A C
 0.8505859375	toan_11_bt_page_5_17	\vec { W }
-0.694781873608008	toan_11_bt_page_5_6	( 0 )
+0.694781873608008	toan_11_bt_page_5_6	( 0 ^ { \prime } )
 0.5660990622696207	toan_11_bt_page_62_1	\left\{ \begin{array} { l } { d \neq ( \alpha ) } \\ { d \| d ^ { \prime } } \\ { d ^ { \prime } \subset ( \alpha ) } \end{array} \right.
-0.11672488914524592	toan_11_bt_page_64_10	\pi / / ( S B C )
-0.1174744277916734	toan_11_bt_page_64_2	
-0.9032941063710496	toan_11_bt_page_67_8	C z \| B y
-0.11852414236046345	toan_11_bt_page_67_9	C _ { z } \| ( A x , B y )
-0.7580794054911166	toan_11_bt_page_69_17	( \alpha ) \| B E
-0.6160591493710399	toan_11_bt_page_69_6	( \alpha ) \| B E
-0.4603874683380127	toan_11_bt_page_6_4	M ^ { \prime } = D _ { d } ( M ) = ( x ^ { \prime } ; y )
-0.32197942459649453	toan_11_bt_page_74_13	( B B ^ { \prime } C ^ { \prime } C )
-0.9951245749834925	toan_11_bt_page_75_12	( E F C )
-0.9078919241437688	toan_11_bt_page_75_2	( A C B )
-0.6394474523311953	toan_11_bt_page_75_3	A B C D \cdot A ^ { \prime } B ^ { \prime } C ^ { \prime } D
-0.1597870202500553	toan_11_bt_page_77_3	( Q ) \Rightarrow a / / b
-0.10843122519019946	toan_11_bt_page_77_4	( Q ) \Rightarrow a / / ( Q )
-0.4648311138153076	toan_11_bt_page_79_12	\alpha
-0.4960972062544897	toan_11_bt_page_79_2	G G ^ { \prime } \| ( A B B ^ { \prime } A ^ { \prime } )
-0.20956983091309667	toan_11_bt_page_79_3	/ / ( B C C ^ { \prime } B ^ { \prime } )
-0.40821155226932226	toan_11_bt_page_81_7	\left\{ \left. \begin{array} { l } { U \in A C } \\ { A C \subset ( A B C ) } \end{array} \right. \Rightarrow Q \in ( A B C ) \right.
-0.998535871389322	toan_11_bt_page_82_17	\Rightarrow I \in ( M N P )
-0.9922117805422646	toan_11_bt_page_83_12	( A ^ { \prime } B ^ { \prime } C )
-0.8229973735418842	toan_11_bt_page_84_6	\left. \begin{array} { l } { A B \subset ( S A B ) } \\ { C D \subset ( S C D ) \Rightarrow ( S A B ) \cap ( S C D ) = S x \text { va� } S x / / A B / / C D } \\ { A B / / C D } \end{array} \right.
-0.818220400849546	toan_11_bt_page_85_1	\left\{ \begin{array} { l } { I J \| A B } \\ { I J \subset ( M I J ) } \\ { A B \subset ( A B D ) } \end{array} \right.
-0.6633645777501442	toan_11_bt_page_85_15	Q N \| A C
-0.11870191013719258	toan_11_bt_page_86_1	11 QS
-0.46784104451003694	toan_11_bt_page_86_12	\left\{ \begin{array} { l } { A D \subset ( J A D ) \Rightarrow ( J A D ) \cap ( S B C ) = M N } \\ { B C - ( S B C ) } \end{array} \right.
-0.9853651490993798	toan_11_bt_page_87_8	E K = \frac { 2 } { 5 } B C = \frac { 2 } { 5 }
+0.11672488914524592	toan_11_bt_page_64_10	O G / / ( S B C )
+0.1174744277916734	toan_11_bt_page_64_2	N P / / S C
+0.9032941063710496	toan_11_bt_page_67_8	C z / / B y
+0.11852414236046345	toan_11_bt_page_67_9	C _ { z } / / ( A x , B y )
+0.7580794054911166	toan_11_bt_page_69_17	( \alpha ) / / B E
+0.6160591493710399	toan_11_bt_page_69_6	( \alpha ) / / B E
+0.4603874683380127	toan_11_bt_page_6_4	M ^ { \prime } = D _ { d } ( M ) = ( x ^ { \prime } ; y ^ { \prime } )
+0.32197942459649453	toan_11_bt_page_74_13	( I G K ) / / ( B B ^ { \prime } C ^ { \prime } C )
+0.9951245749834925	toan_11_bt_page_75_12	( E F C ^ { \prime} )
+0.9078919241437688	toan_11_bt_page_75_2	( A C B ^ { \prime} )
+0.6394474523311953	toan_11_bt_page_75_3	A B C D \cdot A ^ { \prime } B ^ { \prime } C ^ { \prime } D ^ { \prime }
+0.1597870202500553	toan_11_bt_page_77_3	( P ) / / ( Q ) \Rightarrow a / / b
+0.10843122519019946	toan_11_bt_page_77_4	( P ) / / ( Q ) \Rightarrow a / / ( Q )
+0.4648311138153076	toan_11_bt_page_79_12	( \alpha )
+0.4960972062544897	toan_11_bt_page_79_2	G G ^ { \prime } / / ( A B B ^ { \prime } A ^ { \prime } )
+0.20956983091309667	toan_11_bt_page_79_3	( M G G C ^ { \prime } ) / / ( B C C ^ { \prime } B ^ { \prime } )
+0.40821155226932226	toan_11_bt_page_81_7	\left\{ \left. \begin{array} { l } { Q \in A C } \\ { A C \subset ( A B C ) } \end{array} \right. \Rightarrow Q \in ( A B C ) \right.
+0.998535871389322	toan_11_bt_page_82_17	\left\{ \left. \begin{array} { l } { I \in M N } \\ { M N \subset ( M N P ) } \end{array} \right. \Rightarrow I \in ( M N P ) \right.
+0.9922117805422646	toan_11_bt_page_83_12	( A ^ { \prime } B ^ { \prime } C ^ { \prime } )
+0.8229973735418842	toan_11_bt_page_84_6	\left. \begin{array} { l } { A B \subset ( S A B ) } \\ { C D \subset ( S C D ) \Rightarrow ( S A B ) \cap ( S C D ) = S x \text { va } S x / / A B / / C D } \\ { A B / / C D } \end{array} \right.
+0.818220400849546	toan_11_bt_page_85_1	\left\{ \begin{array} { l } { I J / / A B } \\ { I J \subset ( M I J ) } \\ { A B \subset ( A B D ) } \end{array} \right.
+0.6633645777501442	toan_11_bt_page_85_15	Q N / / A C
+0.11870191013719258	toan_11_bt_page_86_1	P R / / Q S
+0.46784104451003694	toan_11_bt_page_86_12	\left\{ \begin{array} { l } { A D / / B C } \\ { A D \subset ( J A D ) \Rightarrow ( J A D ) \cap ( S B C ) = M N } \\ { B C \subset ( S B C ) } \end{array} \right.
+0.9853651490993798	toan_11_bt_page_87_8	\Rightarrow E K = \frac { 2 } { 5 } B C = \frac { 2 } { 5 }
 0.8083252029616883	toan_11_bt_page_88_3	O O ^ { \prime } / / ( A D F )
 0.9975600242614746	toan_11_bt_page_89_18	B C = M M
 0.9888140418763669	toan_11_bt_page_89_2	G N / / S
