@@ -1,4 +1,21 @@
-current working line: 801
+current working line: 2222
 https://www.hostmath.com/
 https://www.codecogs.com/latex/eqneditor.php
 
+Error unsolved:
+0.11142341488852951	toan_3_bt_page_111_1	2684 \quad \frac { 2 } { \dots \dots }
+0.8222769219428301	toan_3_bt_page_111_2	2457 \quad 3
+0.1847235704819775	toan_3_bt_page_111_3	3672 \quad \frac { 4 } { \dots \dots }
+0.5129875963323911	toan_3_bt_page_112_7	\left. \begin{array} { c } { 3535 } \\ { 03 } \\ { 35 } \\ { 0 } \end{array} \right.
+0.34447759388621846	toan_3_bt_page_112_8	\left. \begin{array} { c | c } { 5624 } & { 8 } \\ \hline 024 & { 73 } \\ \hline 0 \end{array} \right.
+0.22689953449060174	toan_3_bt_page_113_1	2768 \quad \frac { 3 } { \dots \dots }
+0.3357385675181009	toan_3_bt_page_113_2	2495 \quad \frac { 4 } { \dots \dots }
+0.08638690957127343	toan_3_bt_page_113_3	3258 \quad \frac { 5 } { \dots }
+0.17009354353091186	toan_3_bt_page_139_1	24684 \frac { 4 } { \dots \dots \dots }
+0.11747140042152632	toan_3_bt_page_139_2	18426 \frac { 3 } { \dots \dots \dots }
+0.6233551211189479	toan_3_bt_page_139_3	25632 | 2
+0.5930147585459054	toan_3_bt_page_140_2	27068 / 6
+0.09560071565506108	toan_3_bt_page_140_3	14789 \quad \frac { 7 } { \dots \dots \dots }
+0.48500079719815403	toan_3_bt_page_141_1	18540 | 2
+0.14622535753861057	toan_3_bt_page_141_2	21421 \frac { 3 } { \dots \dots \dots }
+0.38647618534741923	toan_3_bt_page_141_3	33686 / 4
