@@ -45,11 +45,11 @@ footer = """
 """
 
 number_file = 1
-start_line = 6933
-end_line = 6934
+start_line = 1
+end_line = 6097
 # 30000
-mathpix_file = r"./error4.txt"
-output_file = r"./error4_out_{0}_check.html"
+mathpix_file = r"./error4_crrect.txt"
+output_file = r"./error4_out_{0}__final_check.html"
 
 
 mathpix_file = open(mathpix_file, "r")
@@ -62,10 +62,14 @@ while True:
 
     # split line to image file and latex
     i += 1
-    # if i > end_line or i < start_line:
-    #     continue
+    if i > end_line or i < start_line:
+        continue
+    print("line {}: {} ".format(i, line))
     _tm = line.split("\t")
-    latex = _tm[2].rstrip()
+    if len(_tm) > 2:
+        latex = _tm[2].rstrip()
+    else:
+        latex = ""
     filename = _tm[1]
     html += "<tr><td><textarea>{0}</textarea></td><td> $${1}$$ </td><td><img src=\'./images4/{2}.jpg\'></td>".format(
         line, latex, filename)

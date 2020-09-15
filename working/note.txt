@@ -1,4 +1,4 @@
-current working line: 2222
+current working line: 4550
 https://www.hostmath.com/
 https://www.codecogs.com/latex/eqneditor.php
 
@@ -19,3 +19,111 @@ Error unsolved:
 0.48500079719815403	toan_3_bt_page_141_1	18540 | 2
 0.14622535753861057	toan_3_bt_page_141_2	21421 \frac { 3 } { \dots \dots \dots }
 0.38647618534741923	toan_3_bt_page_141_3	33686 / 4
+0.28891711585841057	toan_3_bt_page_27_5	\left. \begin{array} { c } { 48 } \\ { 4 } \\ { 08 } \\ { 12 } \\ { \frac { 8 } { 0 } } \end{array} \right.
+0.14990587061995964	toan_3_bt_page_29_1	\frac { 18 } { 1 } | \frac { 2 } { 9 }
+0.34884021659204556	toan_3_bt_page_29_10	\frac { 9 } { \frac { 54 } { 0 } }
+0.136971886376975	toan_3_bt_page_29_11	\left. \begin{array} { c | c } { 48 } & { 2 } \\ \hline 4 & { 23 } \\ \hline 08 & { } \\ \hline 6 & { } \\ \hline 2 & { } \end{array} \right.
+0.05121051999696142	toan_3_bt_page_29_12	\left. \begin{array} { l | c } { 96 } & { 3 } \\ \hline 9 & { 32 } \\ \hline 06 & { } \\ \hline 6 & { } \\ \hline 0 & { } \end{array} \right.
+0.8728496129624546	toan_3_bt_page_29_13	\frac { 24 } { 7 } | \frac { 4 } { 6 }
+0.8321442020744563	toan_3_bt_page_29_14	\frac { 28 } { 3 } | \frac { 4 } { 7 }
+0.7666201421352525	toan_3_bt_page_29_15	\frac { 24 } { 1 } | \frac { 3 } { 8 }
+0.7604642147511498	toan_3_bt_page_29_16	\frac { 35 } { 3 } | \frac { 5 } { 7 }
+0.0607040743748295	toan_3_bt_page_29_4	49 / \frac { 6 } { \ldots . . }
+0.07234203364337496	toan_3_bt_page_29_7	32 / \frac { 4 } { \ldots }
+0.2527413455976495	toan_3_bt_page_30_4	\frac { 36 } { 0 } | \frac { 6 } { 6 }
+0.053303488223733354	toan_3_bt_page_30_6	42 / \frac { 2 } { \ldots . . }
+0.07709082108257014	toan_3_bt_page_30_7	99 \frac { 3 } { \dots }
+0.44926511181984097	toan_3_bt_page_31_11	\frac { 27 } { 2 } | \frac { 3 } { 9 }
+0.5515803133282287	toan_3_bt_page_31_13	\frac { 80 } { 0 } | \frac { 4 } { 2 }
+0.8274572749522714	toan_3_bt_page_31_14	\left. \begin{array} { c | c } { 45 } & { 5 } \\ \hline 45 & { 9 } \\ \hline 0 \end{array} \right.
+0.47704325101628126	toan_3_bt_page_31_15	\left. \begin{array} { c | c } { 48 } & { 6 } \\ \hline 42 & { 7 } \\ \hline 6 \end{array} \right.
+0.5398299282057414	toan_3_bt_page_31_16	\frac { 16 } { 3 } | \frac { 2 } { 8 }
+0.07764292722363911	toan_3_bt_page_38_21	42 \frac { 7 } { \dots }
+0.13964136747704156	toan_3_bt_page_38_22	48 \quad \frac { 6 } { \dots }
+0.0631656197815604	toan_3_bt_page_38_23	63 \quad \frac { 7 } { \dots }
+0.07109534009141641	toan_3_bt_page_38_24	35 \quad \frac { 7 } { \dots }
+0.20094611855043712	toan_3_bt_page_38_25	42 \quad \frac { 2 } { \dots }
+0.07043601029208532	toan_3_bt_page_38_26	48 / \frac { 4 } { \dots \dots }
+0.32025507697835565	toan_3_bt_page_38_27	69 \quad 3
+0.09817034470025465	toan_3_bt_page_38_28	50 \quad \frac { 5 } { \dots }
+0.18747371487689243	toan_3_bt_page_41_11	46 \quad \frac { 2 } { \dots }
+0.188448794654627	toan_3_bt_page_41_12	96 \frac { 3 } { \dots }
+0.23389929792967332	toan_3_bt_page_41_13	60 \quad \frac { 3 } { \dots }
+0.07860911411246714	toan_3_bt_page_41_14	88 \frac { 4 } { \dots }
+0.22114450810477138	toan_3_bt_page_47_15	84
+0.52596086403355	toan_3_bt_page_47_16	66
+0.28596232082550466	toan_3_bt_page_66_2	54 \quad \frac { 3 } { \dots }
+0.1311650936426823	toan_3_bt_page_66_3	68 \quad \frac { 4 } { \dots }
+0.11826174765817263	toan_3_bt_page_66_5	90 \frac { 2 } { \dots }
+0.33412396478853135	toan_3_bt_page_66_6	98 / \frac { 3 } { \dots }
+0.2676403625570437	toan_3_bt_page_66_8	87 \frac { 4 } { \dots }
+0.4777232769503843	toan_3_bt_page_67_1	639 \quad \frac { 3 } { \dots }
+0.3498796082116584	toan_3_bt_page_67_3	305 \quad \frac { 5 } { \dots }
+0.17693170622173543	toan_3_bt_page_67_4	179 \quad \frac { 6 } { \dots }
+0.07664359205813916	toan_3_bt_page_68_1	97 \frac { 2 } { \dots }
+0.20661837621622994	toan_3_bt_page_68_2	88 \frac { 3 } { \dots }
+0.32907912200810613	toan_3_bt_page_68_3	93 \quad \frac { 6 } { \dots }
+0.25483036938614895	toan_3_bt_page_69_5	562 \quad \frac { 7 } { \dots }
+0.2371945661063335	toan_3_bt_page_69_6	480 \quad \frac { 8 } { \dots }
+0.26215087724704045	toan_3_bt_page_69_7	243 \quad \frac { 6 } { \dots }
+0.10202747484420761	toan_3_bt_page_69_8	848 / \frac { 4 } { \dots }
+0.09913570058745336	toan_3_bt_page_70_1	\left. \begin{array} { c | c } { 567 } & { 8 } \\ \hline 56 & { 70 } \\ \hline 07 & { } \\ \hline \\ \hline 7 & { } \\ \hline \end{array} \right.
+0.32872201188959177	toan_3_bt_page_70_2	\frac { 35 } { 06 } | \frac { 7 } { 5 }
+0.2826464445167929	toan_3_bt_page_72_9	\left. \begin{array} { c } { 948 } \\ { 14 } & { 4 } \\ { 28 } & { 237 } \\ { 0 } \end{array} \right.
+0.11413162791625074	toan_3_bt_page_86_7	\left. \begin{array} { c } { 874 } \\ { 07 } \\ { 14 } \\ { 0 } \end{array} \right.
+0.7426735556020487	toan_3_page_116_2	\left. \begin{array} { c } { 37648 } \\ { 16 } \\ { 04 } \\ { 9412 } \\ { 08 } \\ { 0 } \end{array} \right.
+0.5428056716918945	toan_3_page_116_4	84848 \quad 4
+0.7285547256469727	toan_3_page_116_5	24693 / 3
+0.47021484375	toan_3_page_116_6	23436
+0.8303756885569356	toan_3_page_117_1	\left. \begin{array} { c } { 28921 } \\ { 09 } \\ { 12 } \\ { 01 } \\ { 1 } \end{array} \right.
+0.26523470878601074	toan_3_page_117_3	12760 \quad 2
+0.37544310092926025	toan_3_page_117_4	18752 \quad 3
+0.69873046875	toan_3_page_117_5	25704 \quad 5
+0.8607922747467521	toan_3_page_118_2	\left. \begin{array} { c } { 12485 } \\ { 04 } \\ { 18 } \\ { 05 } \\ { 2 } \end{array} \right.
+0.39780614257324487	toan_3_page_118_4	14729 \quad 2
+0.9501953125	toan_3_page_118_5	16538 \quad 3
+0.9287455081939697	toan_3_page_118_6	25295 \quad 4
+0.7018177050736181	toan_3_page_126_16	\frac { x ^ { 21 \square } } { \square _ { 44 } }
+0.05957096806096451	toan_3_page_126_18	\left. \begin{array} { r } { 4 \square } \\ { \times \quad 3 } \\ \hline \square \\ \hline \square \end{array} \right.
+0.23937044134433064	toan_3_page_20_5	\left. \begin{array} { c } { 96 } \\ { \frac { 9 } { 06 } } \\ { \frac { 6 } { 0 } } \end{array} \right.
+0.7014298439025879	toan_3_page_22_1	48 | 4
+0.6886693403439459	toan_3_page_22_19	\left. \begin{array} { c | c } { 42 } & { 6 } \\ \hline 42 & { 7 } \\ \hline 0 \end{array} \right.
+0.44219470024108887	toan_3_page_22_2	84 / 2
+0.21384894847869873	toan_3_page_22_3	66 | 6
+0.5007212259806693	toan_3_page_22_4	36 | 3
+0.77218771426314	toan_3_page_23_1	\frac { 8 } { 0 } | \frac { 2 } { 4 }
+0.41739606857299805	toan_3_page_23_10	19 / 3
+0.8245140481740236	toan_3_page_23_11	29 / 6
+0.2173943659872748	toan_3_page_23_12	19 / 4
+0.5535962818170361	toan_3_page_23_13	\frac { 17 } { 2 } | \frac { 5 } { 3 }
+0.5699324845992175	toan_3_page_23_15	\left. \begin{array} { c | c } { 12 } & { 6 } \\ \hline 12 & { 2 } \\ \hline 0 \end{array} \right.
+0.5308272899128497	toan_3_page_23_17	20 / 3
+0.30290418304502964	toan_3_page_23_18	28 / 4
+0.8547733845189214	toan_3_page_23_19	46 / 5
+0.84814453125	toan_3_page_23_20	42 / 6
+0.3335943586995188	toan_3_page_23_4	\frac { 8 } { 1 } | \frac { 2 } { 4 }
+0.49634385108947754	toan_3_page_23_7	2015
+0.5128729343414307	toan_3_page_23_8	15 / 3
+0.689453125	toan_3_page_23_9	24 \quad 4
+0.5977380070886837	toan_3_page_25_1	\left. \begin{array} { c | c } { 20 } & { 3 } \\ \hline 15 & { 5 } \\ \hline 5 \end{array} \right.
+0.10950371761163792	toan_3_page_25_2	\left. \begin{array} { l } { 30 } \\ { \frac { 24 } { 6 } } \end{array} \right.
+0.4982917308807373	toan_3_page_25_3	1712
+0.6921946270158514	toan_3_page_25_4	35 \quad 4
+0.66064453125	toan_3_page_25_5	42 / 5
+0.42616827035089955	toan_3_page_25_6	58 / 6
+0.41195082664489746	toan_3_page_30_21	28 / 7
+0.3359375	toan_3_page_30_22	42 / 7
+0.3770483057014644	toan_3_page_30_23	35 \quad 7
+0.36328125	toan_3_page_30_24	42 \quad 6
+0.9697265625	toan_3_page_30_25	2117
+0.5243898689514026	toan_3_page_30_26	25 \quad 5
+0.3949284553527832	toan_3_page_30_27	1417
+0.9224381446838379	toan_3_page_30_28	49 / 7
+0.5864553451538086	toan_3_page_33_11	7717
+0.7967043655511361	toan_3_page_33_12	99 / 3
+0.31353187561035156	toan_3_page_33_13	8014
+0.7509765625	toan_3_page_33_14	64 \quad 2
+0.3547234535217285	toan_3_page_37_17	2412
+0.49536883569089696	toan_3_page_37_18	93 / 3
+0.9145341203548014	toan_3_page_37_19	88 / 4
+0.7176699638366699	toan_3_page_37_20	69 / 3
