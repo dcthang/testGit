@@ -4540,990 +4540,944 @@
 0.6687734127044678	toan_2_bt_page_86_7	30 + 5 \ldots .53
 0.20351243019104004	toan_2_bt_page_86_8	\Box < 20
 0.93017578125	toan_2_bt_page_86_9	\square > 70
-0.6703046994982437	toan_2_bt_page_87_1	\begin{array}{r} 25 \\ - \quad 43 \\ \hline 68 \end{array}
+0.6703046994982437	toan_2_bt_page_87_1	\begin{array}{r} 25 \\ + \quad 43 \\ \hline 68 \end{array}
 0.9921910762786865	toan_2_bt_page_87_2	15 + \square = 15
 0.364013671875	toan_2_bt_page_87_3	\Box + 24 = 24
-0.17803655710858404	toan_2_bt_page_88_1	\begin{array}{r} 23 \\ - \quad 51 \\ \hline \ldots \end{array}
+0.17803655710858404	toan_2_bt_page_88_1	\begin{array}{r} 23 \\ + \quad 51 \\ \hline \ldots \end{array}
 0.8505859375	toan_2_bt_page_88_10	30 + 20 + 20 = \ldots \ldots
 0.70068359375	toan_2_bt_page_88_11	30 + 40 = \ldots \ldots
-0.3175016077716456	toan_2_bt_page_88_12	\begin{array}{r} 25 \\ - \quad 3 \Box \\ \hline \Box 6 \end{array}
-0.22985573072885054	toan_2_bt_page_88_13	\begin{array}{r} \Box 4 \\ - \quad 32 \\ \hline 6 \Box \end{array}
-0.2660410264810859	toan_2_bt_page_88_14	+ 6 2
-0.0928937186154756	toan_2_bt_page_88_15	\frac { \sqrt { 5 } } { 7 }
-0.323331326267721	toan_2_bt_page_88_2	40 + \quad 19
-0.2421719567421389	toan_2_bt_page_88_3	6 + + \hline 72
-0.3302666700629885	toan_2_bt_page_88_4	64 + \quad 2
-0.858656134797522	toan_2_bt_page_88_5	33 + \quad 3
+0.3175016077716456	toan_2_bt_page_88_12	\begin{array}{r} 25 \\ + \quad 3 \Box \\ \hline \Box 6 \end{array}
+0.22985573072885054	toan_2_bt_page_88_13	\begin{array}{r} \Box 4 \\ + \quad 32 \\ \hline 6 \Box \end{array}
+0.2660410264810859	toan_2_bt_page_88_14	\begin{array}{r} 6 \Box \\ + \quad 24 \\ \hline \Box 4 \end{array}
+0.0928937186154756	toan_2_bt_page_88_15	\begin{array}{r} 5 \Box \\ + \quad \Box 6 \\ \hline 78 \Box \end{array}
+0.323331326267721	toan_2_bt_page_88_2	\begin{array}{r} 40 \\ + \quad 19 \\ \hline \ldots \end{array}
+0.2421719567421389	toan_2_bt_page_88_3	\begin{array}{r} 6 \\ + \quad 72 \\ \hline \ldots \end{array}
+0.3302666700629885	toan_2_bt_page_88_4	\begin{array}{r} 64 \\ + \quad 24 \\ \hline \ldots \end{array}
+0.858656134797522	toan_2_bt_page_88_5	\begin{array}{r} 33 \\ + \quad 3 \\ \hline \ldots \end{array}
 0.5466079711914062	toan_2_bt_page_88_8	40 + 10 + 20 = \dots
-0.6927511375397444	toan_2_bt_page_89_1	1 dm
-0.9713131183525547	toan_2_bt_page_89_11	- 3 d m =
-0.3998751640319824	toan_2_bt_page_89_13	\ldots 8
-0.23883074522018433	toan_2_bt_page_89_14	4
-0.8825544829624457	toan_2_bt_page_89_15	1 dm + 1 dm \ldots .10 cm + 8 cm
-0.6952267229212372	toan_2_bt_page_89_16	1 dm + 1 dm \ldots .10 cm + 12 cm
-0.5593559696779089	toan_2_bt_page_89_17	2 dm \ldots .10 cm + 10 cm
-0.9786288738250732	toan_2_bt_page_89_2	1 dm
-0.6137436482822523	toan_2_bt_page_89_3	1 dm
-0.8563895418319394	toan_2_bt_page_89_4	1 dm + 1 dm = 2 dm
-0.6356093016220257	toan_2_bt_page_89_8	5 dm - 3 dm = 2 dm
-0.44044442573949705	toan_2_bt_page_89_9	am =
+0.6927511375397444	toan_2_bt_page_89_1	1 \operatorname {dm}
+0.9713131183525547	toan_2_bt_page_89_11	49 \operatorname {dm} - 3 \operatorname {dm} =
+0.3998751640319824	toan_2_bt_page_89_13	1 \operatorname {dm} \ldots 8 \operatorname {cm}
+0.23883074522018433	toan_2_bt_page_89_14	1 \operatorname {dm} \ldots 15 \operatorname {cm}
+0.8825544829624457	toan_2_bt_page_89_15	1 \operatorname {dm} + 1 \operatorname {dm} \ldots .10 \operatorname {cm} + 8 \operatorname {cm}
+0.6952267229212372	toan_2_bt_page_89_16	1 \operatorname {dm} + 1 \operatorname {dm} \ldots .10 \operatorname {cm} + 12 \operatorname {cm}
+0.5593559696779089	toan_2_bt_page_89_17	2 \operatorname {dm} \ldots .10 \operatorname {cm} + 10 \operatorname {cm}
+0.9786288738250732	toan_2_bt_page_89_2	1 \operatorname {dm}
+0.6137436482822523	toan_2_bt_page_89_3	1 \operatorname {dm}
+0.8563895418319394	toan_2_bt_page_89_4	1 \operatorname {dm} + 1 \operatorname {dm} = 2 \operatorname {dm}
+0.6356093016220257	toan_2_bt_page_89_8	5 \operatorname {dm} - 3 \operatorname {dm} = 2 \operatorname {dm}
+0.44044442573949705	toan_2_bt_page_89_9	10 \operatorname {dm} - 5 \operatorname {dm} =
 0.4764127731323242	toan_2_bt_page_8_1	4 \times 5 = \ldots
 0.5456879138946533	toan_2_bt_page_8_10	4 \times 10 = \dots
-0.951171875	toan_2_bt_page_8_11	3 \times 10 =
-0.499755859375	toan_2_bt_page_8_12	2 \times 10 =
-0.5416345596313477	toan_2_bt_page_8_13	3 \times 4 = 4 \times 1
+0.951171875	toan_2_bt_page_8_11	3 \times 10 = \ldots
+0.499755859375	toan_2_bt_page_8_12	2 \times 10 = \ldots
+0.5416345596313477	toan_2_bt_page_8_13	3 \times 4 = 4 \times \Box
 0.5915236473083496	toan_2_bt_page_8_2	4 \times 4 = \ldots
 0.5556640625	toan_2_bt_page_8_3	4 \times 3 = \ldots
 0.5736083984375	toan_2_bt_page_8_4	4 \times 1 = \ldots
 0.47414588928222656	toan_2_bt_page_8_5	4 \times 7 = \dots
 0.46651434898376465	toan_2_bt_page_8_6	4 \times 9 = \dots
-0.88818359375	toan_2_bt_page_8_7	4 \times 2 =
+0.88818359375	toan_2_bt_page_8_7	4 \times 2 = \ldots
 0.5995988845825195	toan_2_bt_page_8_8	4 \times 6 = \dots
 0.5409336090087891	toan_2_bt_page_8_9	4 \times 8 = \ldots
-0.3090681030888287	toan_2_bt_page_90_1	1 dm = \ldots . cm
-0.2824505607164069	toan_2_bt_page_90_10	= \ldots \ldots . . dm
-0.7827222280866588	toan_2_bt_page_90_11	9 dm - 4 dm \ldots .40 c
-0.8160095260245726	toan_2_bt_page_90_12	dm + 4 dm
-0.19844038574046863	toan_2_bt_page_90_2	= \quad d n
-0.18788989809363926	toan_2_bt_page_90_3	2 dm = \ldots \ldots cm
-0.07160345515394945	toan_2_bt_page_90_4	3 d m = \dots \dots
-0.30090443722896515	toan_2_bt_page_90_5	5 dm = \ldots \ldots . cm
-0.05005022354981376	toan_2_bt_page_90_6	9 dm = \ldots \ldots cm
-0.2823356830485894	toan_2_bt_page_90_7	20 cm = \ldots \ldots . dm
-0.43481658673945106	toan_2_bt_page_90_8	30 cm = \ldots \ldots . dm
-0.404645100438714	toan_2_bt_page_90_9	50 cm = \ldots \ldots dm
-0.668903972354542	toan_2_bt_page_91_1	\left. \begin{array} { l } { 79 } \\ { 25 } \\ { 54 } \end{array} \right.
-0.36603569984436035	toan_2_bt_page_91_2	\pi
-0.508237719108183	toan_2_bt_page_91_3
+0.3090681030888287	toan_2_bt_page_90_1	1 \operatorname {dm} = \ldots . \operatorname {cm}
+0.2824505607164069	toan_2_bt_page_90_10	90 \operatorname {cm} = \ldots \ldots . . dm
+0.7827222280866588	toan_2_bt_page_90_11	9 \operatorname {dm} - 4 \operatorname {dm} \ldots .40 \operatorname {cm}
+0.8160095260245726	toan_2_bt_page_90_12	1 \operatorname {dm} + 4 \operatorname {dm} \ldots .60 \operatorname {cm}
+0.19844038574046863	toan_2_bt_page_90_2	10 \operatorname {cm} = \ldots \operatorname {dm}
+0.18788989809363926	toan_2_bt_page_90_3	2 \operatorname {dm} = \ldots \ldots \operatorname {cm}
+0.07160345515394945	toan_2_bt_page_90_4	3 \operatorname {dm} = \dots \dots \operatorname {cm}
+0.30090443722896515	toan_2_bt_page_90_5	5 \operatorname {dm} = \ldots \ldots . \operatorname {cm}
+0.05005022354981376	toan_2_bt_page_90_6	9 \operatorname {dm} = \ldots \ldots \operatorname {cm}
+0.2823356830485894	toan_2_bt_page_90_7	20 \operatorname {cm} = \ldots \ldots . \operatorname {dm}
+0.43481658673945106	toan_2_bt_page_90_8	30 \operatorname {cm} = \ldots \ldots . \operatorname {dm}
+0.404645100438714	toan_2_bt_page_90_9	50 \operatorname {cm} = \ldots \ldots \operatorname {dm}
+0.668903972354542	toan_2_bt_page_91_1	\begin{array}{r} 79 \\ - \quad 25 \\ \hline 54 \end{array}
+0.36603569984436035	toan_2_bt_page_91_2	9 \operatorname {dm}
+0.508237719108183	toan_2_bt_page_91_3	5 \operatorname {dm}
 0.486328125	toan_2_bt_page_92_1	80 - 20 - 10 = \dots
-0.96337890625	toan_2_bt_page_92_2	80 - 30 =
+0.96337890625	toan_2_bt_page_92_2	80 - 30 = \ldots
 0.4443359375	toan_2_bt_page_92_3	70 - 30 - 20 = \dots
 0.6246070861816406	toan_2_bt_page_92_4	70 - 50 = \dots
-0.31054124272419464	toan_2_bt_page_94_11	= \ldots \ldots . dm
-0.07653467729427021	toan_2_bt_page_94_12	20 cm = \ldots \ldots . dm
-0.5383276561301036	toan_2_bt_page_94_13	dm = \ldots \ldots cm
-0.573359481432265	toan_2_bt_page_94_14	2 dm = \ldots \ldots cm
-0.21091502610649074	toan_2_bt_page_95_1	31 + + 27
-0.43940123787564234	toan_2_bt_page_95_2	\left. \begin{array} { l } { 68 } \\ { 33 } \\ \hline \end{array} \right.
-0.12222848731196548	toan_2_bt_page_95_3	\left. \begin{array} { r } { 40 } \\ { + \quad 7 } \\ \hline 25 \end{array} \right.
-0.7060403067732263	toan_2_bt_page_95_4	+ 79 77
-0.5810022512118123	toan_2_bt_page_95_5	6 + \quad + 6 \hline 32
+0.31054124272419464	toan_2_bt_page_94_11	10 \operatorname {cm} = \ldots \ldots . \operatorname {dm}
+0.07653467729427021	toan_2_bt_page_94_12	20 \operatorname {cm} = \ldots \ldots . \operatorname {dm}
+0.5383276561301036	toan_2_bt_page_94_13	1 \operatorname {dm} = \ldots \ldots \operatorname {cm}
+0.573359481432265	toan_2_bt_page_94_14	2 \operatorname {dm} = \ldots \ldots \operatorname {cm}
+0.21091502610649074	toan_2_bt_page_95_1	\begin{array}{r} 31 \\ + \quad 27 \\ \hline \ldots \end{array}
+0.43940123787564234	toan_2_bt_page_95_2	\begin{array}{r} 68 \\ - \quad 33 \\ \hline \ldots \end{array}
+0.12222848731196548	toan_2_bt_page_95_3	\begin{array}{r} 40 \\ + \quad 25 \\ \hline \ldots \end{array}
+0.7060403067732263	toan_2_bt_page_95_4	\begin{array}{r} 79 \\ - \quad 77 \\ \hline \ldots \end{array}
+0.5810022512118123	toan_2_bt_page_95_5	\begin{array}{r} 6 \\ + \quad 32 \\ \hline \ldots \end{array}
 0.6028410699218512	toan_2_bt_page_96_1	6 + \ldots . = 10
-0.4176549222700458	toan_2_bt_page_96_10	5 + \quad 5
-0.8917767771051699	toan_2_bt_page_96_11	+ 7 3
-0.9762433036947793	toan_2_bt_page_96_12	+ 1 9
-0.8713785121866958	toan_2_bt_page_96_13	6 + \quad 4
-0.285984572269851	toan_2_bt_page_96_14	10 - \quad 0
-0.59033203125	toan_2_bt_page_96_15	9 + 1 + 2 =
-0.9007529153955147	toan_3_page_4_2	487 + \quad 302
-0.7053966319551819	toan_3_page_4_3	85 + \quad 72
-0.6088628838079286	toan_3_page_4_4	\left. \begin{array} { r } { 108 } \\ { 75 } \end{array} \right.
-0.861328125	toan_3_page_50_10	9 \times 9 =
-0.7052218914031982	toan_3_page_50_11	9 \times 10 =
-0.99951171875	toan_3_page_50_2	9 \times 1 =
-0.78173828125	toan_3_page_50_4	9 \times 3 =
-0.47998046875	toan_3_page_50_5	9 \times 4 =
-0.99951171875	toan_3_page_50_6	9 \times 5 =
-1	toan_3_page_50_7	9 \times 6 =
-1	toan_3_page_50_8	9 \times 7 =
-0.7890625	toan_3_page_50_9	9 \times 8 =
-0.3205293502045175	toan_3_page_51_2	
-0.2874288930324782	toan_3_page_51_3	19,29,5 g
-0.924158508501705	toan_3_page_51_4	0 g , 20 g , 50 g
-0.888671875	toan_3_page_54_9	4009
-1	toan_3_page_56_32	54 : 9 =
-1	toan_3_page_56_33	63 : 9 =
-0.9609746932983398	toan_3_page_56_34	72 : 9 =
-0.9770827190950513	toan_3_page_56_36	90 : 9 =
-0.2720838785171509	toan_3_page_57_11	9015
-0.3900529816746712	toan_3_page_57_13	9117
-0.9990234375	toan_3_page_57_3	72 : 3 =
-0.5572283557872713	toan_3_page_57_5	\left. \begin{array} { l } { 65 } \\ { \frac { 6 } { 05 } } \\ { \frac { 4 } { 1 } } \end{array} \right.
-0.338134765625	toan_3_page_57_7	84 \quad 3
-0.374267578125	toan_3_page_57_9	97 \quad 3
-0.3540750741958618	toan_3_page_58_10	9914
-0.7752748517723765	toan_3_page_58_2	\left. \begin{array} { l } { 78 } \\ { \frac { 4 } { 38 } } \\ { \frac { 36 } { 2 } } \end{array} \right.
-0.46292638778686523	toan_3_page_58_4	77 \quad 2
-0.6884435126557946	toan_3_page_58_7	85 \quad 4
-0.32373046875	toan_3_page_58_8	86 \quad 6
-0.358642578125	toan_3_page_58_9	9717
-0.5231819152832031	toan_3_page_59_10	400 \quad 5
-0.71923828125	toan_3_page_59_11	260 \quad 2
-0.5280623435974121	toan_3_page_59_13	480 \quad 4
-0.5871155261993408	toan_3_page_59_14	725 \quad 6
-0.5566131096509243	toan_3_page_59_15	\left. \begin{array} { c } { 185 } \\ { \frac { 18 } { 05 } } \\ { \frac { 0 } { 5 } } \end{array} \right.
-0.37593418325203026	toan_3_page_59_2	\left. \begin{array} { c } { 560 } \\ { \frac { 56 } { 00 } } \\ { \frac { 0 } { 0 } } \end{array} \right.
-0.4424045563948698	toan_3_page_59_5	\left. \begin{array} { l } { 632 } \\ { \frac { 63 } { 02 } } \\ { \frac { 0 } { 2 } } \end{array} \right.
-0.7304644584655762	toan_3_page_59_7	350 \quad 7
-0.4950714111328125	toan_3_page_59_8	490 \quad 7
-0.80712890625	toan_3_page_59_9	420 \quad 6
-0.7044865620600994	toan_3_page_5_1	+ 567 325
-0.83453369140625	toan_3_page_5_4	- \frac { 100 } { 75 }
-0.87255859375	toan_3_page_5_9	415
-0.564841602958977	toan_3_page_60_2	\left. \begin{array} { l } { 648 } \\ { \frac { 6 } { 04 } } \\ { 216 } \\ { \frac { 3 } { 18 } } \\ { \frac { 18 } { 0 } } \end{array} \right.
-0.3037230543765263	toan_3_page_60_5	\left. \begin{array} { c } { 236 } \\ { \frac { 20 } { 36 } } \\ { \frac { 35 } { 1 } } \end{array} \right.
-0.09685797177985055	toan_3_page_63_1	
-0.2121121883392334	toan_3_page_64_3	x < 4
-0.36759736752770367	toan_3_page_64_4	\left. \begin{array} { c | c } { 948 } & { 4 } \\ \hline 14 & { 237 } \\ { 28 } & { } \\ { 0 } & { } \end{array} \right.
-0.9834063053131104	toan_3_page_66_16	4559
-0.2775161932222545	toan_3_page_73_1	S C =
-0.8515625	toan_3_page_73_2	N =
-0.41183274926375046	toan_3_page_73_3	
-0.18743703172290302	toan_3_page_75_4	3 CIT
-0.5378232002258301	toan_3_page_75_7	1
-0.8505859375	toan_3_page_75_8	31 c
-0.9970703125	toan_3_page_75_9	1
-0.31768957529664243	toan_3_page_76_1	50 m
-0.5030412895416703	toan_3_page_76_5	50 m
-0.501953125	toan_3_page_77_27	945
-0.7886466979980469	toan_3_page_78_16	0 + 9
-0.24932654198892124	toan_3_page_79_5	2 Cn
-0.6253631114959717	toan_3_page_80_1	A B = 4 c
-0.2718945568676645	toan_3_page_80_3	
-0.16745425856035964	toan_3_page_81_6	9509 \ldots .1 kg
-0.09675058321445631	toan_3_page_82_1	
-0.7658362369984388	toan_3_page_82_11	9650 \ldots 965
-0.48779296875	toan_3_page_82_14	6591 \dots 659
-0.9985356330871582	toan_3_page_82_5	579 < 6580
-0.8182955733569626	toan_3_page_83_2	\left. \begin{array} { l } { 3526 } \\ { 2759 } \\ { 6285 } \end{array} \right.
-1	toan_3_page_85_19	472
-0.3057891224931245	toan_3_page_86_2	\frac { - 39652 } { 4735 }
-0.4670963130766759	toan_3_page_86_7	n - 000
-0.970792971784249	toan_3_page_87_5	200
-0.7439164971001446	toan_3_page_87_6	- 2 n
-0.1950909406671214	toan_3_page_87_7	
-0.7521190294670491	toan_3_page_88_10	+ 1072 4
-0.8652045407842346	toan_3_page_88_2	\frac { x ^ { 1034 } } { 2068 }
-0.8086149940774665	toan_3_page_88_5	\frac { x ^ { 2125 } } { 6375 }
-0.6001709531164767	toan_3_page_88_7	+ 1234 2
-0.514537157485871	toan_3_page_88_9	+ 2116 3
-0.8379894117719573	toan_3_page_89_2	\frac { x ^ { 1427 } } { 4281 }
-0.9490717694572486	toan_3_page_89_4	+ 2318 2
-0.80100525084964	toan_3_page_89_6	+ 1317 4
-0.6041856062730606	toan_3_page_89_7	1409
-0.244712233543396	toan_3_page_92_3	3369 \quad 3
-0.22475981712341309	toan_3_page_92_4	2896 \quad 4
-0.707880842102958	toan_3_page_93_13	\left. \begin{array} { c } { 608 } \\ { 008 } \\ { 0 } \end{array} \right.
-0.7837192116363902	toan_3_page_94_2	\left. \begin{array} { c } { 9365 } \\ { 03 } \\ { 06 } \\ { 05 } \\ { 2 } \end{array} \right.
-0.44580078125	toan_3_page_94_9	4159 \quad 5
-0.9833984375	toan_3_page_95_20	0 : 5
-0.41581249237060547	toan_3_page_97_1	1
-0.9990234375	toan_3_page_97_3	127
-0.2976447343826294	toan_3_page_97_4	7
-0.998046875	toan_3_page_97_5	118
-0.9990234375	toan_3_page_97_8	122
-0.9990234375	toan_3_page_98_3	125
-0.78564453125	toan_3_page_98_4	1
-0.7396379665005952	toan_3_page_9_1	6351
-0.9990236759185791	toan_3_page_9_3	50
-0.5058542500482872	toan_3_page_9_4	35 k c
-0.72900390625	toan_4_bt_page_100_10	2
-0.06151003394814188	toan_4_bt_page_100_12	
-0.5689895153045654	toan_4_bt_page_100_13	2
-0.24845116100162043	toan_4_bt_page_100_8	^ { 2 } = \ldots \ldots . . km ^ { 2 }
-0.24845116100162043	toan_4_bt_page_100_8	^ { 2 } = \ldots \ldots . . km ^ { 2 }
-0.5108435824513435	toan_4_bt_page_101_1	4 \square
-0.5540572968311608	toan_4_bt_page_101_3	106
-0.33684414919626704	toan_4_bt_page_102_12	88000351 m ^ { 2 }
-0.8876953125	toan_4_bt_page_102_14	n
-1	toan_4_bt_page_102_15	11
-0.4659746285724964	toan_4_bt_page_102_16	- 5000 m ^ { 2 }
-0.3564453125	toan_4_bt_page_102_17	2
-0.54150390625	toan_4_bt_page_102_18	2
-0.10840471691026989	toan_4_bt_page_102_4	2 = \dots \dots \dots ^ { 2 }
-1	toan_4_bt_page_104_11	12
-0.99951171875	toan_4_bt_page_104_12	12
-0.19874729990936987	toan_4_bt_page_104_2	
-0.427978515625	toan_4_bt_page_104_7	4
-0.24364278204302536	toan_4_bt_page_105_2	
-0.8917212341912091	toan_4_bt_page_105_3	n ^ { 2 }
-1	toan_4_bt_page_106_1	3
-0.0956130902516158	toan_4_bt_page_106_2	
-0.18122224718085858	toan_4_bt_page_106_3	
-1	toan_4_bt_page_106_4	2
-0.99951171875	toan_4_bt_page_116_21	3 \times 4 \times 7
-0.9990234375	toan_4_bt_page_116_23	5 \times 6 \times 7
-0.97705078125	toan_4_bt_page_128_10	\frac { 2 } { 5 } n
-1	toan_4_bt_page_129_5	+ \frac { 7 } { 4 } = \frac { 5 } { 12 } + \frac { 7 \times 3 } { 4 \times 3 } = \frac { 5 } { 12 } + \frac { 21 } { 12 } = \frac { 5 + 21 } { 12 } = \frac { 26 } { 12 } = \frac { 13 } { 6 }
-0.81640625	toan_4_bt_page_140_11	: \frac { 3 } { 5 } = \frac { 2 \times 5 } { 3 } = \frac { 10 } { 3 }
-0.64990234375	toan_4_bt_page_145_3	\frac { 1 } { 2 }
-1	toan_4_bt_page_147_3	14
-0.67431640625	toan_4_bt_page_148_12	12 c
-0.8374224368772332	toan_4_bt_page_148_2	3 D = 6 c
-0.8549807089307251	toan_4_bt_page_148_3	MP = 5
-0.12408560479525477	toan_4_bt_page_148_4	0 = 8
-0.39509026704432326	toan_4_bt_page_148_5	KG = Gcm
-0.99951171875	toan_4_bt_page_150_1	14
-1	toan_4_bt_page_150_10	12
-1	toan_4_bt_page_150_3	24
-0.43609611441547713	toan_4_bt_page_153_2	6 cn
-0.07195878158895762	toan_4_bt_page_155_3	
-0.55908203125	toan_4_bt_page_159_3	31
-0.99755859375	toan_4_bt_page_169_1	1 : 50
-0.27417609699864953	toan_4_bt_page_174_7	\frac { - 64258 } { 6425 }
-0.12601768142576475	toan_4_bt_page_177_7	a \times 3 = \ldots \ldots a
-0.4237796346210554	toan_4_bt_page_17_3	\frac { { 524 } > 68524 } { 6 }
-0.9936623573303223	toan_4_bt_page_185_7	\frac { 4 } { 5 } : \frac { 1 } { 5 } = \frac { 1 } { 5 }
-0.9931640625	toan_4_bt_page_187_2	=
-0.98974609375	toan_4_bt_page_187_4	=
-0.10325991701377457	toan_4_bt_page_188_4	
-0.5814439172122547	toan_4_bt_page_18_7	141 c
-0.2210352465755717	toan_4_bt_page_190_10	n ^ { 2 } = \ldots \ldots \ldots \ldots \ldots cm ^ { 2 }
-0.15915461136453551	toan_4_bt_page_190_17	1 ^ { 2 } = \ldots \ldots m ^ { 2 }
-0.33352984451423884	toan_4_bt_page_190_23	000 cm ^ { 2 } = \ldots \ldots \ldots m ^ { 2 }
-0.12449365696492612	toan_4_bt_page_190_24	48 dm ^ { 2 } = \ldots \ldots m ^ { 2 } \ldots \ldots . dm ^ { 2 }
-0.05250459034315569	toan_4_bt_page_190_8	4 m ^ { 2 } = \dots \dots \dots \dots . . . m ^ { 2 }
-0.40824737853079984	toan_4_bt_page_192_3	
-0.311279296875	toan_4_bt_page_192_4	y
-0.18025961239643423	toan_4_bt_page_193_1	111 am ^ { 2 }
-0.81396484375	toan_4_bt_page_193_2	m ^ { 2 }
-0.986328125	toan_4_bt_page_193_4	m ^ { 2 }
-0.4767887153138872	toan_4_bt_page_194_1	cm
-0.5524475151057917	toan_4_bt_page_194_2	A G = \dots \dots \dots
-0.16513399073374083	toan_4_bt_page_194_3	E C = \dots \dots \dots
-0.10094791674262556	toan_4_bt_page_194_4	
-0.28979125173519715	toan_4_bt_page_199_8	1 \ln m ^ { 2 }
-0.818666934967041	toan_4_bt_page_20_16	- 172 d a g =
-0.2394535222677106	toan_4_bt_page_20_2	10 g = \ldots \ldots \ldots . .
-0.45085380258634705	toan_4_bt_page_20_3	1 hg = \ldots \ldots \ldots . .
-0.0920537733025366	toan_4_bt_page_20_6	7 h g = \dots \dots \dots
-0.4164359449061092	toan_4_bt_page_20_7	4 kg = \ldots \ldots \ldots .
-0.20897674560546875	toan_4_bt_page_24_2	1340
-0.9297538705638999	toan_4_bt_page_2_1	+ 65321 26385
-0.7027559406124055	toan_4_bt_page_2_2	+ 82100 3001
-0.4336017914704189	toan_4_bt_page_2_3	+ 2623 4
-0.261416425115599	toan_4_bt_page_2_7	
-0.4921936610477733	toan_4_bt_page_34_1	45 kr
-0.99853515625	toan_4_bt_page_35_3	- 989
-0.5471353475559226	toan_4_bt_page_36_1	+ 38726 40954
-0.937138006105211	toan_4_bt_page_36_3	+ 8300 516
-0.6130080313021524	toan_4_bt_page_36_4	+ 92714 25091
-0.856560090497851	toan_4_bt_page_3_2	+ 83379 52441
-0.5263671875	toan_4_bt_page_41_12	a
-1	toan_4_bt_page_44_1	47985 + 268
-0.6083462027146425	toan_4_bt_page_44_4	- 000
-0.7193841881912704	toan_4_bt_page_4_25	
-0.6845703125	toan_4_bt_page_55_7	4
-0.7500712557138244	toan_4_bt_page_58_1	+ 13724 3
-0.45957367336825466	toan_4_bt_page_58_2	28503
-0.18846829990936068	toan_4_bt_page_58_3	+ 39405 \hline 6
-0.629575252532959	toan_4_bt_page_59_12	1000 =
-0.99951171875	toan_4_bt_page_59_28	1000 \times 10 =
-0.08106055896377029	toan_4_bt_page_5_15	
-0.75732421875	toan_4_bt_page_5_16	13
-0.951837370172143	toan_4_bt_page_60_2	34 \times ( 4 + 5 ) = 9 \times 1
-0.8172682909917838	toan_4_bt_page_62_2	+ 4300 200
-0.057662791077906506	toan_4_bt_page_62_7	x \times 5 < 210
-0.5712890625	toan_4_bt_page_63_1	2
-1	toan_4_bt_page_63_2	2
-0.09171378642151506	toan_4_bt_page_63_3	6 m ^ { 2 } = \dots \dots \dots \dots
-0.08985523127707228	toan_4_bt_page_63_4	n ^ { 2 } = \ldots \ldots \ldots \ldots . . m ^ { 2 }
-1	toan_4_bt_page_64_1	2
-0.14081358010022382	toan_4_bt_page_64_10	^ { 2 } = \ldots \ldots \ldots . cm ^ { 2 }
-0.19573971382893826	toan_4_bt_page_64_11	^ { 2 } = \ldots \ldots \ldots . d m ^ { 2 }
-0.752301495985296	toan_4_bt_page_64_12	955 cm ^ { 2 }
-0.9305787086486816	toan_4_bt_page_64_13	2
-0.2805839517743963	toan_4_bt_page_64_2	110 + 2
-0.315673828125	toan_4_bt_page_64_3	x
-1	toan_4_bt_page_64_5	2
-0.233092368666893	toan_4_bt_page_64_7	^ { 2 } = \ldots \ldots . . d m ^ { 2 }
-0.13397243963113192	toan_4_bt_page_64_8	^ { 2 } = \ldots \ldots \ldots . . cm ^ { 2 }
-0.24920771196124228	toan_4_bt_page_71_5	\left. \begin{array} { r } { \frac { x } { 1092 } } \\ { \frac { 302 } { 1638 } } \\ { 164892 } \end{array} \right.
-0.599973265780136	toan_4_bt_page_74_4	n ^ { 2 } = \ldots d m ^ { 2 }
-1	toan_4_bt_page_78_2	90 : 8
-0.24554848277650168	toan_4_bt_page_82_5	50 n \cdot 10 n
-0.99951171875	toan_4_bt_page_87_5	+ 1
-0.9990234375	toan_4_bt_page_87_6	365 + 1825 : 365 =
-0.7980508804321289	toan_4_bt_page_87_7	+ 3780 ) : 252 =
-1	toan_4_bt_page_87_8	+ 3
-0.9185190091375262	toan_4_bt_page_90_3	0 : 157
-0.9990234375	toan_4_bt_page_92_1	526
-0.9990234375	toan_4_bt_page_92_2	310866 : 238
-0.99951171875	toan_4_bt_page_94_1	3
-0.7421875	toan_4_bt_page_98_19	\square
-0.736879103933461	toan_4_bt_page_98_20	\frac { 47 } { 3 }
-0.09757898424868472	toan_4_bt_page_98_3	\frac { 1 } { 618 }
-0.9224548076745123	toan_4_bt_page_98_4	4 \square
-0.7035867307567969	toan_4_bt_page_99_1	106
-0.8530326213221997	toan_5_bt_page_100_2	0 : 6
-0.9336259365081787	toan_5_bt_page_100_6	\times 6 : 100
-0.6576857966581799	toan_5_bt_page_101_1	127, + 84 824,46
-0.4643933865485028	toan_5_bt_page_101_2	314, + 18 279,3
-0.8107991308065721	toan_5_bt_page_101_5	76,68 \times 7
-0.26124937634508516	toan_5_bt_page_103_2	4 Crr
-0.932347297668457	toan_5_bt_page_103_6	43
-0.8602302200160921	toan_5_bt_page_105_2	10,2 n
-0.9365234375	toan_5_bt_page_105_3	1
-1	toan_5_bt_page_105_4	3
-0.3427383421319289	toan_5_bt_page_107_3	4,2 kn
-0.24647998809814453	toan_5_bt_page_107_4	7
-0.47101601207458765	toan_5_bt_page_107_5	0,42 kr
-0.3859322114207746	toan_5_bt_page_108_2	nH =
-0.266190324865182	toan_5_bt_page_110_18	
-1	toan_5_bt_page_111_4	12
-0.8579792976379395	toan_5_bt_page_112_1	n ^ { 2 }
-0.057108085406298414	toan_5_bt_page_113_1	C \cap P ^ { 2 }
-0.38555383682250977	toan_5_bt_page_114_11	x
-0.50830078125	toan_5_bt_page_114_16	6 \pi
-0.14573397923576348	toan_5_bt_page_114_17	
-0.9838943481445312	toan_5_bt_page_114_19	70,5
-0.9985356330871582	toan_5_bt_page_114_4	13
-0.92724609375	toan_5_bt_page_114_6	4
-0.3997070789337158	toan_5_bt_page_114_9	x
-0.9713548282161355	toan_5_bt_page_115_1	2,2 d
-0.9479415416717529	toan_5_bt_page_116_1	0 n
-0.994145393371582	toan_5_bt_page_117_2	1
-0.15878891944885254	toan_5_bt_page_117_6	0,4 ^ { \prime }
-0.99462890625	toan_5_bt_page_117_9	40
-0.510481595993042	toan_5_bt_page_119_1	6,28 n
-0.8855140649723126	toan_5_bt_page_119_2	884
-0.9228515625	toan_5_bt_page_120_1	2
-0.9985356330871582	toan_5_bt_page_120_2	0,2
-0.8940944671630859	toan_5_bt_page_120_4	8,2 c
-0.9922058454276339	toan_5_bt_page_121_1	40,8
-0.21780877779724506	toan_5_bt_page_122_6	0.785 d m ^ { 2 }
-0.93896484375	toan_5_bt_page_122_7	2
-0.187279704521643	toan_5_bt_page_122_9	Im ^ { 2 }
-0.9960968487430364	toan_5_bt_page_123_1	6,26 cm ^ { 2 }
-0.9921998921781778	toan_5_bt_page_123_2	6 cm ^ { 2 }
-0.09843477261462787	toan_5_bt_page_123_6	
-0.998046875	toan_5_bt_page_123_8	2
-0.206518292427063	toan_5_bt_page_125_1	W = 14 m
-0.9497651888523251	toan_5_bt_page_125_4	4 M = 12 n
-0.98681640625	toan_5_bt_page_125_5	=
-0.9956090442137793	toan_5_bt_page_129_15	1,2 n
-0.46690228132775213	toan_5_bt_page_12_1	1 dm = \ldots \ldots \ldots
-0.18262852017929165	toan_5_bt_page_12_3	= \ldots \ldots .
-0.21082184809508128	toan_5_bt_page_12_4	= \dots \dots . .
-0.3027346663956957	toan_5_bt_page_12_5	
-0.1094852251986822	toan_5_bt_page_12_6	2 d m = \dots
-0.5305765815277255	toan_5_bt_page_132_10	3 d r
-0.7632217407226562	toan_5_bt_page_132_11	5 m
-0.43192010277335824	toan_5_bt_page_133_5	51 cm ^ { 2 }
-0.1305765620778948	toan_5_bt_page_133_6	916 am ^ { 2 }
-0.9794921875	toan_5_bt_page_134_4	4
-0.5132151646516845	toan_5_bt_page_134_5	16 a m ^ { 2 }
-0.24362447749640376	toan_5_bt_page_136_10	
-0.23512870073318481	toan_5_bt_page_136_8	x
-0.7210661256685853	toan_5_bt_page_136_9	5 cm
-1	toan_5_bt_page_137_2	3
-0.93994140625	toan_5_bt_page_137_3	3
-0.8364447022790631	toan_5_bt_page_139_12	2020 cm ^ { 3 } \ldots 2,0
-0.3066655878136544	toan_5_bt_page_139_15	3 n > m ^ { 3 }
-0.40636539459228516	toan_5_bt_page_139_16	x
-0.0666504877510784	toan_5_bt_page_139_18	3
-0.15338318775319043	toan_5_bt_page_139_4	= \dots \dots \dots \dots
-0.059707625458323595	toan_5_bt_page_139_5	3 = \ldots . . dm ^ { 3 } \ldots \ldots \ldots . cm ^ { 3 }
-0.15914440608832248	toan_5_bt_page_139_8	^ { 3 } = \ldots \ldots \ldots . . dm ^ { 3 }
-0.09137624438120967	toan_5_bt_page_139_9	= \dots \dots \dots \dots
-0.48285649773974404	toan_5_bt_page_13_7	\frac { 64 } { \text { on } }
-1	toan_5_bt_page_140_10	3
-0.59521484375	toan_5_bt_page_140_12	3
-0.17908303148007193	toan_5_bt_page_140_19	12 m ^ { 3 } =
-0.8682992111425847	toan_5_bt_page_140_4	80 m ^ { 3 } =
-1	toan_5_bt_page_140_6	3
-0.9622030818668463	toan_5_bt_page_140_7	15 cm ^ { 3 }
-0.99951171875	toan_5_bt_page_140_8	3
-0.45999685988621597	toan_5_bt_page_141_5	
-0.865234375	toan_5_bt_page_143_4	r
-0.4775390625	toan_5_bt_page_144_1	0,15 \pi
-0.93994140625	toan_5_bt_page_144_2	1
-0.80810546875	toan_5_bt_page_145_1	3,5
-0.4274747288945946	toan_5_bt_page_145_4	2 cn
-0.48495736119452615	toan_5_bt_page_147_3	100 m ^ { 3 }
-0.612420825819933	toan_5_bt_page_147_4	150 m ^ { 3 }
-0.14545917263047978	toan_5_bt_page_149_2	\int _ { 0 } ^ { A } \frac { B } { 0 }
-0.5758667124395299	toan_5_bt_page_14_8	3 dm = 9 m + \frac { 3 } { 10 } m = 9 \frac { 3 } { 10 } m
-0.6462438618764281	toan_5_bt_page_151_3	A D = 30 c
-0.44450607312398194	toan_5_bt_page_152_3	
-0.5577318411269516	toan_5_bt_page_153_2	12 cn
-0.1282056108271784	toan_5_bt_page_153_3	
-1	toan_5_bt_page_153_5	2
-0.9990234375	toan_5_bt_page_153_6	2
-0.9138991856016219	toan_5_bt_page_153_7	n ^ { 2 }
-0.48193359375	toan_5_bt_page_155_1	4
-0.8218510582173622	toan_5_bt_page_171_1	( km )
-0.9970703125	toan_5_bt_page_171_2	12,6 k
-0.9191381181590259	toan_5_bt_page_172_1	279
-0.9619140625	toan_5_bt_page_172_2	5
-0.8366636456921697	toan_5_bt_page_172_3	25
-0.9970724578015506	toan_5_bt_page_172_6	11,25
-0.99951171875	toan_5_bt_page_172_7	144,75
-1	toan_5_bt_page_172_8	32
-0.38617157918229283	toan_5_bt_page_174_1	
-0.3934657573699951	toan_5_bt_page_174_2	1
-0.99560546875	toan_5_bt_page_175_1	14
-0.5267724990844727	toan_5_bt_page_182_10	\frac { 3 } { 4 } = -
-0.46465039253234863	toan_5_bt_page_182_11	\frac { 2 } { 7 } = -
-0.09986621994017511	toan_5_bt_page_182_19	\frac { 2 } { 3 } = \dots \dots \dots \dots
-0.5782011188566685	toan_5_bt_page_182_2	\frac { 15 } { 35 } = -
-0.3180490750382887	toan_5_bt_page_182_24	\frac { 1 } { \frac { 1 } { 4 } \cdots \frac { 2 } { 4 } }
-0.585538387298584	toan_5_bt_page_182_3	\frac { 12 } { 18 } = -
-0.353515625	toan_5_bt_page_182_4	\frac { 9 } { 12 } =
-0.5808162689208984	toan_5_bt_page_183_10	\frac { 5 } { 7 } = -
-0.27417917894005245	toan_5_bt_page_183_11	. . . .
-0.5413990020751953	toan_5_bt_page_183_13	\frac { 4 } { 5 } = -
-0.4526323108041197	toan_5_bt_page_187_12	
-0.97119140625	toan_5_bt_page_187_13	m
-0.07652024046694805	toan_5_bt_page_187_15	k
-0.6034943321719766	toan_5_bt_page_187_16	
-0.7108029280789196	toan_5_bt_page_187_17	
-0.99267578125	toan_5_bt_page_187_20	=
-0.987326611764729	toan_5_bt_page_187_21	= 0
-0.980982780456543	toan_5_bt_page_187_22	-
-0.9956111889332533	toan_5_bt_page_188_15	= 2
-0.58740234375	toan_5_bt_page_188_17	= 10,38 \ldots
-1	toan_5_bt_page_188_20	= 0,591
-0.5875143369034619	toan_5_bt_page_188_4	1 km = \ldots \ldots \ldots
-0.3298085292210294	toan_5_bt_page_188_6	1 kg = \ldots \ldots . .
-0.13912654012508352	toan_5_bt_page_189_17	1,5 kg = \ldots \ldots \ldots .
-0.18856443368868805	toan_5_bt_page_189_18	75 cm = \ldots \ldots \ldots \ldots
-0.117734700600629	toan_5_bt_page_189_2	= \dots \dots \dots \dots
-0.13609835552057503	toan_5_bt_page_189_3	= \dots \dots , \dots , \dots
-0.11027607409021534	toan_5_bt_page_189_4	= \dots \dots , \dots , \dots
-0.1292366643601035	toan_5_bt_page_189_6	75 m \quad = \dots \dots , \dots \dots
-0.23449295668309825	toan_5_bt_page_189_8	= \dots \dots \dots , \dots
-0.08170240641603836	toan_5_bt_page_190_12	8,975 m ^ { 3 } = \dots \dots \dots \dots
-0.2492996180307554	toan_5_bt_page_190_18	1 m ^ { 3 } = \dots \dots \dots \dots
-0.06988791546235854	toan_5_bt_page_190_2	^ { 2 } = \ldots \ldots \ldots \ldots \ldots m ^ { 2 }
-0.3585466039246633	toan_5_bt_page_191_12	1 m ^ { 2 } = \ldots \ldots \ldots \ldots \ldots m ^ { 2 }
-0.12057288245222682	toan_5_bt_page_191_15	1 m ^ { 2 } = \dots \dots \dots \dots
-0.1590312565966781	toan_5_bt_page_191_16	1 km ^ { 2 } = \ldots \ldots \ldots \ldots . . .
-0.12948545524471086	toan_5_bt_page_191_17	1 km ^ { 2 } = \ldots \ldots \ldots \ldots \ldots
-0.3499369675216126	toan_5_bt_page_191_19	1 m ^ { 2 } = \dots \dots \dots
-0.8760412844744678	toan_5_bt_page_191_2	hm
-0.20810066758749718	toan_5_bt_page_191_20	= \dots \dots \dots \dots
-0.4241023608483374	toan_5_bt_page_191_24	n ^ { 2 } = \dots
-0.99169921875	toan_5_bt_page_191_3	m ^ { 2 }
-0.8801709483377635	toan_5_bt_page_191_8	
-0.18204485374729162	toan_5_bt_page_192_16	3 . . .1 dm ^ { 3 }
-1	toan_5_bt_page_192_18	25
-0.11870345494150868	toan_5_bt_page_192_2	= \dots \dots \dots \dots , m ^ { 3 }
-0.6141576274748104	toan_5_bt_page_192_20	4 Kg
-0.11921149732668981	toan_5_bt_page_192_7	25 d m ^ { 3 } = \dots \dots \dots
-0.18103047179122306	toan_5_bt_page_192_8	220 cm ^ { 3 } = \ldots \ldots \ldots . . dm ^ { 3 }
-0.99755859375	toan_5_bt_page_193_2	35 \%
-0.845703125	toan_5_bt_page_195_5	50 \%
-0.979656990107588	toan_5_bt_page_195_6	869, + 577 97,845
-0.7444935770930294	toan_5_bt_page_195_8	256, + 8 397,4
-0.6008201168479228	toan_5_bt_page_195_9	+ 295674 859706
-0.9990234375	toan_5_bt_page_196_12	\frac { 2 } { 7 } =
-0.99951171875	toan_5_bt_page_196_13	2 - \frac { 3 } { 1 } =
-0.8539879746967927	toan_5_bt_page_196_14	15 - 11
-0.10280707274986928	toan_5_bt_page_196_2	x = \dots \dots + \dots
-0.9325631875544786	toan_5_bt_page_196_9	70, + 014 9,268
-0.24336892514628428	toan_5_bt_page_197_5	
-0.950783977933952	toan_5_bt_page_198_2	+ 7285 302
-0.44723587008964444	toan_5_bt_page_198_4	21, + 63 2,04
-0.7114425769709553	toan_5_bt_page_198_5	92, + 05 0,05
-0.45106540994274325	toan_5_bt_page_1_7	: 9 = \dots \dots \dots
-1	toan_5_bt_page_203_5	\frac { 5 } { 11 } =
-0.98974609375	toan_5_bt_page_204_10	: 5 = 0,4 = 40 \%
-0.99560546875	toan_5_bt_page_204_5	30 \%
-0.42796028596285396	toan_5_bt_page_204_7	8 = \dots \dots
-0.9946370096877217	toan_5_bt_page_205_2	- 78,2 \%
-0.10969662666320801	toan_5_bt_page_207_1	\pi m
-0.7413370609283447	toan_5_bt_page_210_1	m
-0.90234375	toan_5_bt_page_213_7	6
-0.26159095764160156	toan_5_bt_page_214_1	x
-0.05533145647249161	toan_5_bt_page_214_2	\left. \begin{array} { | c | c | } \hline & { } \\ \hline \\ \hline \\ \hline 10 cm \\ \hline \end{array} \right.
-1	toan_5_bt_page_215_3	2
-0.6568561634068153	toan_5_bt_page_217_1	
-0.4548377178252849	toan_5_bt_page_217_7	
-0.9741334915161133	toan_5_bt_page_218_1	4,5
-0.998046875	toan_5_bt_page_218_2	31,5
-0.2568359375	toan_5_bt_page_219_3	8
-0.64990234375	toan_5_bt_page_221_5	1
-0.9243345211049158	toan_5_bt_page_224_1	26, + 84 3,4
-0.8710501511409926	toan_5_bt_page_224_2	409,5 \times \quad 04
-0.057025393944649665	toan_5_bt_page_224_4	19,152 \quad \frac { 5,32 } { 1 . . . . . . . }
-0.65283203125	toan_5_bt_page_226_9	0,3 \pi
-1	toan_5_bt_page_230_5	3
-0.09807415580765677	toan_5_bt_page_230_7	\left. \begin{array} { | c | c | } \hline 10 cm & { 10 cm } \\ \hline & { 10 cm } \\ \hline & { 10 cm } \\ \hline & { } \\ \hline \end{array} \right.
-0.4831131866241392	toan_5_bt_page_26_3	km = \ldots \ldots \ldots \ldots hm
-0.2565050877024516	toan_5_bt_page_26_4	= \dots \dots \dots \dots
-0.4002513968524909	toan_5_bt_page_26_5	1 dm = \ldots \ldots \ldots \ldots
-0.617170320975165	toan_5_bt_page_26_7	1 hm = \ldots \ldots \ldots \ldots
-0.4113710477124073	toan_5_bt_page_26_8	= \dots \dots
-0.1494590747483479	toan_5_bt_page_27_10	= \ldots \ldots \ldots \ldots
-0.1808743249613802	toan_5_bt_page_27_14	1372 cm = \ldots \ldots . . cm
-0.27512984979575583	toan_5_bt_page_27_16	= \dots \dots \dots
-0.99951171875	toan_5_bt_page_27_17	17
-0.36095726148748786	toan_5_bt_page_27_3	= \dots \dots \dots
-0.12014482966714908	toan_5_bt_page_27_4	= \ldots \ldots \ldots \ldots
-0.11963948714091242	toan_5_bt_page_27_5	= \dots \dots \dots \dots .
-0.2709202973004075	toan_5_bt_page_27_6	247 km = \ldots \ldots \ldots . .
-0.2938353335886558	toan_5_bt_page_27_7	= \dots \dots \dots \dots
-0.4327782515338896	toan_5_bt_page_27_8	= \dots \dots \dots
-0.34396902001158947	toan_5_bt_page_27_9	= \dots \dots \dots \dots
-0.11429157293374459	toan_5_bt_page_28_4	= \dots \dots \dots
-0.86083984375	toan_5_bt_page_30_1	2
-0.126659945982142	toan_5_bt_page_30_15	\operatorname { dam } ^ { 2 } = \ldots \ldots . . hm ^ { 2 }
-0.05840553564562489	toan_5_bt_page_30_19	2 \text { nan } 2
-0.5445317054458827	toan_5_bt_page_30_20	27 n m ^ { 2 }
-0.25444312748732045	toan_5_bt_page_30_21	2 - x ^ { 2 }
-0.19514576278510415	toan_5_bt_page_30_7	2 = \ldots \ldots . . hm ^ { 2 }
-0.10267640182689214	toan_5_bt_page_30_9	^ { 2 } 5 m ^ { 2 } = \dots \dots \dots
-0.4192822187488039	toan_5_bt_page_32_1	93 m m ^ { 2 }
-0.1370168575698155	toan_5_bt_page_32_15	2 = \ldots \ldots \ldots \ldots km ^ { 2 }
-0.394287876926591	toan_5_bt_page_32_16	= \ldots \ldots \ldots \ldots m ^ { 2 }
-0.7734375	toan_5_bt_page_32_2	9
-0.3645663113370349	toan_5_bt_page_32_20	\eta ^ { 2 } = \ldots \ldots \ldots \ldots cm ^ { 2 }
-0.23427471248214715	toan_5_bt_page_32_3	
-0.20389499362673602	toan_5_bt_page_32_7	8 h m ^ { 2 } = \dots \dots \dots \dots ^ { 2 }
-0.14819382982258827	toan_5_bt_page_32_8	2 = \ldots \ldots \ldots \ldots cm ^ { 2 }
-0.20518857684459021	toan_5_bt_page_32_9	2 = \ldots \ldots \ldots m ^ { 2 }
-0.5116141176040401	toan_5_bt_page_33_10	2 \ldots 8 d m ^ { 2 } 10 m m ^ { 2 }
-0.2142852544784546	toan_5_bt_page_33_14	x
-0.17796636471757665	toan_5_bt_page_33_2	20
-0.8199294451400081	toan_5_bt_page_33_3	27 d m ^ { 2 }
-0.6566052823854989	toan_5_bt_page_33_4	13 d m ^ { 2 }
-1	toan_5_bt_page_33_7	2
-0.9536928927991539	toan_5_bt_page_34_1	3
-0.97314453125	toan_5_bt_page_34_12	2 =
-0.9727415168090888	toan_5_bt_page_34_17	26 km ^ { 2 }
-0.05677459917140216	toan_5_bt_page_34_2	
-0.493249932622038	toan_5_bt_page_34_3	
-0.998046875	toan_5_bt_page_34_5	=
-0.99951171875	toan_5_bt_page_34_7	=
-0.9951171875	toan_5_bt_page_34_8	2 =
-0.09359926730198373	toan_5_bt_page_35_1	= \ldots \ldots \ldots \ldots m ^ { 2 }
-0.26909282600839973	toan_5_bt_page_35_10	^ { 2 } = \ldots \ldots \ldots \ldots . .
-0.13160947626604522	toan_5_bt_page_35_11	= \ldots \ldots \ldots \ldots . km ^ { 2 }
-0.6953710014931858	toan_5_bt_page_35_12	km ^ { 2 }
-1	toan_5_bt_page_35_16	44
-0.33670877338088395	toan_5_bt_page_35_17	
-0.354215913010629	toan_5_bt_page_35_6	= \ldots \ldots \ldots \ldots m ^ { 2 }
-0.36181640625	toan_5_bt_page_36_5	4
-0.78369140625	toan_5_bt_page_37_1	1
-1	toan_5_bt_page_37_3	2
-1	toan_5_bt_page_38_1	2
-0.9482672214508057	toan_5_bt_page_38_3	n ^ { 2 }
-1	toan_5_bt_page_38_4	2
-0.4158361589472026	toan_5_bt_page_39_6	
-0.591796875	toan_5_bt_page_3_11	\frac { 12 } { 20 } =
-0.2836446674207242	toan_5_bt_page_3_12	\frac { 3 } { 4 } = \frac { 1 } { 4 } =
-0.810546875	toan_5_bt_page_3_6	\frac { 5 } { 6 } =
-0.7452414035797119	toan_5_bt_page_3_7	\frac { 4 } { 5 } =
-0.0778851049253717	toan_5_bt_page_3_8	a =
-0.5694583345075444	toan_5_bt_page_42_3	
-0.5222468376159668	toan_5_bt_page_42_4	
-0.7723135720974315	toan_5_bt_page_43_10	3 m m = \frac { 3 } { 1000 } m = 0,003
-0.2979851389363719	toan_5_bt_page_43_12	5 cm = \frac { 5 } { 100 } m = \ldots \ldots
-0.21682553162629378	toan_5_bt_page_43_13	4 m m = \frac { 4 } { 1000 } m = \dots \dots
-1	toan_5_bt_page_44_16	0,00
-0.9839081764221191	toan_5_bt_page_44_6	0
-0.1859522942564602	toan_5_bt_page_45_10	\frac { 7409 } { 100 } = \dots \dots \dots
-0.72705078125	toan_5_bt_page_45_23	\frac { 9 } { 10 } = 0
-0.24179570688108498	toan_5_bt_page_45_8	\frac { 975 } { 10 } = \dots \dots \dots
-0.2983744389957792	toan_5_bt_page_45_9	\frac { 806 } { 100 } = \dots \dots \dots
-0.9407184778144302	toan_5_bt_page_48_6	2,\frac { { 7 } < 2 } { 5 },517
-0.29829317857500404	toan_5_bt_page_48_7	8,\frac { { \quad } > 8 } { 65 },658
-0.31230934223628076	toan_5_bt_page_49_12	42 m = \dots \dots \dots
-0.32106554557399464	toan_5_bt_page_49_13	3 m = \dots \dots \dots
-0.07612134376563709	toan_5_bt_page_49_16	= \ldots \ldots \ldots \ldots . . d n
-0.3556901239343669	toan_5_bt_page_49_17	= \dots \dots \dots \dots
-0.5109652558771449	toan_5_bt_page_49_2	= \dots \dots \dots
-0.4495583980799216	toan_5_bt_page_49_3	= \dots \dots \dots
-0.9970703125	toan_5_bt_page_49_4	=
-0.35240975418628295	toan_5_bt_page_49_8	832 m = \dots \dots
-0.24389475424527518	toan_5_bt_page_4_14	\frac { 1 } { \tan n }
-0.09668834144207525	toan_5_bt_page_4_17	\frac { 11 } { 25 } = \dots \dots \dots \dots
-0.20034675168524532	toan_5_bt_page_4_18	\frac { 3 } { 125 } = \dots \dots \dots \dots \dots
-0.08408153892318282	toan_5_bt_page_4_20	\frac { 28 } { 700 } = \dots \dots \dots \dots
-0.99755859375	toan_5_bt_page_4_7	9675
-0.9990234375	toan_5_bt_page_4_8	1954
-0.07677034760845362	toan_5_bt_page_50_6	\frac { 4 } { 10 n n } = \dots \dots
-0.1443019157049349	toan_5_bt_page_51_10	216 m \quad = \dots \dots \dots \dots
-0.08839331705251556	toan_5_bt_page_51_11	21,43 m = \ldots \ldots \ldots \ldots \ldots . . cm
-0.1542142847131094	toan_5_bt_page_51_15	= \dots \dots \dots \dots
-0.15162376337056527	toan_5_bt_page_51_16	= \dots \dots \dots
-0.9433865547180176	toan_5_bt_page_51_17	=
-0.12516496012000583	toan_5_bt_page_51_18	g = \dots \dots \dots
-0.2844878948042029	toan_5_bt_page_51_3	432 cm = \ldots \ldots \ldots
-0.2733183851945841	toan_5_bt_page_51_8	= \dots \dots \dots \dots
-0.619140625	toan_5_bt_page_52_3	4
-0.08265527591201402	toan_5_bt_page_53_10	0,7 k m ^ { 2 } = \dots \dots \dots
-0.2612648093915759	toan_5_bt_page_53_3	34,34 m = \dots \dots \dots
-0.2337706793587747	toan_5_bt_page_53_8	0,7 km ^ { 2 } = \ldots \ldots \ldots \ldots
-0.20428008896007593	toan_5_bt_page_53_9	0,25 h a = \dots \dots \dots \dots
-0.21995409202693264	toan_5_bt_page_54_10	= \ldots \ldots \ldots km ^ { 2 }
-0.3892658365836195	toan_5_bt_page_54_11	2472 m ^ { 2 } = \dots \dots \dots \dots
-0.09139725800867637	toan_5_bt_page_54_16	6,53 k m ^ { 2 } = \dots \dots \dots
-0.11069266325362044	toan_5_bt_page_54_18	3,5 h a = \dots \dots \dots
-0.28020681818140103	toan_5_bt_page_55_11	145 cm = \ldots \ldots \ldots
-0.15456261166215976	toan_5_bt_page_55_4	105 km = \ldots \ldots \ldots . . m
-0.1884526693864292	toan_5_bt_page_55_5	2,12 dam = \ldots \ldots \ldots
-0.14937261404226423	toan_5_bt_page_55_6	2,105 km ^ { 2 } = \ldots \ldots
-0.11876453167437384	toan_5_bt_page_55_7	2,12 h a = \dots \dots \dots
-0.351318359375	toan_5_bt_page_56_2	n
-0.16392604034449604	toan_5_bt_page_58_5	3 m 52 cm = \ldots \ldots \ldots \ldots
-0.1424646916501529	toan_5_bt_page_59_1	
-0.710868776621794	toan_5_bt_page_59_4	39, + 18 7,34
-0.8807589456726683	toan_5_bt_page_59_5	75, + 91 367,89
-0.8328242936803325	toan_5_bt_page_59_6	0, + 689 0,975
-0.6613438975363817	toan_5_bt_page_60_11	4, + 39 5,66
-0.9519483624351822	toan_5_bt_page_60_12	5, + 66 4,39
-0.9245088487975022	toan_5_bt_page_62_1	87, + 06 9,75
-0.9699967097992479	toan_5_bt_page_62_2	905, + 87 69,68
-1	toan_5_bt_page_62_7	16 + 7,93 + 4,05
-0.5922071933746338	toan_5_bt_page_63_6	4,6 \pi
-0.3756632379610104	toan_5_bt_page_64_1	78, + 2 24,6
-0.5380859375	toan_5_bt_page_66_3	1,5
-0.9741883277893066	toan_5_bt_page_67_5	5,6
-0.99951171875	toan_5_bt_page_69_11	35
-0.5521945953369141	toan_5_bt_page_6_1	\frac { 9 } { 4 } =
-0.90283203125	toan_5_bt_page_6_10	\frac { 38 } { 200 } =
-0.8388671875	toan_5_bt_page_6_2	\frac { 15 } { 2 } =
-0.93505859375	toan_5_bt_page_6_3	\frac { 18 } { 30 } =
-0.4631526470184326	toan_5_bt_page_6_4	\frac { 11 } { 20 } =
-0.9833984375	toan_5_bt_page_6_5	\frac { 2 } { 500 } =
-0.56787109375	toan_5_bt_page_6_6	\frac { 4 } { 400 } =
-0.9304633140563965	toan_5_bt_page_6_7	\frac { 17 } { 10 } =
-0.994140625	toan_5_bt_page_6_8	\frac { 200 } { 1000 } =
-0.81884765625	toan_5_bt_page_6_9	\frac { 9 } { 25 } =
-0.99951171875	toan_5_bt_page_70_5	11,2 k
-0.8628902435302734	toan_5_bt_page_71_14	18
-0.8466796875	toan_5_bt_page_72_10	1 : 10
-0.43952137401176206	toan_5_bt_page_72_11	
-0.99951171875	toan_5_bt_page_74_1	32
-0.99560546875	toan_5_bt_page_79_2	13,6
-0.99755859375	toan_5_bt_page_81_4	182
-0.9990234375	toan_5_bt_page_81_5	2
-0.07017388280227976	toan_5_bt_page_83_7	
-0.22451640106737614	toan_5_bt_page_85_4	4 ,
-0.42267394065856934	toan_5_bt_page_85_7	2
-0.3895269714284443	toan_5_bt_page_88_11	\left. \begin{array} { c } { 98,56 } \\ { 235 } \\ { 106 } \\ { 6 } \end{array} \right.
-0.7728946208953857	toan_5_bt_page_90_10	7
-1	toan_5_bt_page_90_11	8 =
-0.99951171875	toan_5_bt_page_90_15	7 : 18 =
-0.93115234375	toan_5_bt_page_91_4	708 \%
-0.710731029510498	toan_5_bt_page_92_1	: 17 =
-0.9169139438308775	toan_5_bt_page_92_11	
-0.8218336974544549	toan_5_bt_page_92_12	
-0.9248046875	toan_5_bt_page_92_2	: 24 =
-0.9080600738525391	toan_5_bt_page_92_8	1 \% \times 5 =
-1	toan_5_bt_page_94_2	345
-0.882335901260376	toan_5_bt_page_94_5	x
-0.99951171875	toan_5_bt_page_94_7	45
-0.3519028425216675	toan_5_bt_page_94_8	4
-0.3110990524291992	toan_5_bt_page_96_8	
-0.727785741979764	toan_5_bt_page_9_8	\frac { 9 } { 10 } \times \frac { 5 } { 6 } = \frac { 9 \times 5 } { 10 \times 6 } = \frac { 3 \times 8 \times 5 } { 5 \times 2 \times 8 \times 2 } = \frac { 3 } { 4 }
-0.19926810264587402	toan_5_page_104_6	v
-0.78759765625	toan_5_page_107_1	m ^ { 3 }
-0.26072266067785677	toan_5_page_107_12	1 + m 3
-0.96533203125	toan_5_page_107_6	=
-0.9838943481445312	toan_5_page_108_24	=
-0.24582408182605014	toan_5_page_108_5	\eta ^ { 3 } = \ldots d m ^ { 3 }
-0.3450350856280815	toan_5_page_109_12	\frac { 12345 } { 10 n n } m ^ { 3 }
-0.077725960225883	toan_5_page_109_5	100 am ^ { 3 }
-0.05020926794328706	toan_5_page_109_6	
-0.3732067547639417	toan_5_page_110_3	\frac { 25 } { 11 n } m ^ { 3 }
-0.99951171875	toan_5_page_111_1	1
-0.7344077106099576	toan_5_page_111_2	20
-0.7142637828537772	toan_5_page_111_3	16 cn
-0.994140625	toan_5_page_112_2	a = 5
-0.6900925636291504	toan_5_page_112_5	c = 9
-0.68359375	toan_5_page_113_11	6
-0.45880008012020485	toan_5_page_113_15	
-0.35107421875	toan_5_page_113_3	y
-0.99951171875	toan_5_page_113_4	2,5
-0.469482421875	toan_5_page_114_7	7
-0.9208984375	toan_5_page_117_4	=
-0.15275682625360787	toan_5_page_117_5	H =
-1	toan_5_page_129_2	42.5
-0.9677889347076416	toan_5_page_129_3	17
-0.99658203125	toan_5_page_130_1	42,5 k
-0.44626248477658237	toan_5_page_130_3	
-0.557344913482666	toan_5_page_130_4	1
-0.9410358701875149	toan_5_page_130_6	2,5
-0.810546875	toan_5_page_130_7	8
-0.89306640625	toan_5_page_130_8	5
-1	toan_5_page_132_1	1
-0.2436707602441875	toan_5_page_132_5	3
-0.9736578403972089	toan_5_page_132_7	170 k
-0.86669921875	toan_5_page_134_10	10
-0.9029726525768638	toan_5_page_134_4	23,1 k
-0.99951171875	toan_5_page_134_5	2.5
-1	toan_5_page_134_6	2150
-0.7086381912231445	toan_5_page_134_8	1,08 n
-0.9267578125	toan_5_page_135_3	276
-0.7653388977050781	toan_5_page_135_5	10
-0.968024492263794	toan_5_page_135_6	18
-0.34033203125	toan_5_page_136_4	2400
-0.99951171875	toan_5_page_136_5	1
-0.6201171875	toan_5_page_13_18	= 1 m
-0.6107821835337218	toan_5_page_143_3	| k q = 10 h
-0.7597182160243392	toan_5_page_143_5	
-0.9660102473571897	toan_5_page_143_6	
-0.7385508320294321	toan_5_page_144_16	90
-0.46240234375	toan_5_page_145_16	3
-0.71337890625	toan_5_page_145_19	n
-0.3932396397515932	toan_5_page_146_16	1 m ^ { 2 } = \ldots hm ^ { 2 } = \ldots
-0.14453645092095596	toan_5_page_146_20	
-0.9423828125	toan_5_page_146_21	m ^ { 2 }
-0.12218780468882341	toan_5_page_147_3	1 \operatorname { anm } ^ { 2 }
-0.24690938123433995	toan_5_page_147_4	
-0.98095703125	toan_5_page_147_9	30 \%
-0.9951171875	toan_5_page_148_3	13
-0.46289135467119036	toan_5_page_14_1	2 m + 5 c m = 2 m + \frac { 15 } { 100 } m = 2 \frac { 15 } { 100 } m
-0.15486594501035983	toan_5_page_14_13	
-1	toan_5_page_14_6	2
-0.1624901162358583	toan_5_page_14_8	
-0.15045365373498498	toan_5_page_14_9	
-0.3040713460472364	toan_5_page_151_13	
-0.6723258748972418	toan_5_page_153_5	\left. \begin{array} { c } { 5832 } \\ { 103 } \\ { 072 } \\ { 0 } \end{array} \right.
-0.9936552047729492	toan_5_page_156_14	18
-0.13931258953323322	toan_5_page_157_11	
-0.17871468342247576	toan_5_page_157_8	10 n m ^ { 2 }
-0.5193157196044922	toan_5_page_158_1	1
-0.99951171875	toan_5_page_159_1	= ( a + b ) \times 2 \times c
-0.1599525034396695	toan_5_page_159_2	= S _ { \text { xung quanh } } + S _ { \text { day } } \times 2
-0.9941489668563008	toan_5_page_159_4	= a \times a \times 4
-0.9244383552075286	toan_5_page_159_5	= a \times a \times 6
-0.21301596035482362	toan_5_page_15_23	72 Km
-0.9766044616699219	toan_5_page_15_24	12 k
-0.7476328927638981	toan_5_page_15_9	5 d m = 9 m + \frac { 5 } { 10 } m = 9 \frac { 5 } { 10 } m
-0.5122330395215613	toan_5_page_160_13	10 cn
-1	toan_5_page_160_14	1
-0.2939344488311426	toan_5_page_160_17	
-0.5380859375	toan_5_page_160_19	A
-0.20221301215883614	toan_5_page_160_3	
-0.4669460758626241	toan_5_page_160_8	
-0.80859375	toan_5_page_161_4	121
-0.41275691986083984	toan_5_page_161_6	75 k n
-1	toan_5_page_161_7	12
-0.5005989724304527	toan_5_page_162_4	720 m
-0.969883554847911	toan_5_page_162_7	22,49
-0.10734402625524839	toan_5_page_162_8	15 cm 3
-0.5469189701793343	toan_5_page_169_2	\frac { 10 cm } { 10 cm }
-0.568359375	toan_5_page_16_10	121
-0.5099048950434337	toan_5_page_16_13	
-0.6682374417368919	toan_5_page_170_4	\frac { 8 } { 10 n n }
-0.958984375	toan_5_page_170_6	8
-0.998535871389322	toan_5_page_171_5	14210
-0.439453125	toan_5_page_17_7	4
-0.490966796875	toan_5_page_17_8	x
-0.30936055611991037	toan_5_page_18_10	8300 m = \ldots
-0.21686309921824432	toan_5_page_18_11	= \dots h m
-0.6556155015556275	toan_5_page_18_5	15 cm = \ldots m
-0.81201171875	toan_5_page_19_6	121
-0.994140625	toan_5_page_19_8	=
-0.1613192705117945	toan_5_page_20_4	
-0.35649471245051245	toan_5_page_21_1	^ { 2 }
-0.08603081299129389	toan_5_page_21_4	| d | a m ^ { 2 } = 10 n m ^ { 2 }
-0.5	toan_5_page_21_5	4
-0.2432640624702127	toan_5_page_22_12	
-0.4610667891097364	toan_5_page_22_24	- 10 n m ^ { 2 }
-0.5755587603418083	toan_5_page_22_27	- 10 n d m ^ { 2 }
-0.3049718773393668	toan_5_page_22_30	- 10 n cm ^ { 2 }
-0.14407932324456588	toan_5_page_22_35	- 1
-0.86328125	toan_5_page_22_4	223 m ^ { 2 }
-0.30070097357716297	toan_5_page_22_7	2 = 10 n m m ^ { 2 }
-0.17554338970186778	toan_5_page_23_19	^ { 2 } = \ldots hm ^ { 2 }
-0.45501003046965505	toan_5_page_23_21	dam ^ { 2 } = \ldots hm ^ { 2 }
-0.21072784592464877	toan_5_page_23_22	00 m ^ { 2 } - 1 d a m 2
-0.11557017090777891	toan_5_page_23_25	100 m
-0.06596537902654598	toan_5_page_23_4	1 / \ln m 2
-0.630246310029861	toan_5_page_23_5	2 = 100 dam ^ { 2 }
-0.4289896488189697	toan_5_page_23_6	x
-0.360093355178833	toan_5_page_23_7	3
-0.76953125	toan_5_page_23_8	2
-1	toan_5_page_24_6	1
-0.25013075792072265	toan_5_page_25_3	\frac { 1 } { 10 n }
-0.17515855494154353	toan_5_page_25_6	\frac { 1 } { 10 m }
-0.25464739285780524	toan_5_page_25_9	0,001 = \frac { 1 } { 10 n n }
-0.36854636491129034	toan_5_page_27_3	\frac { 9 } { 10 n n }
-0.9990234375	toan_5_page_27_5	7
-0.19083923948345433	toan_5_page_27_6	\frac { 9 } { 11 n }
-0.4614611121683083	toan_5_page_27_9	0,009 = \frac { 9 } { 10 n }
-0.514984130859375	toan_5_page_28_15	620
-0.18870069931860933	toan_5_page_28_3	\frac { 195 } { 110 n } m
-0.6994610326364636	toan_5_page_28_7	0,195 \pi
-0.8829261979553849	toan_5_page_28_8	0,195 \pi
-0.9936552047729492	toan_5_page_30_5	2167
-0.9985356330871582	toan_5_page_30_6	2020
-1	toan_5_page_31_4	100
-0.37030654947739094	toan_5_page_32_18	54
-0.08965794816488015	toan_5_page_32_26	48 n
-0.4092450288590044	toan_5_page_32_5	m - 0
-0.8828741671543265	toan_5_page_32_6	90 cm = 0,90 n
-0.9399993278784677	toan_5_page_32_7	0,9 m = 0,90
-1	toan_5_page_33_15	35
-0.9990234375	toan_5_page_33_17	35
-0.9990234375	toan_5_page_33_19	35,6
-0.27323935056867965	toan_5_page_33_21	
-0.8432682417333126	toan_5_page_33_7	7,9 m = 79
-0.8096327781677246	toan_5_page_33_9	8,1 m > 7
-0.30771100521087646	toan_5_page_35_2	y
-0.35205078125	toan_5_page_36_12	4
-0.7841796875	toan_5_page_36_13	n
-1	toan_5_page_36_16	73
-0.3056177229154855	toan_5_page_36_7	= \ldots m
-0.5556690178409148	toan_5_page_37_1	132 kg = 5 \frac { 132 } { 1000 } tan = 5,132
-0.6362020657575962	toan_5_page_37_8	06 cm = \ldots m
-0.7861328125	toan_5_page_38_19	3479
-0.9453125	toan_5_page_38_20	5009
-0.18219329210019897	toan_5_page_38_22	\sin 2
-0.54150390625	toan_5_page_38_24	?
-0.99951171875	toan_5_page_38_27	0,15
-0.14240666060668886	toan_5_page_38_7	= \ldots km ^ { 2 }
-0.08931103935754675	toan_5_page_38_8	5000 m ^ { 2 } = \ldots
-0.3818359375	toan_5_page_39_10	\Delta
-0.15319788444389126	toan_5_page_39_3	
-0.7718768876315082	toan_5_page_39_4	45 ka 23
-0.9829397201538086	toan_5_page_39_6	5009
-0.5869715299776466	toan_5_page_3_9	1 = \frac { 700 } { 10 n }
-0.9771022503264248	toan_5_page_40_10	2,5
-0.99853515625	toan_5_page_40_11	320
-0.4992799311876297	toan_5_page_40_15	= \dots
-0.328118925126829	toan_5_page_40_3	\frac { 2005 } { 10 n n }
-1	toan_5_page_40_8	34
-0.9216843630838412	toan_5_page_40_9	3,2
-0.11972492481698765	toan_5_page_41_4	\frac { + 1,84 } { 2,45 }
-0.5207415070894085	toan_5_page_41_6	\frac { 184 } { 245 }
-0.9960966110229492	toan_5_page_41_8	11.20
-1	toan_5_page_41_9	11,020
-1	toan_5_page_42_16	6,25
-0.5732421875	toan_5_page_42_18	24,9
-0.5393958446370561	toan_5_page_43_14	32,6 kc
-0.7493391897458596	toan_5_page_43_15	4,8 kc
-0.6787286910226766	toan_5_page_43_2	19, + 36 4,08
-0.30873624872084404	toan_5_page_45_4	\frac { - 1,8,29 } { 2,45 ( m ) }
-1	toan_5_page_45_7	4,29
-0.7233284355606884	toan_5_page_45_8	4,29 m = 429 c
-0.5929756164550781	toan_5_page_45_9	, 84 m = 184 cm
-0.22520182860034765	toan_5_page_46_11	
-0.797461986541748	toan_5_page_46_12	13,25
-0.6749632358551025	toan_5_page_46_13	1,5
-0.6141186833075282	toan_5_page_46_9	\frac { x ^ { 12 } } { 36 ( d m ) }
-0.99755859375	toan_5_page_47_18	10
-0.9980475902557373	toan_5_page_47_20	14,5 k
-0.9975595474243164	toan_5_page_47_21	4,8 k
-0.99951171875	toan_5_page_48_13	42,6
-0.5892346297493876	toan_5_page_49_2	\frac { x ^ { 27,867 } } { 10 }
-0.06475573955508612	toan_5_page_49_20	
-0.98095703125	toan_5_page_49_22	0,8
-0.9941475370433182	toan_5_page_49_23	5,75
-0.61328125	toan_5_page_49_24	101
-0.8145252006361261	toan_5_page_51_16	108
-0.6323623657226562	toan_5_page_51_21	4.8 m = 48 d
-0.44846167183616337	toan_5_page_52_2	\frac { x ^ { 142,57 } } { 0,1 }
-0.44846167183616337	toan_5_page_52_2	\frac { x ^ { 142,57 } } { 0,1 }
-0.5281523465313853	toan_5_page_52_24	
-0.3976581637820263	toan_5_page_52_28	
-0.6182098388671875	toan_5_page_53_20	0,68 \times 0 ,
-0.3552671394022465	toan_5_page_55_4	\left. \begin{array} { c } { 8,4 } \\ { 04 } \\ { 0 } \end{array} \right.
-0.9039293162146008	toan_5_page_56_4	\left. \begin{array} { c } { 21,3 } \\ { 13 } \\ { 30 } \\ { 0 } \end{array} \right.
-0.6191520507891326	toan_5_page_57_13	\left. \begin{array} { c } { 22,44 } \\ { 44 } \\ { 84 } \\ { 12 } \end{array} \right.
-1	toan_5_page_57_15	126,54
-0.15824228123988698	toan_5_page_57_2	\left. \begin{array} { c } { 72,58 / 19 } \\ { 155 } \\ { 038 } \\ { 0 } \end{array} \right.
-0.2067786087743372	toan_5_page_59_5	\left. \begin{array} { c } { 43,0 } \\ { 140 } \\ { 0,82 } \end{array} \right.
-0.23939512844280864	toan_5_page_60_13	\left. \begin{array} { c } { 9900 } \\ { 1650 } & { 8,25 } \\ { 0 } \end{array} \right.
-0.2683265209197998	toan_5_page_61_23	(
-0.67333984375	toan_5_page_61_24	4
-0.24247696771116456	toan_5_page_63_15	10 n m ^ { 2 }
-0.23243254458066076	toan_5_page_65_6	9 / 0
-0.2112077400792588	toan_5_page_65_8	30 ka
-0.6705540221437332	toan_5_page_66_10	18
-1	toan_5_page_67_2	100 \times 0,5 = 5000
-1	toan_5_page_67_9	32
-1	toan_5_page_68_4	42
-0.91357421875	toan_5_page_6_5	500
-0.7134679743285233	toan_5_page_70_14	805 m ^ { 2 } = \ldots
-0.1510653506315027	toan_5_page_70_18	0
-0.99951171875	toan_5_page_70_2	0 : 7
-0.6103095904691145	toan_5_page_71_3	9 / 0
-0.28618110988870915	toan_5_page_72_1	6 \times 34 \%
-0.42538838664768264	toan_5_page_79_1	3 cm
-1	toan_5_page_7_10	2005
-0.20700233817005226	toan_5_page_7_14	\frac { 17 } { 10 n }
-0.3280309934816614	toan_5_page_7_9	\frac { 625 } { 10 n }
-0.44708673628211937	toan_5_page_80_10	
-0.99658203125	toan_5_page_80_4	3
-0.996584415435791	toan_5_page_85_11	2,5
-0.87548828125	toan_5_page_85_12	4
-0.6151952021755278	toan_5_page_85_13	1,2 d r
-0.23426027159517152	toan_5_page_86_15	10 n m ^ { 2 }
-0.56298828125	toan_5_page_86_2	90,2 \pi
-0.56298828125	toan_5_page_86_2	90,2 \pi
-0.7520359418122098	toan_5_page_87_3	A B = 4 c n
-0.9990234375	toan_5_page_89_7	18,8
-1	toan_5_page_89_9	24,84
-0.6731067574582994	toan_5_page_90_12	r = 6.5
-0.3888215552433394	toan_5_page_91_5	15 cm
-0.7424400790308705	toan_5_page_95_3	105 m
-0.5261054062284529	toan_5_page_96_11	B E = 28 n
-0.33324081749168033	toan_5_page_96_12	GC = 30 n
-0.5073093175437526	toan_5_page_98_1	3 M = 20,8
-0.7923316955566406	toan_5_page_98_2	N = 38 \pi
-0.7923316955566406	toan_5_page_98_2	N = 38 \pi
-0.17560951556167095	toan_9_bt_page_100_5	
-0.95556640625	toan_9_bt_page_104_17	=
-0.5328447616193444	toan_9_bt_page_104_20	0 s \alpha = \tan \beta
-0.5328447616193444	toan_9_bt_page_104_20	0 s \alpha = \tan \beta
-0.6186610476579517	toan_9_bt_page_104_22	= \cos \beta
-0.9765625	toan_9_bt_page_104_23	=
-0.99853515625	toan_9_bt_page_104_24	=
-0.6589152521025752	toan_9_bt_page_104_26	\tan \alpha = co
-0.6124768257141113	toan_9_bt_page_104_31	g \alpha = \cos \beta
-0.9092237949371338	toan_9_bt_page_104_32	-
-0.6474609375	toan_9_bt_page_104_39	\tan \alpha = s
-0.9116640090942383	toan_9_bt_page_105_10	c = 0,25
-0.7021281719207764	toan_9_bt_page_105_13	g \alpha = 2
-0.26565636077084953	toan_9_bt_page_105_5	\operatorname { otg } \alpha _ { t } = \frac { 3 } { 4 }
-0.5070295883342624	toan_9_bt_page_105_8	g \alpha
-0.5070295883342624	toan_9_bt_page_105_8	g \alpha
-0.7995986938476562	toan_9_bt_page_106_12	\tan 0
+0.4176549222700458	toan_2_bt_page_96_10	\begin{array}{r} 5 \\ + \quad 5 \\ \hline \ldots \end{array}
+0.8917767771051699	toan_2_bt_page_96_11	\begin{array}{r} 7 \\ + \quad 3 \\ \hline \ldots \end{array}
+0.9762433036947793	toan_2_bt_page_96_12	\begin{array}{r} 1 \\ + \quad 9 \\ \hline \ldots \end{array}
+0.8713785121866958	toan_2_bt_page_96_13	\begin{array}{r} 6 \\ + \quad 4 \\ \hline \ldots \end{array}
+0.285984572269851	toan_2_bt_page_96_14	\begin{array}{r} 10 \\ + \quad 0 \\ \hline \ldots \end{array}
+0.59033203125	toan_2_bt_page_96_15	9 + 1 + 2 = \ldots
+0.9007529153955147	toan_3_page_4_2	\begin{array}{r} 487 \\ + \quad 302 \\ \hline \end{array}
+0.7053966319551819	toan_3_page_4_3	\begin{array}{r} 85 \\ + \quad 72 \\ \hline \end{array}
+0.6088628838079286	toan_3_page_4_4	\begin{array}{r} 108 \\ + \quad 75 \\ \hline \end{array}
+0.861328125	toan_3_page_50_10	9 \times 9 = \ldots \ldots
+0.7052218914031982	toan_3_page_50_11	9 \times 10 = \ldots \ldots
+0.99951171875	toan_3_page_50_2	9 \times 1 = \ldots \ldots
+0.78173828125	toan_3_page_50_4	9 \times 3 = \ldots \ldots
+0.47998046875	toan_3_page_50_5	9 \times 4 = \ldots \ldots
+0.99951171875	toan_3_page_50_6	9 \times 5 = \ldots \ldots
+1	toan_3_page_50_7	9 \times 6 = \ldots \ldots
+1	toan_3_page_50_8	9 \times 7 = \ldots \ldots
+0.7890625	toan_3_page_50_9	9 \times 8 = \ldots \ldots
+0.3205293502045175	toan_3_page_51_2	1 \operatorname {kg}, 2 \operatorname {kg}, 5 \operatorname {kg}
+0.2874288930324782	toan_3_page_51_3	1 \operatorname {g}, 2 \operatorname {g}, 5 \operatorname {g}
+0.924158508501705	toan_3_page_51_4	10 \operatorname {g}, 20 \operatorname {g}, 50 \operatorname {g}
+0.888671875	toan_3_page_54_9	400 \operatorname {g}
+1	toan_3_page_56_32	54 : 9 = \ldots \ldots
+1	toan_3_page_56_33	63 : 9 = \ldots \ldots
+0.9609746932983398	toan_3_page_56_34	72 : 9 = \ldots \ldots
+0.9770827190950513	toan_3_page_56_36	90 : 9 = \ldots \ldots
+0.9990234375	toan_3_page_57_3	72 : 3 = \ldots
+0.7044865620600994	toan_3_page_5_1	\begin{array}{r} 567 \\ - \quad 325 \\ \hline \end{array}
+0.83453369140625	toan_3_page_5_4	\begin{array}{r} 100 \\ - \quad 75 \\ \hline \end{array}
+0.87255859375	toan_3_page_5_9	415 \operatorname {kg}
+0.09685797177985055	toan_3_page_63_1	3 \operatorname {cm}
+0.2121121883392334	toan_3_page_64_3	208 \times 4
+0.9834063053131104	toan_3_page_66_16	4559 \operatorname {g}
+0.2775161932222545	toan_3_page_73_1	D C = 4 \operatorname {cm}
+0.8515625	toan_3_page_73_2	B N =  \operatorname {cm}
+0.41183274926375046	toan_3_page_73_3	N C = 2 \operatorname {cm}	
+0.18743703172290302	toan_3_page_75_4	3 \operatorname {cm}
+0.5378232002258301	toan_3_page_75_7	12 \operatorname {cm}
+0.8505859375	toan_3_page_75_8	31 \operatorname {cm}
+0.9970703125	toan_3_page_75_9	15 \operatorname {cm}
+0.31768957529664243	toan_3_page_76_1	30 \operatorname {m}
+0.5030412895416703	toan_3_page_76_5	50 \operatorname {m}
+0.7886466979980469	toan_3_page_78_16	5000 + 9
+0.24932654198892124	toan_3_page_79_5	2 \operatorname {cm}
+0.6253631114959717	toan_3_page_80_1	A B = 4 \operatorname {cm}
+0.2718945568676645	toan_3_page_80_3	2 \operatorname {cm}
+0.16745425856035964	toan_3_page_81_6	950 \operatorname {cm} \ldots .1 \operatorname {kg}
+0.09675058321445631	toan_3_page_82_1	999 < 1000
+0.7658362369984388	toan_3_page_82_11	9650 \ldots 9651
+0.48779296875	toan_3_page_82_14	6591 \dots 6591
+0.9985356330871582	toan_3_page_82_5	6579 < 6580
+0.8182955733569626	toan_3_page_83_2	\begin{array}{r} 3526 \\ + \quad 2759 \\ \hline 6285 \end{array}
+1	toan_3_page_85_19	472 \operatorname {kg}
+0.3057891224931245	toan_3_page_86_2	\begin{array}{r} 8652 \\ - \quad 3917 \\ \hline 4735 \end{array}
+0.4670963130766759	toan_3_page_86_7	9996 - 6669
+0.970792971784249	toan_3_page_87_5	8600 + 200 =
+0.7439164971001446	toan_3_page_87_6	8800 - 200 =
+0.1950909406671214	toan_3_page_87_7	9000 + 1000 =
+0.7521190294670491	toan_3_page_88_10	\begin{array}{r} 1072 \\ \times \quad 4 \\ \hline \end{array}
+0.8652045407842346	toan_3_page_88_2	\begin{array}{r} 1034 \\ \times \quad 2 \\ \hline 2068 \end{array}
+0.8086149940774665	toan_3_page_88_5	\begin{array}{r} 2125 \\ \times \quad 3 \\ \hline 6375 \end{array}
+0.6001709531164767	toan_3_page_88_7	\begin{array}{r} 1234 \\ \times \quad 2 \\ \hline \end{array}
+0.514537157485871	toan_3_page_88_9	\begin{array}{r} 2116 \\ \times \quad 3 \\ \hline \end{array}
+0.8379894117719573	toan_3_page_89_2	\begin{array}{r} 1427 \\ \times \quad 3 \\ \hline 4281 \end{array}
+0.9490717694572486	toan_3_page_89_4	\begin{array}{r} 2318 \\ \times \quad 2 \\ \hline \end{array}
+0.80100525084964	toan_3_page_89_6	\begin{array}{r} 1317 \\ \times \quad 4 \\ \hline \end{array}
+0.6041856062730606	toan_3_page_89_7	\begin{array}{r} 1409 \\ \times \quad 5 \\ \hline \end{array}
+0.9833984375	toan_3_page_95_20	5060 : 5
+0.41581249237060547	toan_3_page_97_1	122 \operatorname {cm}
+0.9990234375	toan_3_page_97_3	127 \operatorname {cm}
+0.2976447343826294	toan_3_page_97_4	118 \operatorname {cm}
+0.998046875	toan_3_page_97_5	118 \operatorname {cm}
+0.9990234375	toan_3_page_97_8	122 \operatorname {cm}
+0.9990234375	toan_3_page_98_3	125 \operatorname {cm}
+0.78564453125	toan_3_page_98_4	135 \operatorname {cm}
+0.7396379665005952	toan_3_page_9_1	635 \operatorname {l}
+0.9990236759185791	toan_3_page_9_3	50 \operatorname {kg}
+0.5058542500482872	toan_3_page_9_4	35 \operatorname {kg}
+0.72900390625	toan_4_bt_page_100_10	2500 \operatorname {cm} ^ 2
+0.06151003394814188	toan_4_bt_page_100_12	3329 \operatorname {km} ^ 2
+0.5689895153045654	toan_4_bt_page_100_13	3329 \operatorname {dm} ^ 2
+0.24845116100162043	toan_4_bt_page_100_8	5000000 \operatorname {m} ^ { 2 } = \ldots \ldots . .  \operatorname {km} ^ { 2 }
+0.24845116100162043	toan_4_bt_page_100_8	5000000 \operatorname {m} ^ { 2 } = \ldots \ldots . .  \operatorname {km} ^ { 2 }
+0.5108435824513435	toan_4_bt_page_101_1	4 \square 9
+0.5540572968311608	toan_4_bt_page_101_3	1 \Box 6
+0.33684414919626704	toan_4_bt_page_102_12	98000351 \operatorname {m} ^ { 2 }
+0.8876953125	toan_4_bt_page_102_14	6 \operatorname {km}
+1	toan_4_bt_page_102_15	11 000 \operatorname {m}
+0.4659746285724964	toan_4_bt_page_102_16	25000 \operatorname {m} ^ { 2 }
+0.3564453125	toan_4_bt_page_102_17	2 \operatorname {km} ^ 2 5000  \operatorname {m} ^ 2
+0.54150390625	toan_4_bt_page_102_18	20000 \operatorname {m} ^ 2
+0.10840471691026989	toan_4_bt_page_102_4	900 \operatorname {dm} ^ 2 = \dots \dots \dots  \operatorname {m} ^ { 2 }
+1	toan_4_bt_page_104_11	12 \operatorname {dm}
+0.99951171875	toan_4_bt_page_104_12	12 \operatorname {cm}
+0.19874729990936987	toan_4_bt_page_104_2	3 \operatorname {cm}
+0.427978515625	toan_4_bt_page_104_7	9 \operatorname {cm}
+0.24364278204302536	toan_4_bt_page_105_2	7 \operatorname {cm}	
+0.8917212341912091	toan_4_bt_page_105_3	20 \operatorname {cm} ^ { 2 }
+1	toan_4_bt_page_106_1	34 \operatorname {cm}
+0.0956130902516158	toan_4_bt_page_106_2	136 \operatorname {cm} ^ 2	
+0.18122224718085858	toan_4_bt_page_106_3	182 \operatorname {cm} ^ 2	
+1	toan_4_bt_page_106_4	360 \operatorname {cm} ^ 2
+0.99951171875	toan_4_bt_page_116_21	\frac { 3 \times 4 \times 7 } { 12 \times 8 \times 9 } = \ldots \ldots
+0.9990234375	toan_4_bt_page_116_23	\frac { 5 \times 6 \times 7 } { 12 \times 14 \times 15 } = \ldots \ldots
+0.97705078125	toan_4_bt_page_128_10	\frac { 2 } { 5 } m
+1	toan_4_bt_page_129_5	\frac { 5 } { 12 } + \frac { 7 } { 4 } = \frac { 5 } { 12 } + \frac { 7 \times 3 } { 4 \times 3 } = \frac { 5 } { 12 } + \frac { 21 } { 12 } = \frac { 5 + 21 } { 12 } = \frac { 26 } { 12 } = \frac { 13 } { 6 }
+0.81640625	toan_4_bt_page_140_11	2 : \frac { 3 } { 5 } = \frac { 2 \times 5 } { 3 } = \frac { 10 } { 3 }
+0.64990234375	toan_4_bt_page_145_3	\frac { 1 } { 2 } \operatorname {l}
+1	toan_4_bt_page_147_3	14 300 \operatorname {kg}
+0.67431640625	toan_4_bt_page_148_12	12 \operatorname {cm}
+0.8374224368772332	toan_4_bt_page_148_2	B D = 6 \operatorname {cm}
+0.8549807089307251	toan_4_bt_page_148_3	MP = 5 \operatorname {cm}
+0.12408560479525477	toan_4_bt_page_148_4	N Q = 8 \operatorname {cm}
+0.39509026704432326	toan_4_bt_page_148_5	KG = 6 \operatorname {cm}
+0.99951171875	toan_4_bt_page_150_1	14 \operatorname {dm}
+1	toan_4_bt_page_150_10	12 \operatorname {cm}
+1	toan_4_bt_page_150_3	24 \operatorname {dm}
+0.43609611441547713	toan_4_bt_page_153_2	6 \operatorname {cm}
+0.07195878158895762	toan_4_bt_page_155_3	49 \operatorname {kg}
+0.55908203125	toan_4_bt_page_159_3	3 \operatorname {l}
+0.99755859375	toan_4_bt_page_169_1	1 : 500 000
+0.27417609699864953	toan_4_bt_page_174_7	6425 \Box >  64258
+0.12601768142576475	toan_4_bt_page_177_7	a \times 3 = \ldots \ldots \times a
+0.4237796346210554	toan_4_bt_page_17_3	6 \Box 524 > 68524
+0.9936623573303223	toan_4_bt_page_185_7	\frac { 4 } { 5 } : \frac { \Box } { 5 } = \frac { 1 } { 5 }
+0.9931640625	toan_4_bt_page_187_2	= 10 \operatorname {hg}
+0.98974609375	toan_4_bt_page_187_4	= 1000 \operatorname {g}
+0.10325991701377457	toan_4_bt_page_188_4	91 \operatorname {kg}
+0.5814439172122547	toan_4_bt_page_18_7	141 \operatorname {cm}
+0.2210352465755717	toan_4_bt_page_190_10	308 \operatorname {dm} ^ { 2 } = \ldots \ldots \operatorname {cm} ^ { 2 }
+0.15915461136453551	toan_4_bt_page_190_17	8791 \operatorname {dm} ^ { 2 } = \ldots \operatorname {m} ^ { 2 } \ldots \operatorname {dm} ^ 2
+0.33352984451423884	toan_4_bt_page_190_23	50000 \operatorname {cm} ^ { 2 } = \ldots \ldots \operatorname {m} ^ { 2 }
+0.12449365696492612	toan_4_bt_page_190_24	948 \operatorname {dm} ^ { 2 } = \ldots \ldots \operatorname {m} ^ { 2 } \ldots \ldots . \operatorname {dm} ^ { 2 }
+0.05250459034315569	toan_4_bt_page_190_8	4 \operatorname {m} ^ { 2 } = \dots \dots . . . \operatorname {cm} ^ { 2 }
+0.40824737853079984	toan_4_bt_page_192_3	8 \operatorname {cm}
+0.311279296875	toan_4_bt_page_192_4	3 \operatorname {cm}
+0.18025961239643423	toan_4_bt_page_193_1	144 \operatorname {cm} ^ { 2 }
+0.81396484375	toan_4_bt_page_193_2	60 \operatorname {cm} ^ { 2 }
+0.986328125	toan_4_bt_page_193_4	64 \operatorname {cm} ^ { 2 }
+0.4767887153138872	toan_4_bt_page_194_1	\operatorname {cm} ^ 2
+0.5524475151057917	toan_4_bt_page_194_2	A G = \dots \dots \dots \operatorname {cm}
+0.16513399073374083	toan_4_bt_page_194_3	E C = \dots \dots \dots \operatorname {cm}
+0.10094791674262556	toan_4_bt_page_194_4	6 \operatorname {cm}
+0.28979125173519715	toan_4_bt_page_199_8	100 \operatorname {m} ^ { 2 }
+0.818666934967041	toan_4_bt_page_20_16	836 \operatorname {dag} - 172 \operatorname {dag} = \ldots \ldots
+0.2394535222677106	toan_4_bt_page_20_2	10 \operatorname {g} = \ldots \ldots \ldots . . \operatorname {dag}
+0.45085380258634705	toan_4_bt_page_20_3	1 \operatorname {hg} = \ldots \ldots \ldots . .\operatorname {dag}
+0.0920537733025366	toan_4_bt_page_20_6	7 \operatorname {hg} = \dots \dots \dots \operatorname {g}
+0.4164359449061092	toan_4_bt_page_20_7	4 \operatorname {kg} = \ldots \ldots \ldots .\operatorname {hg}
+0.20897674560546875	toan_4_bt_page_24_2	134 \operatorname {cm}
+0.9297538705638999	toan_4_bt_page_2_1	\begin{array}{r} 65321 \\ + \quad 26385 \\ \hline \ldots \end{array}
+0.7027559406124055	toan_4_bt_page_2_2	\begin{array}{r} 82100 \\ - \quad 3001 \\ \hline \ldots \end{array}
+0.4336017914704189	toan_4_bt_page_2_3	\begin{array}{r} 2623 \\ \times \quad 4 \\ \hline \ldots \end{array}
+0.261416425115599	toan_4_bt_page_2_7	90000 - 90000 : 3
+0.4921936610477733	toan_4_bt_page_34_1	45\operatorname {km}
+0.99853515625	toan_4_bt_page_35_3	100000 - 989
+0.5471353475559226	toan_4_bt_page_36_1	\begin{array}{r} 38726 \\ + \quad 40954 \\ \hline \ldots \end{array}
+0.937138006105211	toan_4_bt_page_36_3	\begin{array}{r} 8300 \\ - \quad 516 \\ \hline \ldots \end{array}
+0.6130080313021524	toan_4_bt_page_36_4	\begin{array}{r} 92714 \\ - \quad 25091 \\ \hline \ldots \end{array}
+0.856560090497851	toan_4_bt_page_3_2	\begin{array}{r} 83379 \\ - \quad 52441 \\ \hline \ldots \end{array}
+0.5263671875	toan_4_bt_page_41_12	6 \operatorname {cm}
+1	toan_4_bt_page_44_1	47985 + 26807
+0.6083462027146425	toan_4_bt_page_44_4	10000 - 6565
+0.7193841881912704	toan_4_bt_page_4_25	200 \times c
+0.6845703125	toan_4_bt_page_55_7	26 \operatorname {cm}
+0.7500712557138244	toan_4_bt_page_58_1	\begin{array}{r} 13724 \\ \times \quad 3 \\ \hline \ldots \end{array}
+0.45957367336825466	toan_4_bt_page_58_2	\begin{array}{r} 28503 \\ \times \quad 7 \\ \hline \ldots \end{array}
+0.18846829990936068	toan_4_bt_page_58_3	\begin{array}{r} 39405 \\ \times \quad 6 \\ \hline \ldots \end{array}
+0.629575252532959	toan_4_bt_page_59_12	600000 : 1000 = \ldots \ldots
+0.99951171875	toan_4_bt_page_59_28	90000 : 1000 \times 10 = \ldots \ldots
+0.08106055896377029	toan_4_bt_page_5_15	18 \operatorname {cm}
+0.75732421875	toan_4_bt_page_5_16	131 \operatorname {dm}	
+0.951837370172143	toan_4_bt_page_60_2	34 \times ( 4 + 5 ) = 9 \times \Box
+0.8172682909917838	toan_4_bt_page_62_2	\begin{array}{r} 4300 \\ \times \quad 200 \\ \hline \ldots \end{array}
+0.057662791077906506	toan_4_bt_page_62_7	\Box \times 5 < 210
+0.5712890625	toan_4_bt_page_63_1	1969 \operatorname {m} ^ 2
+1	toan_4_bt_page_63_2	4000 \operatorname {dm} ^ 2
+0.09171378642151506	toan_4_bt_page_63_3	6 \operatorname {m} ^ { 2 } = \dots \dots \operatorname {dm} ^ 2
+0.08985523127707228	toan_4_bt_page_63_4	500 \operatorname {dm} ^ { 2 } = \ldots \ldots \operatorname {m} ^ { 2 }
+1	toan_4_bt_page_64_1	49 \operatorname {dm} ^ 2
+0.14081358010022382	toan_4_bt_page_64_10	1996 \operatorname {dm} ^ { 2 } = \ldots \ldots . \operatorname {cm} ^ { 2 }
+0.19573971382893826	toan_4_bt_page_64_11	2100 \operatorname {cm} ^ { 2 } = \ldots \ldots \operatorname {dm} ^ { 2 }
+0.752301495985296	toan_4_bt_page_64_12	955 \operatorname {cm} ^ { 2 } \quad \ldots 9 \operatorname {dm} ^ 2 50 \operatorname {cm} ^ 2
+0.9305787086486816	toan_4_bt_page_64_13	2001 \operatorname {cm} ^ 2 \quad \ldots 20 \operatorname {dm} ^ 2 10 \operatorname {cm} ^ 2
+0.2805839517743963	toan_4_bt_page_64_2	119 \operatorname {dm} ^ 2
+0.315673828125	toan_4_bt_page_64_3	1969 \operatorname {dm} ^ 2
+1	toan_4_bt_page_64_5	102 \operatorname {dm} ^ 2
+0.233092368666893	toan_4_bt_page_64_7	1000 \operatorname {cm} ^ { 2 } = \ldots \ldots . \operatorname {dm} ^ { 2 }
+0.13397243963113192	toan_4_bt_page_64_8	508 \operatorname {dm} ^ { 2 } = \ldots \ldots \operatorname {cm} ^ { 2 }
+0.599973265780136	toan_4_bt_page_74_4	100 \operatorname {cm} ^ { 2 } = \ldots \operatorname {dm} ^ { 2 }
+1	toan_4_bt_page_78_2	489690 : 8
+0.24554848277650168	toan_4_bt_page_82_5	500 : 100
+0.99951171875	toan_4_bt_page_87_5	2555 : 365 + 1825 : 365 = \ldots \ldots
+0.9990234375	toan_4_bt_page_87_6	2555 : 365 + 1825 : 365 = \ldots \ldots
+0.7980508804321289	toan_4_bt_page_87_7	( 5544 + 3780 ) : 252 = \ldots \ldots
+1	toan_4_bt_page_87_8	( 5544 + 3780 ) : 252 = \ldots \ldots
+0.9185190091375262	toan_4_bt_page_90_3	80080 : 157
+0.9990234375	toan_4_bt_page_92_1	109408 : 526
+0.9990234375	toan_4_bt_page_92_2	810866 : 238
+0.99951171875	toan_4_bt_page_94_1	3450 \operatorname {m}
+0.7421875	toan_4_bt_page_98_19	60 \square
+0.736879103933461	toan_4_bt_page_98_20	3 \Box 4 7
+0.09757898424868472	toan_4_bt_page_98_3	618 \Box
+0.9224548076745123	toan_4_bt_page_98_4	4 \square 5
+0.7035867307567969	toan_4_bt_page_99_1	1 \Box 6
+0.8530326213221997	toan_5_bt_page_100_2	80000 : 6
+0.9336259365081787	toan_5_bt_page_100_6	80000 \times 6 : 100
+0.6576857966581799	toan_5_bt_page_101_1	\begin{array}{r} 127,84 \\ + \quad 824,46 \\ \hline \ldots \end{array}
+0.4643933865485028	toan_5_bt_page_101_2	\begin{array}{r} 430314,18 \\ - \quad 279,3 \\ \hline \ldots \end{array}
+0.8107991308065721	toan_5_bt_page_101_5	\begin{array}{r} 76,68 \\ \times \quad 27 \\ \hline \ldots \end{array}
+0.26124937634508516	toan_5_bt_page_103_2	4 \operatorname {cm}
+0.932347297668457	toan_5_bt_page_103_6	4,3 \operatorname {dm}
+0.8602302200160921	toan_5_bt_page_105_2	10,2 \operatorname {m}
+0.9365234375	toan_5_bt_page_105_3	13 \operatorname {cm}
+1	toan_5_bt_page_105_4	32 \operatorname {dm}
+0.3427383421319289	toan_5_bt_page_107_3	4,2 \operatorname {km}
+0.24647998809814453	toan_5_bt_page_107_4	42 \operatorname {km}
+0.47101601207458765	toan_5_bt_page_107_5	0,42 \operatorname {km}
+0.3859322114207746	toan_5_bt_page_108_2	M H = 3 \operatorname {cm}
+0.266190324865182	toan_5_bt_page_110_18	50000 \times 10
+1	toan_5_bt_page_111_4	12 \operatorname {m}
+0.8579792976379395	toan_5_bt_page_112_1	50 \operatorname {cm} ^ { 2 }
+0.057108085406298414	toan_5_bt_page_113_1	\ldots \ldots \operatorname {cm} ^ { 2 }
+0.38555383682250977	toan_5_bt_page_114_11	45 \operatorname {dm}
+0.50830078125	toan_5_bt_page_114_16	6 \operatorname {m}	
+0.14573397923576348	toan_5_bt_page_114_17	100 \operatorname {m} ^ 2
+0.9838943481445312	toan_5_bt_page_114_19	70,5 \operatorname {kg}
+0.9985356330871582	toan_5_bt_page_114_4	1,3 \operatorname {dm}
+0.92724609375	toan_5_bt_page_114_6	1,8 \operatorname {dm}
+0.3997070789337158	toan_5_bt_page_114_9	0,6 \operatorname {dm}
+0.9713548282161355	toan_5_bt_page_115_1	2,2 \operatorname {dm}
+0.9479415416717529	toan_5_bt_page_116_1	10 \operatorname {m}
+0.994145393371582	toan_5_bt_page_117_2	1,6 \operatorname {dm}
+0.15878891944885254	toan_5_bt_page_117_6	0,45 \operatorname {cm}
+0.99462890625	toan_5_bt_page_117_9	40,4 \operatorname {dm}
+0.510481595993042	toan_5_bt_page_119_1	6,28 \operatorname {m}
+0.8855140649723126	toan_5_bt_page_119_2	188,4 \operatorname {cm}
+0.9228515625	toan_5_bt_page_120_1	2,3 \operatorname {cm}
+0.9985356330871582	toan_5_bt_page_120_2	0,2 \operatorname {dm}
+0.8940944671630859	toan_5_bt_page_120_4	8,2 \operatorname {cm}
+0.9922058454276339	toan_5_bt_page_121_1	40,82 \operatorname {m}
+0.21780877779724506	toan_5_bt_page_122_6	6.785 \operatorname {dm} ^ { 2 }
+0.93896484375	toan_5_bt_page_122_7	13,85 \operatorname {dm} ^ 2
+0.187279704521643	toan_5_bt_page_122_9	6 \operatorname {dm} ^ { 2 }
+0.9960968487430364	toan_5_bt_page_123_1	46,26 \operatorname {cm} ^ { 2 }
+0.9921998921781778	toan_5_bt_page_123_2	28,26 \operatorname {cm} ^ { 2 }
+0.09843477261462787	toan_5_bt_page_123_6	126 \operatorname {cm}
+0.998046875	toan_5_bt_page_123_8	86 \operatorname {cm} ^ 2
+0.206518292427063	toan_5_bt_page_125_1	B M  = 14 \operatorname {m}
+0.9497651888523251	toan_5_bt_page_125_4	A M = 12 \operatorname {m}
+0.98681640625	toan_5_bt_page_125_5	M N = 15 \operatorname {m}
+0.9956090442137793	toan_5_bt_page_129_15	1,2 \operatorname {m}
+0.46690228132775213	toan_5_bt_page_12_1	1 \operatorname {dm} = \ldots \ldots \ldots \operatorname {m}
+0.18262852017929165	toan_5_bt_page_12_3	1 \operatorname {phut} = \ldots \ldots \operatorname {gio}.
+0.21082184809508128	toan_5_bt_page_12_4	8 \operatorname {phut} = \dots \dots \operatorname {gio}
+0.3027346663956957	toan_5_bt_page_12_5	15 \operatorname {phut} = \ldots \ldots \operatorname {gio}
+0.1094852251986822	toan_5_bt_page_12_6	2 \operatorname {dm} = \dots \dots \operatorname {m}
+0.5305765815277255	toan_5_bt_page_132_10	8 \operatorname {dm}
+0.7632217407226562	toan_5_bt_page_132_11	0,5 \operatorname {m}
+0.43192010277335824	toan_5_bt_page_133_5	54 \operatorname {cm} ^ { 2 }
+0.1305765620778948	toan_5_bt_page_133_6	216 \operatorname {cm} ^ { 2 }
+0.9794921875	toan_5_bt_page_134_4	10 \operatorname {cm}
+0.5132151646516845	toan_5_bt_page_134_5	16 \operatorname {cm} ^ { 2 }
+0.24362447749640376	toan_5_bt_page_136_10	4 \operatorname {cm}
+0.23512870073318481	toan_5_bt_page_136_8	0,6 \operatorname {cm}
+0.7210661256685853	toan_5_bt_page_136_9	0,5 \operatorname {cm}
+1	toan_5_bt_page_137_2	82 \operatorname {m} ^ 3
+0.93994140625	toan_5_bt_page_137_3	508 \operatorname {dm} ^ 3
+0.8364447022790631	toan_5_bt_page_139_12	2020 \operatorname {cm} ^ { 3 } \ldots 2,02 \operatorname {dm} ^ 3
+0.3066655878136544	toan_5_bt_page_139_15	302 \operatorname {m} ^ { 3 }
+0.40636539459228516	toan_5_bt_page_139_16	2005 \operatorname {m} ^ 3
+0.0666504877510784	toan_5_bt_page_139_18	0,308 \operatorname {m} ^ 3
+0.15338318775319043	toan_5_bt_page_139_4	940000 \operatorname {cm} ^ 3 = \dots \dots \dots \operatorname {dm} ^ 3
+0.059707625458323595	toan_5_bt_page_139_5	2100 \operatorname {cm} ^ 3 = \ldots . . \operatorname {dm} ^ { 3 } \ldots . \operatorname {cm} ^ { 3 }
+0.15914440608832248	toan_5_bt_page_139_8	372000 \operatorname {cm} ^ { 3 } = \ldots \ldots \ldots . . \operatorname {dm} ^ { 3 }
+0.09137624438120967	toan_5_bt_page_139_9	606 \operatorname {dm} ^ 3 = \dots \dots \dots \dots \operatorname {cm} ^ 3
+0.48285649773974404	toan_5_bt_page_13_7	\frac { 64 } { 800 }
+1	toan_5_bt_page_140_10	0,505 \operatorname {dm} ^ 3
+0.59521484375	toan_5_bt_page_140_12	0,505 \operatorname {dm} ^ 3
+0.17908303148007193	toan_5_bt_page_140_19	913,232413 \operatorname {m} ^ { 3 } = \ldots \ldots
+0.8682992111425847	toan_5_bt_page_140_4	19,80 \operatorname {m} ^ { 3 } = \ldots \ldots
+1	toan_5_bt_page_140_6	208 \operatorname {cm} ^ 3
+0.9622030818668463	toan_5_bt_page_140_7	10,215 \operatorname {cm} ^ { 3 }
+0.99951171875	toan_5_bt_page_140_8	208 \operatorname {cm} ^ 3
+0.45999685988621597	toan_5_bt_page_141_5	4 \operatorname {cm}
+0.865234375	toan_5_bt_page_143_4	5 \operatorname {dm}
+0.4775390625	toan_5_bt_page_144_1	0,15 \operatorname {m}
+0.93994140625	toan_5_bt_page_144_2	10 \operatorname {kg}
+0.80810546875	toan_5_bt_page_145_1	3,5 \operatorname {dm}
+0.4274747288945946	toan_5_bt_page_145_4	2 \operatorname {cm}
+0.48495736119452615	toan_5_bt_page_147_3	18 \operatorname {cm} ^ { 3 }
+0.612420825819933	toan_5_bt_page_147_4	15 \operatorname {cm} ^ { 3 }
+0.5758667124395299	toan_5_bt_page_14_8	9 \operatorname {m} 3 \operatorname {dm} = 9 \operatorname {m} + \frac { 3 } { 10 } \operatorname {m} = 9 \frac { 3 } { 10 } \operatorname {m}
+0.6462438618764281	toan_5_bt_page_151_3	A D = 30 \operatorname {cm}
+0.44450607312398194	toan_5_bt_page_152_3	10 \operatorname {kg}
+0.5577318411269516	toan_5_bt_page_153_2	12 \operatorname {cm}
+0.1282056108271784	toan_5_bt_page_153_3	9 \operatorname {cm}
+1	toan_5_bt_page_153_5	108 \operatorname {cm} ^ 2
+0.9990234375	toan_5_bt_page_153_6	48 \operatorname {cm} ^ 2
+0.9138991856016219	toan_5_bt_page_153_7	64 \operatorname {cm} ^ { 2 }
+0.48193359375	toan_5_bt_page_155_1	25 \operatorname {cm}
+0.8218510582173622	toan_5_bt_page_171_1	s ( \operatorname {km} )
+0.9970703125	toan_5_bt_page_171_2	12,6 \operatorname {km}
+0.9191381181590259	toan_5_bt_page_172_1	279 \operatorname {km}
+0.9619140625	toan_5_bt_page_172_2	46,5 \operatorname {km/gio}
+0.8366636456921697	toan_5_bt_page_172_3	250 \operatorname {m}
+0.9970724578015506	toan_5_bt_page_172_6	11,25 \operatorname {km}
+0.99951171875	toan_5_bt_page_172_7	144,75 \operatorname {km}
+1	toan_5_bt_page_172_8	32 \operatorname {km}
+0.38617157918229283	toan_5_bt_page_174_1	9 \operatorname {km}
+0.3934657573699951	toan_5_bt_page_174_2	18,3 \operatorname {km}
+0.99560546875	toan_5_bt_page_175_1	14,8 \operatorname {km}
+0.5267724990844727	toan_5_bt_page_182_10	\frac { 3 } { 4 } = - = - 
+0.46465039253234863	toan_5_bt_page_182_11	\frac { 2 } { 7 } = - = - 
+0.09986621994017511	toan_5_bt_page_182_19	\frac { 2 } { 3 } = \dots \dots = \dots \dots
+0.5782011188566685	toan_5_bt_page_182_2	\frac { 15 } { 35 } = - = - 
+0.585538387298584	toan_5_bt_page_182_3	\frac { 12 } { 18 } = - = - 
+0.353515625	toan_5_bt_page_182_4	\frac { 9 } { 12 } = - = -
+0.5808162689208984	toan_5_bt_page_183_10	\frac { 5 } { 7 } = - = -
+0.27417917894005245	toan_5_bt_page_183_11	-. . . .-
+0.5413990020751953	toan_5_bt_page_183_13	\frac { 4 } { 5 } = - = -
+0.4526323108041197	toan_5_bt_page_187_12	\operatorname {dam}
+0.97119140625	toan_5_bt_page_187_13	\operatorname {m}
+0.07652024046694805	toan_5_bt_page_187_15	\operatorname {kg}
+0.6034943321719766	toan_5_bt_page_187_16	\operatorname {hg}
+0.7108029280789196	toan_5_bt_page_187_17	\operatorname {dag}
+0.99267578125	toan_5_bt_page_187_20	= 10 \operatorname {hg}
+0.987326611764729	toan_5_bt_page_187_21	= 0,1 \operatorname {dam}
+0.980982780456543	toan_5_bt_page_187_22	= 10 \operatorname {dam}
+0.9956111889332533	toan_5_bt_page_188_15	2007 \operatorname {m}= 2,007 \operatorname {km}
+0.58740234375	toan_5_bt_page_188_17	1038 \operatorname {mm}= 10,38 \ldots
+1	toan_5_bt_page_188_20	591 \operatorname {mm}= 0,591 \ldots
+0.5875143369034619	toan_5_bt_page_188_4	1 \operatorname {km} = \ldots \ldots \ldots \operatorname {dam}
+0.3298085292210294	toan_5_bt_page_188_6	1 \operatorname {kg} = \ldots \ldots . .\operatorname {dag}
+0.13912654012508352	toan_5_bt_page_189_17	1,5 \operatorname {kg} = \ldots \ldots \ldots .\operatorname {g}
+0.18856443368868805	toan_5_bt_page_189_18	75 \operatorname {cm} = \ldots \ldots \operatorname {m}
+0.117734700600629	toan_5_bt_page_189_2	500 \operatorname {m} = \dots \dots , \dots\operatorname {km}
+0.13609835552057503	toan_5_bt_page_189_3	8 \operatorname {m} 6 \operatorname {dm} = \dots \dots , \dots , \dots \operatorname {m}
+0.11027607409021534	toan_5_bt_page_189_4	4 \operatorname {m} 38 \operatorname {cm} = \dots \dots , \dots , \dots \operatorname {m}
+0.1292366643601035	toan_5_bt_page_189_6	75 \operatorname {m} = \dots \dots , \dots \dots \operatorname {km}
+0.23449295668309825	toan_5_bt_page_189_8	87 \operatorname {mm} = \dots \dots \dots , \dots \operatorname {m}
+0.08170240641603836	toan_5_bt_page_190_12	8,975 \operatorname {m} ^ { 3 } = \dots \dots \operatorname {dm} ^ 3
+0.2492996180307554	toan_5_bt_page_190_18	1 \operatorname {m} ^ { 3 } = \dots \dots \dots \dots \operatorname {dm} ^ 3
+0.06988791546235854	toan_5_bt_page_190_2	505 \operatorname {dm} ^ { 2 } = \ldots \ldots \ldots \operatorname {m} ^ { 2 }
+0.3585466039246633	toan_5_bt_page_191_12	1 \operatorname {m} ^ { 2 } = \ldots \ldots \ldots  \operatorname {mm} ^ { 2 }
+0.12057288245222682	toan_5_bt_page_191_15	1 \operatorname {m} ^ { 2 } = \dots \dots \dots \dots \operatorname {km} ^ 2
+0.1590312565966781	toan_5_bt_page_191_16	1 \operatorname {km} ^ { 2 } = \ldots \ldots \ldots \ldots . . .\operatorname {ha}
+0.12948545524471086	toan_5_bt_page_191_17	1 \operatorname {km} ^ { 2 } = \ldots \ldots \ldots \operatorname {m} ^ 2
+0.3499369675216126	toan_5_bt_page_191_19	1 \operatorname {m} ^ { 2 } = \dots \dots \dots \operatorname {ha}
+0.8760412844744678	toan_5_bt_page_191_2	\operatorname {hm} ^ 2
+0.20810066758749718	toan_5_bt_page_191_20	1 \operatorname {ha} = \dots \dots \dots \operatorname {km} ^ 2
+0.4241023608483374	toan_5_bt_page_191_24	81000 \operatorname {m} ^ { 2 } = \dots
+0.99169921875	toan_5_bt_page_191_3	\operatorname {dam} ^ { 2 }
+0.8801709483377635	toan_5_bt_page_191_8	( \operatorname {ha} )
+0.18204485374729162	toan_5_bt_page_192_16	1,85 \operatorname {dm} ^ 3 . . .1 \operatorname {dm} ^ { 3 } 85 \operatorname {cm} 6 3
+1	toan_5_bt_page_192_18	250 \operatorname {m}
+0.11870345494150868	toan_5_bt_page_192_2	1996 \operatorname {dm} ^ 3 = \dots \dots \dots \dots , \operatorname {m} ^ { 3 }
+0.6141576274748104	toan_5_bt_page_192_20	64 \operatorname {kg}
+0.11921149732668981	toan_5_bt_page_192_7	25 \operatorname {dm} ^ { 3 } = \dots \dots \dots\operatorname {m} ^ 3
+0.18103047179122306	toan_5_bt_page_192_8	2020 \operatorname {cm} ^ { 3 } = \ldots \ldots \ldots . . \operatorname {dm} ^ { 3 }
+0.99755859375	toan_5_bt_page_193_2	85 \%
+0.845703125	toan_5_bt_page_195_5	60 \%
+0.979656990107588	toan_5_bt_page_195_6	\begin{array}{r} 869,577 \\ + \quad 97,845 \\ \hline \ldots \end{array}
+0.7444935770930294	toan_5_bt_page_195_8	\begin{array}{r} 256,8 \\ + \quad 397,4 \\ \hline \ldots \end{array}
+0.6008201168479228	toan_5_bt_page_195_9	\begin{array}{r} 295674 \\ + \quad 859706 \\ \hline \ldots \end{array}
+0.9990234375	toan_5_bt_page_196_12	\frac { 9 } { 4 } - \frac { 2 } { 7 } = \ldots \ldots
+0.99951171875	toan_5_bt_page_196_13	2 - \frac { 3 } { 4 } = \ldots \ldots
+0.8539879746967927	toan_5_bt_page_196_14	5 - 1,5 - 1 \frac { 1 } { 2 } = \ldots \ldots
+0.10280707274986928	toan_5_bt_page_196_2	x = \dots \dots \dots
+0.9325631875544786	toan_5_bt_page_196_9	\begin{array}{r} 70,014 \\ + \quad 9,268 \\ \hline \ldots \end{array}
+0.24336892514628428	toan_5_bt_page_197_5	485,3 \operatorname {ha}
+0.950783977933952	toan_5_bt_page_198_2	\begin{array}{r} 7285 \\ \times \quad 302 \\ \hline \ldots \\ \ldots \\ \ldots \end{array}
+0.44723587008964444	toan_5_bt_page_198_4	\begin{array}{r} 21,63 \\ \times \quad 2,04 \\ \hline \ldots \\ \ldots \\ \ldots \end{array}
+0.7114425769709553	toan_5_bt_page_198_5	\begin{array}{r} 92,05 \\ \times \quad 0,05 \\ \hline \ldots \\ \ldots \\ \ldots \end{array}
+0.45106540994274325	toan_5_bt_page_1_7	4 : 9 = \dots \dots \dots
+1	toan_5_bt_page_203_5	25 : \frac { 5 } { 11 } = \dots \dots \dots
+0.98974609375	toan_5_bt_page_204_10	2 : 5 = 0,4 = 40 \%
+0.99560546875	toan_5_bt_page_204_5	80 \%
+0.42796028596285396	toan_5_bt_page_204_7	1 : 8 = \dots \dots
+0.9946370096877217	toan_5_bt_page_205_2	100 \%- 78,2 \% =  \dots \dots \dots
+0.10969662666320801	toan_5_bt_page_207_1	80 \operatorname {m}
+0.7413370609283447	toan_5_bt_page_210_1	60 \operatorname {m}
+0.90234375	toan_5_bt_page_213_7	6 \operatorname {cm}
+0.26159095764160156	toan_5_bt_page_214_1	10 \operatorname {cm}
+1	toan_5_bt_page_215_3	100 \operatorname {m} ^ 2
+0.6568561634068153	toan_5_bt_page_217_1	30 \operatorname {m}
+0.4548377178252849	toan_5_bt_page_217_7	8 \operatorname {cm}
+0.9741334915161133	toan_5_bt_page_218_1	4,5 \operatorname {cm} ^ 3
+0.998046875	toan_5_bt_page_218_2	31,5 \operatorname {g}
+0.64990234375	toan_5_bt_page_221_5	120 \operatorname {km}
+0.9243345211049158	toan_5_bt_page_224_1	\begin{array}{r} 26,84 \\ \times \quad 3,4 \\ \hline \end{array}
+0.8710501511409926	toan_5_bt_page_224_2	\begin{array}{r} 409,5 \\ \times \quad 2,04 \\ \hline \end{array}
+0.65283203125	toan_5_bt_page_226_9	0,3  \operatorname {m}
+1	toan_5_bt_page_230_5	\frac { 3 } { 10000 }
+0.4831131866241392	toan_5_bt_page_26_3	1 \operatorname {km} = \ldots \ldots \ldots \ldots \operatorname {hm}
+0.2565050877024516	toan_5_bt_page_26_4	1 \operatorname {mm} = \dots \dots \dots \dots \operatorname {cm}
+0.4002513968524909	toan_5_bt_page_26_5	1 \operatorname {dm} = \ldots \ldots \ldots \operatorname {m}
+0.617170320975165	toan_5_bt_page_26_7	1 \operatorname {hm} = \ldots \ldots \ldots \operatorname {dam}
+0.4113710477124073	toan_5_bt_page_26_8	1 \operatorname {dam} = \dots \dots \operatorname {m}
+0.1494590747483479	toan_5_bt_page_27_10	8500 \operatorname {cm} = \ldots \ldots \ldots \operatorname {m}
+0.1808743249613802	toan_5_bt_page_27_14	1372 \operatorname {cm} = \ldots \operatorname {m} \ldots . . \operatorname {cm}
+0.27512984979575583	toan_5_bt_page_27_16	1 \operatorname {cm} 3 \operatorname {mm} = \dots \dots \dots \operatorname {mm}
+0.99951171875	toan_5_bt_page_27_17	1719 \operatorname {km}
+0.36095726148748786	toan_5_bt_page_27_3	92 \operatorname {cm} = \dots \dots \dots \operatorname {mm}
+0.12014482966714908	toan_5_bt_page_27_4	89 \operatorname {dam} = \ldots \ldots \ldots \operatorname {m}
+0.11963948714091242	toan_5_bt_page_27_5	76 \operatorname {hm} = \dots \dots \dots \operatorname {dam}
+0.2709202973004075	toan_5_bt_page_27_6	247 \operatorname {km} = \ldots \ldots \ldots \operatorname {hm}
+0.2938353335886558	toan_5_bt_page_27_7	630 \operatorname {cm} = \dots \dots \dots \operatorname {dm}
+0.4327782515338896	toan_5_bt_page_27_8	67000 \operatorname {mm} = \dots \dots \dots \operatorname {m}
+0.34396902001158947	toan_5_bt_page_27_9	7000 \operatorname {m} = \dots \dots \dots \operatorname {km}
+0.11429157293374459	toan_5_bt_page_28_4	6080 \operatorname {g} = \dots \dots \operatorname {kg} \dots \operatorname {g}
+0.86083984375	toan_5_bt_page_30_1	215 \operatorname {dam} ^ 2
+0.126659945982142	toan_5_bt_page_30_15	1 \operatorname { dam } ^ { 2 } = \ldots \ldots . . \operatorname {hm} ^ { 2 }
+0.05840553564562489	toan_5_bt_page_30_19	6 \operatorname {dam} ^ 2 28 \operatorname {m} ^ 2
+0.5445317054458827	toan_5_bt_page_30_20	25 \operatorname {dam} ^ 2 70 \operatorname {m} ^ 2
+0.25444312748732045	toan_5_bt_page_30_21	64 \operatorname {dam} ^ 2 5 \operatorname {m} ^ 2
+0.19514576278510415	toan_5_bt_page_30_7	7000 \operatorname {dam} ^ 2 = \ldots \ldots . . \operatorname {hm} ^ { 2 }
+0.10267640182689214	toan_5_bt_page_30_9	17 \operatorname {dam} ^ { 2 } 5 \operatorname {m} ^ { 2 } = \dots \dots \operatorname {m} ^ 2
+0.4192822187488039	toan_5_bt_page_32_1	193 \operatorname {mm} ^ { 2 }
+0.1370168575698155	toan_5_bt_page_32_15	34000 \operatorname {hm} ^ 2 = \ldots \ldots \operatorname {km} ^ { 2 }
+0.394287876926591	toan_5_bt_page_32_16	190 000 \operatorname {cm} ^ 2 = \ldots \ldots \operatorname {m} ^ { 2 }
+0.7734375	toan_5_bt_page_32_2	805 \operatorname {mm} ^ 2
+0.3645663113370349	toan_5_bt_page_32_20	84 \operatorname {mm} ^ { 2 } = \ldots \ldots \operatorname {cm} ^ { 2 }
+0.23427471248214715	toan_5_bt_page_32_3	1021 \operatorname {mm} ^ 2
+0.20389499362673602	toan_5_bt_page_32_7	8 \operatorname {hm} ^ { 2 } = \dots \dots \dots \operatorname {m} ^ { 2 }
+0.14819382982258827	toan_5_bt_page_32_8	200 \operatorname {mm} ^ 2 = \ldots \ldots \ldots \operatorname {cm} ^ { 2 }
+0.20518857684459021	toan_5_bt_page_32_9	5000 \operatorname {dm} ^ 2 = \ldots \ldots \operatorname {m} ^ { 2 }
+0.5116141176040401	toan_5_bt_page_33_10	801 \operatorname {cm} ^ 2 \ldots 8 \operatorname {dm} ^ { 2 } 10 \operatorname {mm} ^ { 2 }
+0.2142852544784546	toan_5_bt_page_33_14	20 \operatorname {cm}
+0.17796636471757665	toan_5_bt_page_33_2	6 \operatorname {m} ^ 2 58 \operatorname {dm} ^ 2
+0.8199294451400081	toan_5_bt_page_33_3	19 \operatorname {m} ^ 2 7 \operatorname {dm} ^ { 2 }
+0.6566052823854989	toan_5_bt_page_33_4	43 \operatorname {dm} ^ { 2 }
+1	toan_5_bt_page_33_7	48 \operatorname {mm} ^ 2
+0.9536928927991539	toan_5_bt_page_34_1	3 \operatorname {ha}
+0.97314453125	toan_5_bt_page_34_12	140000 \operatorname {cm} ^ 2 = \ldots \ldots
+0.9727415168090888	toan_5_bt_page_34_17	260 \operatorname {ha} \ldots \ldots 26 \operatorname {km} ^ { 2 }
+0.05677459917140216	toan_5_bt_page_34_2	300 \operatorname {ha}
+0.493249932622038	toan_5_bt_page_34_3	30 \operatorname {ha}
+0.998046875	toan_5_bt_page_34_5	12 \operatorname {ha} = \ldots \ldots \ldots
+0.99951171875	toan_5_bt_page_34_7	90000 \operatorname {dm} ^ 2 =	\ldots \ldots \ldots
+0.9951171875	toan_5_bt_page_34_8	1070000 \operatorname {cm} ^ 2 = \ldots \ldots \ldots
+0.09359926730198373	toan_5_bt_page_35_1	7 \operatorname {ha} = \ldots \ldots \ldots \operatorname {m} ^ { 2 }
+0.26909282600839973	toan_5_bt_page_35_10	700000 \operatorname {m} ^ { 2 } = \ldots \ldots \ldots \operatorname {ha}
+0.13160947626604522	toan_5_bt_page_35_11	2600 \operatorname {ha} = \ldots \ldots \operatorname {km} ^ { 2 }
+0.6953710014931858	toan_5_bt_page_35_12	19 000 \operatorname {ha} = \ldots \ldots \operatorname {km} ^ { 2 }
+1	toan_5_bt_page_35_16	440 \operatorname {ha}
+0.33670877338088395	toan_5_bt_page_35_17	670 \operatorname {ha}
+0.354215913010629	toan_5_bt_page_35_6	16 \operatorname {ha} = \ldots \ldots \ldots \operatorname {m} ^ { 2 }
+0.36181640625	toan_5_bt_page_36_5	20 \operatorname {cm}
+0.78369140625	toan_5_bt_page_37_1	130 \operatorname {m}
+1	toan_5_bt_page_37_3	100 \operatorname {m} ^ 2
+1	toan_5_bt_page_38_1	20 \operatorname {cm} ^ 2
+0.9482672214508057	toan_5_bt_page_38_3	16 \operatorname {cm} ^ { 2 }
+1	toan_5_bt_page_38_4	10 \operatorname {cm} ^ 2
+0.4158361589472026	toan_5_bt_page_39_6	6 \operatorname {ha}
+0.591796875	toan_5_bt_page_3_11	\frac { 12 } { 20 } = - = -
+0.2836446674207242	toan_5_bt_page_3_12	\frac { 3 } { 4 } = - = - 
+0.810546875	toan_5_bt_page_3_6	\frac { 5 } { 6 } = - = - 
+0.7452414035797119	toan_5_bt_page_3_7	\frac { 4 } { 5 } = - = -
+0.0778851049253717	toan_5_bt_page_3_8	- \ldots -
+0.5694583345075444	toan_5_bt_page_42_3	\operatorname {cm}
+0.5222468376159668	toan_5_bt_page_42_4	\operatorname {mm}
+0.7723135720974315	toan_5_bt_page_43_10	3 \operatorname {mm} = \frac { 3 } { 1000 } \operatorname {m} = 0,003 \operatorname {m}
+0.2979851389363719	toan_5_bt_page_43_12	5 \operatorname {cm} = \frac { 5 } { 100 } \operatorname {m} = \ldots \ldots \operatorname {m}
+0.21682553162629378	toan_5_bt_page_43_13	4 \operatorname {mm} = \frac { 4 } { 1000 } \operatorname {m} = \dots \dots \operatorname {m}
+1	toan_5_bt_page_44_16	0,001
+0.9839081764221191	toan_5_bt_page_44_6	0,9 \operatorname {m}
+0.1859522942564602	toan_5_bt_page_45_10	\frac { 7409 } { 100 } = \dots \dots \dots = \dots \dots 
+0.72705078125	toan_5_bt_page_45_23	\frac { 9 } { 10 } = 0,9
+0.24179570688108498	toan_5_bt_page_45_8	\frac { 975 } { 10 } = \dots \dots \dots = \dots \dots \dots
+0.2983744389957792	toan_5_bt_page_45_9	\frac { 806 } { 100 } = \dots \dots \dots = \dots \dots \dots
+0.9407184778144302	toan_5_bt_page_48_6	2 , 5 \Box 7 < 2,517
+0.29829317857500404	toan_5_bt_page_48_7	8, 65 \Box > 8,658
+0.31230934223628076	toan_5_bt_page_49_12	42 \operatorname {m} = \dots \dots \dots \operatorname {km}
+0.32106554557399464	toan_5_bt_page_49_13	3 \operatorname {m} = \dots \dots \dots \operatorname {km}
+0.07612134376563709	toan_5_bt_page_49_16	24 \operatorname {dm} 8 \operatorname {cm} = \ldots \ldots \ldots \operatorname {dm}
+0.3556901239343669	toan_5_bt_page_49_17	7 \operatorname {m} 5 \operatorname {mm} = \dots \dots \dots \operatorname {m}
+0.5109652558771449	toan_5_bt_page_49_2	9 \operatorname {m} 192 \operatorname {mm} = \dots \dots \dots \operatorname {m}
+0.4495583980799216	toan_5_bt_page_49_3	8 \operatorname {m} 57 \operatorname {mm} = \dots \dots \dots \operatorname {m}
+0.9970703125	toan_5_bt_page_49_4	6 \operatorname {dm} 12 \operatorname {mm} = \dots \dots \dots \operatorname {dm}
+0.35240975418628295	toan_5_bt_page_49_8	8 \operatorname {km} 832 \operatorname {m} = \dots \dots \operatorname {km}
+0.24389475424527518	toan_5_bt_page_4_14	\frac { 1 } { 1000 }
+0.09668834144207525	toan_5_bt_page_4_17	\frac { 11 } { 25 } = \dots \dots \dots \dots = \dots \dots \dots
+0.20034675168524532	toan_5_bt_page_4_18	\frac { 3 } { 125 } = \dots \dots \dots \dots \dots = \dots \dots \dots
+0.08408153892318282	toan_5_bt_page_4_20	\frac { 28 } { 700 } = \dots \dots \dots \dots = \dots \dots \dots
+0.99755859375	toan_5_bt_page_4_7	\frac { 9675 } { 1000000 }
+0.9990234375	toan_5_bt_page_4_8	\frac { 1954 } {1000000 }
+0.07677034760845362	toan_5_bt_page_50_6	\frac { 4 } { 1000 } = \dots \dots
+0.1443019157049349	toan_5_bt_page_51_10	216 \operatorname {m} = \dots \dots \dots \dots \operatorname {km}
+0.08839331705251556	toan_5_bt_page_51_11	21,43 \operatorname {m} = \ldots \ldots \operatorname {m} \ldots \ldots . . \operatorname {cm}
+0.1542142847131094	toan_5_bt_page_51_15	3 \operatorname {tan} 218 \operatorname {kg} = \dots \dots \dots \operatorname {tan}
+0.15162376337056527	toan_5_bt_page_51_16	17 \operatorname {tan} 605 \operatorname {kg} = \dots \dots \dots \operatorname {tan}
+0.9433865547180176	toan_5_bt_page_51_17	4 \operatorname {tan} 6 \operatorname {kg} = \dots \dots \dots \operatorname {tan}
+0.12516496012000583	toan_5_bt_page_51_18	10 \operatorname {tan} 15 \operatorname {kg} = \dots \dots \dots \operatorname {tan}
+0.2844878948042029	toan_5_bt_page_51_3	432 \operatorname {cm} = \ldots \ldots \ldots \operatorname {m}
+0.2733183851945841	toan_5_bt_page_51_8	7 \operatorname {km} 5 \operatorname {m} = \dots \dots \dots \dots \operatorname {km}
+0.619140625	toan_5_bt_page_52_3	2500 \operatorname {kg}
+0.08265527591201402	toan_5_bt_page_53_10	0,7 \operatorname {km} ^ { 2 } = \dots \dots \dots \operatorname {m} ^ 2
+0.2612648093915759	toan_5_bt_page_53_3	34,34 \operatorname {m} = \dots \dots \dots \operatorname {cm}
+0.2337706793587747	toan_5_bt_page_53_8	0,7 \operatorname {km} ^ { 2 } = \ldots \ldots \ldots \operatorname {ha}
+0.20428008896007593	toan_5_bt_page_53_9	0,25 \operatorname {ha} = \dots \dots \dots \operatorname {m} ^ 2
+0.21995409202693264	toan_5_bt_page_54_10	1 \operatorname {ha} = \ldots \ldots \ldots \operatorname {km} ^ { 2 }
+0.3892658365836195	toan_5_bt_page_54_11	2472 \operatorname {m} ^ { 2 } = \dots \dots \dots \dots \operatorname {ha}
+0.09139725800867637	toan_5_bt_page_54_16	6,53 \operatorname {km} ^ { 2 } = \dots \dots \dots \operatorname {ha}
+0.11069266325362044	toan_5_bt_page_54_18	3,5 \operatorname {ha} = \dots \dots \dots \operatorname {m} ^ 2
+0.28020681818140103	toan_5_bt_page_55_11	145 \operatorname {cm} = \ldots \ldots \ldots \operatorname {m}
+0.15456261166215976	toan_5_bt_page_55_4	2,105 \operatorname {km} = \ldots \ldots \ldots . . \operatorname {m}
+0.1884526693864292	toan_5_bt_page_55_5	2,12 \operatorname {dam} = \ldots \ldots \ldots \operatorname {m}
+0.14937261404226423	toan_5_bt_page_55_6	2,105 \operatorname {km} ^ { 2 } = \ldots \ldots \operatorname {m} ^ 2
+0.11876453167437384	toan_5_bt_page_55_7	2,12 \operatorname {ha} = \dots \dots \dots \operatorname {m} ^ 2
+0.351318359375	toan_5_bt_page_56_2	33 \operatorname {km}
+0.16392604034449604	toan_5_bt_page_58_5	3 \operatorname {m} 52 \operatorname {cm} = \ldots \ldots \ldots \ldots \operatorname {m}
+0.1424646916501529	toan_5_bt_page_59_1	240 \operatorname {km}
+0.710868776621794	toan_5_bt_page_59_4	\begin{array}{r} 39,18 \\ + \quad 7,34 \\ \hline \ldots \end{array}
+0.8807589456726683	toan_5_bt_page_59_5	\begin{array}{r} 75,91 \\ + \quad 367,89 \\ \hline \ldots \end{array}
+0.8328242936803325	toan_5_bt_page_59_6	\begin{array}{r} 0,689 \\ + \quad 0,975 \\ \hline \ldots \end{array}
+0.6613438975363817	toan_5_bt_page_60_11	\begin{array}{r} 4,39 \\ + \quad 5,66 \\ \hline \ldots \end{array}
+0.9519483624351822	toan_5_bt_page_60_12	\begin{array}{r} 5,66 \\ + \quad 4,39 \\ \hline \ldots \end{array}
+0.9245088487975022	toan_5_bt_page_62_1	\begin{array}{r} 87,06 \\ + \quad 9,75 \\ \hline \ldots \end{array}
+0.9699967097992479	toan_5_bt_page_62_2	\begin{array}{r} 905,87 \\ + \quad 69,68 \\ \hline \ldots \end{array}
+1	toan_5_bt_page_62_7	28,16 + 7,93 + 4,05
+0.5922071933746338	toan_5_bt_page_63_6	4,6 \operatorname {m}
+0.3756632379610104	toan_5_bt_page_64_1	\begin{array}{r} 78,2 \\ + \quad 24,6 \\ \hline \ldots \end{array}
+0.5380859375	toan_5_bt_page_66_3	1,5 \operatorname {kg}
+0.9741883277893066	toan_5_bt_page_67_5	5,6 \operatorname {dm}
+0.99951171875	toan_5_bt_page_69_11	35,6 \operatorname {km}
+0.5521945953369141	toan_5_bt_page_6_1	\frac { 9 } { 4 } = - = - 
+0.90283203125	toan_5_bt_page_6_10	\frac { 38 } { 200 } = - = - 
+0.8388671875	toan_5_bt_page_6_2	\frac { 15 } { 2 } = - = - 
+0.93505859375	toan_5_bt_page_6_3	\frac { 18 } { 30 } = - = - 
+0.4631526470184326	toan_5_bt_page_6_4	\frac { 11 } { 20 } = - = - 
+0.9833984375	toan_5_bt_page_6_5	\frac { 2 } { 500 } = - = - 
+0.56787109375	toan_5_bt_page_6_6	\frac { 4 } { 400 } = - = - 
+0.9304633140563965	toan_5_bt_page_6_7	\frac { 17 } { 10 } = - = - 
+0.994140625	toan_5_bt_page_6_8	\frac { 200 } { 1000 } = - = - 
+0.81884765625	toan_5_bt_page_6_9	\frac { 9 } { 25 } = - = - 
+0.99951171875	toan_5_bt_page_70_5	11,2 \operatorname {km}
+0.8628902435302734	toan_5_bt_page_71_14	18,5 \operatorname {m}
+0.8466796875	toan_5_bt_page_72_10	1 : 1000000
+0.43952137401176206	toan_5_bt_page_72_11	33,8 \operatorname {cm}
+0.99951171875	toan_5_bt_page_74_1	32,5 \operatorname {km}
+0.99560546875	toan_5_bt_page_79_2	13,6 \operatorname {kg}
+0.99755859375	toan_5_bt_page_81_4	182 \operatorname {km}
+0.9990234375	toan_5_bt_page_81_5	2,05 \operatorname {km}
+0.07017388280227976	toan_5_bt_page_83_7	154 \operatorname {km}	
+0.22451640106737614	toan_5_bt_page_85_4	2,66 \operatorname {kg}
+0.42267394065856934	toan_5_bt_page_85_7	250 \operatorname {m}
+0.7728946208953857	toan_5_bt_page_90_10	8 : 40 = \ldots \ldots \ldots  
+1	toan_5_bt_page_90_11	40 : 8 = \ldots \ldots \ldots
+0.99951171875	toan_5_bt_page_90_15	17 : 18 = \ldots \ldots \ldots
+0.93115234375	toan_5_bt_page_91_4	108 \%
+0.710731029510498	toan_5_bt_page_92_1	62 : 17 =  \ldots \ldots \ldots
+0.9169139438308775	toan_5_bt_page_92_11	25 \operatorname {ha}
+0.8218336974544549	toan_5_bt_page_92_12	32 \operatorname {ha}
+0.9248046875	toan_5_bt_page_92_2	16 : 24 =  \ldots \ldots \ldots
+0.9080600738525391	toan_5_bt_page_92_8	18,1 \% \times 5 = \ldots \ldots 
+1	toan_5_bt_page_94_2	345 \operatorname {kg}
+0.882335901260376	toan_5_bt_page_94_5	0,89 \operatorname {ha}
+0.99951171875	toan_5_bt_page_94_7	45 \operatorname {km}
+0.3519028425216675	toan_5_bt_page_94_8	240 \operatorname {kg}
+0.3110990524291992	toan_5_bt_page_96_8	4000 \operatorname {m} ^ 2
+0.727785741979764	toan_5_bt_page_9_8	\frac { 9 } { 10 } \times \frac { 5 } { 6 } = \frac { 9 \times 5 } { 10 \times 6 } = \frac { 3 \times \not 3 \times \not 5 } { \not 5 \times 2 \times \not 3 \times 2 } = \frac { 3 } { 4 }
+0.19926810264587402	toan_5_page_104_6	3 \operatorname {m}
+0.78759765625	toan_5_page_107_1	\operatorname {cm} ^ { 3 }
+0.26072266067785677	toan_5_page_107_12	1 \operatorname {dm} ^ 3
+0.96533203125	toan_5_page_107_6	1 \operatorname {dm} ^ 3 = 1000 \operatorname {cm} ^ 3
+0.9838943481445312	toan_5_page_108_24	= 1000 \operatorname {dm} ^ 3
+0.24582408182605014	toan_5_page_108_5	2000 \operatorname {cm} ^ 3 = \ldots \operatorname {dm} ^ { 3 }
+0.3450350856280815	toan_5_page_109_12	\frac { 12345 } { 1000 } \operatorname {m} ^ { 3 }
+0.077725960225883	toan_5_page_109_5	0,109 \operatorname {cm} ^ 3
+0.05020926794328706	toan_5_page_109_6	0,015 \operatorname {dm} ^ 3
+0.3732067547639417	toan_5_page_110_3	\frac { 25 } { 100 } \operatorname {m} ^ 3
+0.99951171875	toan_5_page_111_1	10 \operatorname {cm}
+0.7344077106099576	toan_5_page_111_2	20 \operatorname {cm}
+0.7142637828537772	toan_5_page_111_3	16 \operatorname {cm}
+0.994140625	toan_5_page_112_2	a = 5 \operatorname {cm}
+0.6900925636291504	toan_5_page_112_5	c = 9 \operatorname {cm}
+0.68359375	toan_5_page_113_11	6 \operatorname {cm}
+0.45880008012020485	toan_5_page_113_15	9 \operatorname {cm}	
+0.35107421875	toan_5_page_113_3	9 \operatorname {cm}
+0.99951171875	toan_5_page_113_4	2,5 \operatorname {cm}
+0.469482421875	toan_5_page_114_7	600 \operatorname {dm} ^ 2
+0.9208984375	toan_5_page_117_4	M N = 12 \operatorname {cm}
+0.15275682625360787	toan_5_page_117_5	K H = 6 \operatorname {cm}
+1	toan_5_page_129_2	42.5 \operatorname {km}
+0.9677889347076416	toan_5_page_129_3	170 \operatorname {km}
+0.99658203125	toan_5_page_130_1	42,5 \operatorname {km}
+0.44626248477658237	toan_5_page_130_3	60 \operatorname {m}
+0.557344913482666	toan_5_page_130_4	105 \operatorname {km}
+0.9410358701875149	toan_5_page_130_6	2,5 \operatorname {gio}
+0.810546875	toan_5_page_130_7	400 \operatorname {m}
+0.89306640625	toan_5_page_130_8	5250 \operatorname {m}
+1	toan_5_page_132_1	130 \operatorname {km}
+0.2436707602441875	toan_5_page_132_5	30 \operatorname {m}
+0.9736578403972089	toan_5_page_132_7	170 \operatorname {km}
+0.86669921875	toan_5_page_134_10	10,5 \operatorname {km}
+0.9029726525768638	toan_5_page_134_4	23,1 \operatorname {km}
+0.99951171875	toan_5_page_134_5	2.5 \operatorname {km}
+1	toan_5_page_134_6	2150 \operatorname {km}
+0.7086381912231445	toan_5_page_134_8	1,08 \operatorname {cm}
+0.9267578125	toan_5_page_135_3	276 \operatorname {km}
+0.7653388977050781	toan_5_page_135_5	135 \operatorname {km}
+0.968024492263794	toan_5_page_135_6	48 \operatorname {km}
+0.34033203125	toan_5_page_136_4	2400 \operatorname {m}
+0.99951171875	toan_5_page_136_5	180 \operatorname {km}
+0.6201171875	toan_5_page_13_18	10 \operatorname {dm}= 1 \operatorname {m}
+0.6107821835337218	toan_5_page_143_3	1 \operatorname {kg} = 10 \operatorname {hg}
+0.7597182160243392	toan_5_page_143_5	\operatorname {hg}
+0.9660102473571897	toan_5_page_143_6	\operatorname {dag}
+0.7385508320294321	toan_5_page_144_16	1 \operatorname {kg} 65 \operatorname {g}
+0.46240234375	toan_5_page_145_16	2105 \operatorname {dm} ^ 3
+0.71337890625	toan_5_page_145_19	3670 \operatorname {cm} ^ 3
+0.3932396397515932	toan_5_page_146_16	1 \operatorname {m} ^ { 2 } = \ldots \operatorname {hm} ^ { 2 } = \ldots \operatorname {ha}
+0.14453645092095596	toan_5_page_146_20	65000 \operatorname {m} ^ 2
+0.9423828125	toan_5_page_146_21	6 \operatorname {km} ^ { 2 }
+0.12218780468882341	toan_5_page_147_3	100 \operatorname {m} ^ { 2 }
+0.24690938123433995	toan_5_page_147_4	60 \operatorname {kg}
+0.98095703125	toan_5_page_147_9	80 \%
+0.9951171875	toan_5_page_148_3	135 \operatorname {km}
+0.46289135467119036	toan_5_page_14_1	2 \operatorname {m} + 5 \operatorname {cm} = 2 \operatorname {m} + \frac { 15 } { 100 } \operatorname {m} = 2 \frac { 15 } { 100 } \operatorname {m}
+0.15486594501035983	toan_5_page_14_13	8 \operatorname {m} 8 \operatorname {cm}
+1	toan_5_page_14_6	180 \operatorname {m} ^ 2
+0.1624901162358583	toan_5_page_14_8	1800 \operatorname {m} ^ 2
+0.15045365373498498	toan_5_page_14_9	2000 \operatorname {m} ^ 2
+0.3040713460472364	toan_5_page_151_13	385,5 \operatorname {ha}
+0.9936552047729492	toan_5_page_156_14	480 \operatorname {ha}
+0.13931258953323322	toan_5_page_157_11	8 \operatorname {cm}
+0.17871468342247576	toan_5_page_157_8	100 \operatorname {m} ^ { 2 }
+0.5193157196044922	toan_5_page_158_1	18 \operatorname {km}
+0.99951171875	toan_5_page_159_1	S _ { \text { xung quanh } } = ( a + b ) \times 2 \times c
+0.1599525034396695	toan_5_page_159_2	S _ { \text { toan phan } } = S _ { \text { xung quanh } } + S _ { \text { day } } \times 2
+0.9941489668563008	toan_5_page_159_4	S _ { \text { xung quanh } } = a \times a \times 4
+0.9244383552075286	toan_5_page_159_5	S _ { \text { toan phan } } = a \times a \times 6
+0.21301596035482362	toan_5_page_15_23	12 \operatorname {km}
+0.9766044616699219	toan_5_page_15_24	12 \operatorname {km}
+0.7476328927638981	toan_5_page_15_9	9 \operatorname {m} 5 \operatorname {dm} = 9 \operatorname {m} + \frac { 5 } { 10 } \operatorname {m} = 9 \frac { 5 } { 10 } \operatorname {m}
+0.5122330395215613	toan_5_page_160_13	10 \operatorname {cm}
+1	toan_5_page_160_14	160 \operatorname {m}
+0.2939344488311426	toan_5_page_160_17	15 \operatorname {kg}
+0.5380859375	toan_5_page_160_19	40 \operatorname {cm}
+0.20221301215883614	toan_5_page_160_3	S _ { \text { xung quanh } }
+0.4669460758626241	toan_5_page_160_8	6 \operatorname {cm}
+0.80859375	toan_5_page_161_4	12 \operatorname {l}
+0.41275691986083984	toan_5_page_161_6	75 \operatorname {km}
+1	toan_5_page_161_7	120 \operatorname {km}
+0.5005989724304527	toan_5_page_162_4	120 \operatorname {m}
+0.969883554847911	toan_5_page_162_7	22,4 \operatorname {g}
+0.10734402625524839	toan_5_page_162_8	4,5 \operatorname {cm} ^ 3
+0.568359375	toan_5_page_16_10	12 \operatorname {l}
+0.5099048950434337	toan_5_page_16_13	8 \operatorname {km}
+0.6682374417368919	toan_5_page_170_4	\frac { 8 } { 1000 }
+0.958984375	toan_5_page_170_6	\frac { 8 } { 1000 }
+0.998535871389322	toan_5_page_171_5	14210 \operatorname {km} ^ 2
+0.439453125	toan_5_page_17_7	180 \operatorname {km}
+0.490966796875	toan_5_page_17_8	180 \operatorname {km}
+0.30936055611991037	toan_5_page_18_10	8300 \operatorname {m} = \ldots \operatorname {dam}
+0.21686309921824432	toan_5_page_18_11	4000 \operatorname {m} = \dots \operatorname {hm}
+0.6556155015556275	toan_5_page_18_5	15 \operatorname {cm} = \ldots \operatorname {m}
+0.81201171875	toan_5_page_19_6	12 \operatorname {l}
+0.994140625	toan_5_page_19_8	= 10 \operatorname {dm}
+0.1613192705117945	toan_5_page_20_4	250 \operatorname {kg}
+0.35649471245051245	toan_5_page_21_1	\operatorname {dam} ^ { 2 }
+0.08603081299129389	toan_5_page_21_4	1 \operatorname {dam} ^ { 2 } = 100 \operatorname {m} ^ { 2 }
+0.5	toan_5_page_21_5	4 \operatorname {cm}
+0.2432640624702127	toan_5_page_22_12	\operatorname {dam} ^ 2
+0.4610667891097364	toan_5_page_22_24	= 100 \operatorname {m} ^ { 2 }
+0.5755587603418083	toan_5_page_22_27	= 100 \operatorname {dm} ^ { 2 }
+0.3049718773393668	toan_5_page_22_30	= 100 \operatorname {cm} ^ { 2 }
+0.14407932324456588	toan_5_page_22_35	= 100 \operatorname {mm} ^ { 2 }
+0.86328125	toan_5_page_22_4	5 \operatorname {dam} ^ 2 23 \operatorname {m} ^ { 2 }
+0.30070097357716297	toan_5_page_22_7	1 \operatorname {cm} ^ 2 = 100 \operatorname {mm} ^ { 2 }
+0.17554338970186778	toan_5_page_23_19	1 \operatorname {dam} ^ { 2 } = \ldots \operatorname {hm} ^ { 2 }
+0.45501003046965505	toan_5_page_23_21	15 \operatorname {dam} ^ { 2 } = \ldots \operatorname {hm} ^ { 2 }
+0.21072784592464877	toan_5_page_23_22	100 \operatorname {m} ^ { 2 } = 1 \operatorname {dam} 2
+0.11557017090777891	toan_5_page_23_25	1 \operatorname {dam} ^ 2
+0.06596537902654598	toan_5_page_23_4	1 \operatorname {dam} ^ 2
+0.630246310029861	toan_5_page_23_5	1 \operatorname {hm} ^ 2 = 100 \operatorname {dam} ^ { 2 }
+0.4289896488189697	toan_5_page_23_6	105 \operatorname {dam} ^ 2
+0.360093355178833	toan_5_page_23_7	32 600 \operatorname {dam} ^ 2
+0.76953125	toan_5_page_23_8	492 \operatorname {hm} ^ 2
+1	toan_5_page_24_6	\frac { 1 } { 1000 }
+0.25013075792072265	toan_5_page_25_3	\frac { 1 } { 1000 }
+0.17515855494154353	toan_5_page_25_6	\frac { 1 } { 1000 }
+0.25464739285780524	toan_5_page_25_9	0,001 = \frac { 1 } { 1000 }
+0.36854636491129034	toan_5_page_27_3	\frac { 9 } { 1000 }
+0.9990234375	toan_5_page_27_5	\frac { 7 } { 100 }
+0.19083923948345433	toan_5_page_27_6	\frac { 9 } { 100 }
+0.4614611121683083	toan_5_page_27_9	0,009 = \frac { 9 } { 1000 }
+0.514984130859375	toan_5_page_28_15	90,638
+0.18870069931860933	toan_5_page_28_3	\frac { 195 } { 1000 } \operatorname {m}
+0.6994610326364636	toan_5_page_28_7	0,195 \operatorname {m}
+0.8829261979553849	toan_5_page_28_8	0,195 \operatorname {m}
+0.9936552047729492	toan_5_page_30_5	\frac { 2167 } { 1000 }
+0.9985356330871582	toan_5_page_30_6	\frac { 2020 } { 1000 }
+1	toan_5_page_31_4	\frac { 5608 } { 100 }
+0.37030654947739094	toan_5_page_32_18	64,9000
+0.08965794816488015	toan_5_page_32_26	480,59
+0.4092450288590044	toan_5_page_32_5	9 \operatorname {dm} = 0,9 \operatorname {m}
+0.8828741671543265	toan_5_page_32_6	90 \operatorname {cm} = 0,90 \operatorname {m}
+0.9399993278784677	toan_5_page_32_7	0,9 \operatorname {m} = 0,90 \operatorname {m}
+1	toan_5_page_33_15	35,698 \operatorname {m}
+0.9990234375	toan_5_page_33_17	35, 698 \operatorname {m}
+0.9990234375	toan_5_page_33_19	35,698 \operatorname {m}
+0.27323935056867965	toan_5_page_33_21	700 > 698
+0.8432682417333126	toan_5_page_33_7	7,9 \operatorname {m} = 79 \operatorname {dm}
+0.8096327781677246	toan_5_page_33_9	8,1 \operatorname {m} > 7,9 \operatorname {m}
+0.30771100521087646	toan_5_page_35_2	2001 > 1999
+0.35205078125	toan_5_page_36_12	2 \operatorname {m} 5 \operatorname {cm}
+0.7841796875	toan_5_page_36_13	21 \operatorname {m} 36 \operatorname {cm}
+1	toan_5_page_36_16	73 \operatorname {mm}
+0.3056177229154855	toan_5_page_36_7	8 \operatorname {m} 6 \operatorname {dm} = \ldots \operatorname {m}
+0.5556690178409148	toan_5_page_37_1	5 \operatorname {tan} 132 \operatorname {kg} = 5 \frac { 132 } { 1000 } \operatorname {tan} = 5,132 \operatorname {tan}
+0.6362020657575962	toan_5_page_37_8	506 cm = \ldots \operatorname {m}
+0.7861328125	toan_5_page_38_19	3479 \operatorname {g}
+0.9453125	toan_5_page_38_20	5009 \operatorname {g}
+0.18219329210019897	toan_5_page_38_22	30 \operatorname {dm} ^ 2
+0.54150390625	toan_5_page_38_24	300 \operatorname {dm} ^ 2
+0.99951171875	toan_5_page_38_27	0,15 \operatorname {km}
+0.14240666060668886	toan_5_page_38_7	1 \operatorname {ha} = \ldots \operatorname {km} ^ { 2 }
+0.08931103935754675	toan_5_page_38_8	5000 \operatorname {m} ^ { 2 } = \ldots \operatorname {ha}
+0.3818359375	toan_5_page_39_10	450 \operatorname {kg}
+0.15319788444389126	toan_5_page_39_3	2 \operatorname {kg} 50 \operatorname {g}
+0.7718768876315082	toan_5_page_39_4	45 \operatorname {kg} 23 \operatorname {g}
+0.9829397201538086	toan_5_page_39_6	500 \operatorname {g}
+0.5869715299776466	toan_5_page_3_9	1 = \frac { 100 } { 100 }
+0.9771022503264248	toan_5_page_40_10	2,5 \operatorname {tan}
+0.99853515625	toan_5_page_40_11	320 \operatorname {kg}
+0.4992799311876297	toan_5_page_40_15	56 \operatorname {cm} 9 \operatorname {mm}= \dots \operatorname {cm}
+0.328118925126829	toan_5_page_40_3	\frac { 2005 } { 1000 }
+1	toan_5_page_40_8	345 \operatorname {cm}
+0.9216843630838412	toan_5_page_40_9	3,2 \operatorname {tan}
+0.11972492481698765	toan_5_page_41_4	\begin{array}{r} 1,84 \\ + \quad 2,45 \\ \hline 4,29 ( \operatorname {m} ) \end{array}
+0.5207415070894085	toan_5_page_41_6	\begin{array}{r} 184 \\ + \quad 245 \\ \hline 429 ( \operatorname {cm} ) \end{array}
+0.9960966110229492	toan_5_page_41_8	11.20 \operatorname {km}
+1	toan_5_page_41_9	11,020 \operatorname {km}
+1	toan_5_page_42_16	6,25 \operatorname {dm}
+0.5732421875	toan_5_page_42_18	24,95 \operatorname {dm}
+0.5393958446370561	toan_5_page_43_14	32,6 \operatorname {kg}
+0.7493391897458596	toan_5_page_43_15	4,8 \operatorname {kg}
+0.6787286910226766	toan_5_page_43_2	\begin{array}{r} 19,36 \\ + \quad 4,08 \\ \hline \end{array}
+0.30873624872084404	toan_5_page_45_4	\begin{array}{r} 4,29 \\ - \quad 1,84 \\ \hline 2,45 ( \operatorname {m} ) \end{array}
+1	toan_5_page_45_7	4,29 \operatorname {m}
+0.7233284355606884	toan_5_page_45_8	4,29 \operatorname {m} = 429 c\operatorname {cm}
+0.5929756164550781	toan_5_page_45_9	1,84 \operatorname {m} = 184 \operatorname {cm}
+0.22520182860034765	toan_5_page_46_11	36 \operatorname {km}
+0.797461986541748	toan_5_page_46_12	13,25 \operatorname {km}
+0.6749632358551025	toan_5_page_46_13	1,5 \operatorname {km}
+0.6141186833075282	toan_5_page_46_9	\begin{array}{r} 12 \\ \times \quad 3 \\ \hline 36 ( \operatorname {dm} ) \end{array}
+0.99755859375	toan_5_page_47_18	10 \operatorname {kg}
+0.9980475902557373	toan_5_page_47_20	14,5 \operatorname {kg}
+0.9975595474243164	toan_5_page_47_21	4,8 \operatorname {kg}
+0.99951171875	toan_5_page_48_13	42,6 \operatorname {km}
+0.5892346297493876	toan_5_page_49_2	\\begin{array}{r} 27,867 \\ \times \quad 10 \\ \hline 278,670 \end{array}
+0.06475573955508612	toan_5_page_49_20	10,4 \operatorname {dm}
+0.98095703125	toan_5_page_49_22	0,856 \operatorname {dm}
+0.9941475370433182	toan_5_page_49_23	5,75 \operatorname {dm}
+0.61328125	toan_5_page_49_24	10 \operatorname {l}
+0.8145252006361261	toan_5_page_51_16	10,8 \operatorname {km}
+0.6323623657226562	toan_5_page_51_21	4.8 \operatorname {m} = 48 \operatorname {dm}
+0.44846167183616337	toan_5_page_52_2	\\begin{array}{r} 142,57 \\ \times \quad 0,1 \\ \hline 14,257 \end{array}
+0.44846167183616337	toan_5_page_52_2	\\begin{array}{r} 142,57 \\ \times \quad 0,1 \\ \hline 14,257 \end{array}
+0.5281523465313853	toan_5_page_52_24	125 \operatorname {ha}
+0.3976581637820263	toan_5_page_52_28	19,8 \operatorname {cm}
+0.6182098388671875	toan_5_page_53_20	0,68 \times 0,1
+1	toan_5_page_57_15	126,54 \operatorname {km}
+0.2683265209197998	toan_5_page_61_23	93 \operatorname {cm}
+0.67333984375	toan_5_page_61_24	103 \operatorname {km}
+0.24247696771116456	toan_5_page_63_15	100 \operatorname {m} ^ { 2 }
+0.23243254458066076	toan_5_page_65_6	\%
+0.2112077400792588	toan_5_page_65_8	80 \operatorname {kg}
+0.6705540221437332	toan_5_page_66_10	18 \operatorname {ha}
+1	toan_5_page_67_2	1000000 : 100 \times 0,5 = 5000
+1	toan_5_page_67_9	320 \operatorname {kg}
+1	toan_5_page_68_4	420 \operatorname {kg}
+0.91357421875	toan_5_page_6_5	\frac { 500 } { 1000 }
+0.7134679743285233	toan_5_page_70_14	805 \operatorname {m} ^ { 2 } = \ldots \operatorname {ha}
+0.1510653506315027	toan_5_page_70_18	0,0805
+0.99951171875	toan_5_page_70_2	700000 : 7
+0.6103095904691145	toan_5_page_71_3	\%
+0.28618110988870915	toan_5_page_72_1	56 \times 34 \%
+0.42538838664768264	toan_5_page_79_1	8 \operatorname {cm}
+1	toan_5_page_7_10	\frac { 2005 } { 1000000 }
+0.20700233817005226	toan_5_page_7_14	\frac { 17 } { 1000 }
+0.3280309934816614	toan_5_page_7_9	\frac { 625 } { 1000 }
+0.44708673628211937	toan_5_page_80_10	28 \operatorname {kg}
+0.99658203125	toan_5_page_80_4	\frac { 3 } { 1000 }
+0.996584415435791	toan_5_page_85_11	2,5 \operatorname {dm}
+0.87548828125	toan_5_page_85_12	1,6 \operatorname {dm}
+0.6151952021755278	toan_5_page_85_13	1,2 \operatorname {dm}
+0.23426027159517152	toan_5_page_86_15	100 \operatorname {m} ^ { 2 }
+0.56298828125	toan_5_page_86_2	90,2 \operatorname {m}
+0.56298828125	toan_5_page_86_2	90,2 \operatorname {m}
+0.7520359418122098	toan_5_page_87_3	A B = 4 \operatorname {cm}
+0.9990234375	toan_5_page_89_7	18,84 \operatorname {cm}
+1	toan_5_page_89_9	24,84 \operatorname {cm}
+0.6731067574582994	toan_5_page_90_12	r = 6.5 \operatorname {dm}
+0.3888215552433394	toan_5_page_91_5	45 \operatorname {cm}
+0.7424400790308705	toan_5_page_95_3	40,5 \operatorname {m}
+0.5261054062284529	toan_5_page_96_11	B E = 28 \operatorname {m}
+0.33324081749168033	toan_5_page_96_12	GC = 30 \operatorname {m}
+0.5073093175437526	toan_5_page_98_1	B M = 20,8 \operatorname {m}
+0.7923316955566406	toan_5_page_98_2	C N = 38 \operatorname {m}
+0.7923316955566406	toan_5_page_98_2	C N = 38 \operatorname {m}
+0.17560951556167095	toan_9_bt_page_100_5	h, b, b ^ { \prime }, c ^ { \prime }
+0.95556640625	toan_9_bt_page_104_17	\sin \alpha = \sin \beta
+0.5328447616193444	toan_9_bt_page_104_20	\cos \alpha = \tan \beta
+0.5328447616193444	toan_9_bt_page_104_20	\cos \alpha = \tan \beta
+0.6186610476579517	toan_9_bt_page_104_22	\cos \alpha = \cos \beta
+0.9765625	toan_9_bt_page_104_23	\cos \alpha = \cot \beta
+0.99853515625	toan_9_bt_page_104_24	\cos \alpha = \sin \beta
+0.6589152521025752	toan_9_bt_page_104_26	\tan \alpha = \cot \beta
+0.6124768257141113	toan_9_bt_page_104_31	\cot \alpha = \cos \beta
+0.9092237949371338	toan_9_bt_page_104_32	\cot \alpha = \sin \beta
+0.6474609375	toan_9_bt_page_104_39	\tan \alpha = \sin \alpha \times \cos \alpha
+0.9116640090942383	toan_9_bt_page_105_10	\sin \alpha = 0,25
+0.7021281719207764	toan_9_bt_page_105_13	\cot \alpha = 2
+0.26565636077084953	toan_9_bt_page_105_5	\cot \alpha = \frac { 3 } { 4 }
+0.5070295883342624	toan_9_bt_page_105_8	\tan \alpha
+0.5070295883342624	toan_9_bt_page_105_8	\tan \alpha
+0.7995986938476562	toan_9_bt_page_106_12	\tan \alpha
 0.32666015625	toan_9_bt_page_106_18	\tan C
-0.3282088041305542	toan_9_bt_page_106_19	y
-0.325155520950692	toan_9_bt_page_106_26	ABCD = \frac { 1 } { 2 } AC \cdot BD
-0.7460169792175293	toan_9_bt_page_106_6	0
-0.656641960144043	toan_9_bt_page_106_7	g d
-0.69970703125	toan_9_bt_page_107_18	CAN
-0.6304335129801377	toan_9_bt_page_107_21	BXD
-0.7983090877532959	toan_9_bt_page_108_10	
-0.376953125	toan_9_bt_page_108_5	r
-0.781310150350123	toan_9_bt_page_109_13	\operatorname { otg } 35 ^ { \circ } 12 ^ { \prime }
-0.9163110349838348	toan_9_bt_page_109_15	g 27 ^ { \circ }
-0.9757061004638672	toan_9_bt_page_109_17	65 ^ { \circ }
-1	toan_9_bt_page_109_20	1 - \cos
-0.9863464774098247	toan_9_bt_page_109_21	\tan x - \operatorname { cotg }
-0.3982759714126587	toan_9_bt_page_109_30	O S B
-0.6193447113037109	toan_9_bt_page_109_31	g B
-0.5961751937866211	toan_9_bt_page_109_32	gB
-0.6078971293754876	toan_9_bt_page_109_33	
-0.5518934726715088	toan_9_bt_page_109_34	g Q
-0.6532338913530111	toan_9_bt_page_109_36	30
-0.899999356479384	toan_9_bt_page_109_39	\operatorname { in } 20 ^ { \circ }
-0.7336580120027065	toan_9_bt_page_109_4	s 40 ^ { \circ }
-0.3807515441199414	toan_9_bt_page_109_40	
-0.99462890625	toan_9_bt_page_109_42	40 ^ { \circ }
-0.4055635929107666	toan_9_bt_page_109_43	970 ^ { \circ }
-0.29150390625	toan_9_bt_page_109_45	1
-0.8368423938618434	toan_9_bt_page_109_46	\operatorname { g } 65 ^ { \circ }
-0.32048330679572246	toan_9_bt_page_109_49	A C = 4 c n
-0.995610237121582	toan_9_bt_page_109_7	38 ^ { \circ }
-0.896146725397557	toan_9_bt_page_109_8	\operatorname { in } 50 ^ { \circ }
-0.9965858445502818	toan_9_bt_page_109_9	50 ^ { \circ }
-0.984375	toan_9_bt_page_112_1	a = b
-0.44582199572488407	toan_9_bt_page_112_11	NP = \frac { 1 } { 2 } MP \cdot NP \cdot \sin P
-0.797950029373169	toan_9_bt_page_112_3	a = b
-0.13595833127967688	toan_9_bt_page_112_4	a = b + g
-0.82373046875	toan_9_bt_page_112_5	a = b
-0.423712469288148	toan_9_bt_page_112_7	= b \tan \beta
-0.9507308006286621	toan_9_bt_page_112_8	a = b
-0.99609375	toan_9_bt_page_113_5	=
-0.9863405227661133	toan_9_bt_page_113_6	a =
-0.9956073760986328	toan_9_bt_page_113_7	a =
-0.30985024828064606	toan_9_bt_page_113_8	a = c + a R
-0.2558885921187084	toan_9_bt_page_113_9	= \operatorname { csin } B
-0.9985356330871582	toan_9_bt_page_115_10	- \sin \alpha \cos ^ { 2 } \alpha
-0.4867301951162517	toan_9_bt_page_115_2	
-0.8493837174028158	toan_9_bt_page_115_4	s \alpha = \frac { 5 } { 13 }
-0.3258387085412115	toan_9_bt_page_117_7	
-0.14939608700267873	toan_9_bt_page_118_7	=
-0.10353240197788804	toan_9_bt_page_119_3	
+0.3282088041305542	toan_9_bt_page_106_19	\cot C 
+0.325155520950692	toan_9_bt_page_106_26	S_ { ABCD } = \frac { 1 } { 2 } AC \cdot BD \cdots \sin \alpha
+0.7460169792175293	toan_9_bt_page_106_6	\cos \alpha
+0.656641960144043	toan_9_bt_page_106_7	\tan \alpha
+0.69970703125	toan_9_bt_page_107_18	\widehat { CAN }
+0.6304335129801377	toan_9_bt_page_107_21	\widehat { BXD }
+0.7983090877532959	toan_9_bt_page_108_10	\widehat { ADC }
+0.376953125	toan_9_bt_page_108_5	\alpha
+0.781310150350123	toan_9_bt_page_109_13	\cot 35 ^ { \circ } 12 ^ { \prime }
+0.9163110349838348	toan_9_bt_page_109_15	\cot 27 ^ { \circ }
+0.9757061004638672	toan_9_bt_page_109_17	\cot { 65 ^ { \circ } }
+1	toan_9_bt_page_109_20	1 - \cos x
+0.9863464774098247	toan_9_bt_page_109_21	\tan x - \cot x
+0.3982759714126587	toan_9_bt_page_109_30	\cos B
+0.6193447113037109	toan_9_bt_page_109_31	\tan B
+0.5961751937866211	toan_9_bt_page_109_32	\cot B
+0.6078971293754876	toan_9_bt_page_109_33	\sin \alpha
+0.5518934726715088	toan_9_bt_page_109_34	\tan \alpha
+0.6532338913530111	toan_9_bt_page_109_36	\cos \alpha
+0.899999356479384	toan_9_bt_page_109_39	\sin 20 ^ { \circ }
+0.7336580120027065	toan_9_bt_page_109_4	\cos 40 ^ { \circ }
+0.3807515441199414	toan_9_bt_page_109_40	\cos 20 ^ { \circ }
+0.99462890625	toan_9_bt_page_109_42	\cos 40 ^ { \circ }
+0.4055635929107666	toan_9_bt_page_109_43	\tan 70 ^ { \circ }
+0.29150390625	toan_9_bt_page_109_45	\cot 60 ^ { \circ }
+0.8368423938618434	toan_9_bt_page_109_46	\cot  65 ^ { \circ }
+0.32048330679572246	toan_9_bt_page_109_49	A C = 4 \operatorname {cm}
+0.995610237121582	toan_9_bt_page_109_7	\cos 38 ^ { \circ }
+0.896146725397557	toan_9_bt_page_109_8	\sin 50 ^ { \circ }
+0.9965858445502818	toan_9_bt_page_109_9	\cos 50 ^ { \circ }
+0.984375	toan_9_bt_page_112_1	a = b \sin \alpha
+0.44582199572488407	toan_9_bt_page_112_11	S_ { MNP } = \frac { 1 } { 2 } MP \cdot NP \cdot \sin P
+0.797950029373169	toan_9_bt_page_112_3	a = b \cos \alpha
+0.13595833127967688	toan_9_bt_page_112_4	a = b \tan \alpha
+0.82373046875	toan_9_bt_page_112_5	a = b \cot \alpha
+0.423712469288148	toan_9_bt_page_112_7	a = b \tan \beta
+0.9507308006286621	toan_9_bt_page_112_8	a = b \cos \beta
+0.99609375	toan_9_bt_page_113_5	a = c \sin \alpha
+0.9863405227661133	toan_9_bt_page_113_6	a = c \cos \alpha
+0.9956073760986328	toan_9_bt_page_113_7	a = c \tan \alpha
+0.30985024828064606	toan_9_bt_page_113_8	a = c \tan \beta
+0.2558885921187084	toan_9_bt_page_113_9	a = c \sin \beta
+0.9985356330871582	toan_9_bt_page_115_10	\sin \alpha - \sin \alpha \cos ^ { 2 } \alpha
+0.4867301951162517	toan_9_bt_page_115_2	\sin \alpha
+0.8493837174028158	toan_9_bt_page_115_4	\cos \alpha = \frac { 5 } { 13 }
+0.3258387085412115	toan_9_bt_page_117_7	D Y / / B X
+0.14939608700267873	toan_9_bt_page_118_7	S _ { ABC } = S _ { BMC } 
+0.10353240197788804	toan_9_bt_page_119_3	\cos \widehat { MAN }
 0.6766321012810295	toan_9_bt_page_11_19	\sqrt[ x ] { \frac { - 29 } { x } }
 0.7468806841643527	toan_9_bt_page_124_16	P _ { 3 } = 50
 0.6403033925380441	toan_9_bt_page_127_21	h = \frac { d } { a }
