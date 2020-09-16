@@ -5479,275 +5479,275 @@
 0.14939608700267873	toan_9_bt_page_118_7	S _ { ABC } = S _ { BMC } 
 0.10353240197788804	toan_9_bt_page_119_3	\cos \widehat { MAN }
 0.6766321012810295	toan_9_bt_page_11_19	\sqrt[ x ] { \frac { - 29 } { x } }
-0.7468806841643527	toan_9_bt_page_124_16	P _ { 3 } = 50
-0.6403033925380441	toan_9_bt_page_127_21	h = \frac { d } { a }
-0.194091796875	toan_9_bt_page_127_22	n
-0.955946317403751	toan_9_bt_page_129_10	\hat { MC } = \hat { AMB }
-0.9960978019516915	toan_9_bt_page_130_5	\tan P = 2
-0.7507781982421875	toan_9_bt_page_130_7	g \alpha \approx 1,3333
-0.8984375	toan_9_bt_page_132_17	=
-0.8625698089599609	toan_9_bt_page_132_22	\frac { 1 } { 2 } B D \cdot A C
-0.9771106004482135	toan_9_bt_page_132_6	BAC = 60 ^ { \circ }
-0.786796216852963	toan_9_bt_page_133_10	gC
-0.48767131982767675	toan_9_bt_page_133_14	\ln 30 ^ { \circ } = \cos 6
-0.6338482545829318	toan_9_bt_page_135_16	\hat { XBC } = \overline { XDC }
-0.3352675464643677	toan_9_bt_page_135_18	\hat { AN } \cdot va \tan \hat { MBN }
-0.8393181953579187	toan_9_bt_page_136_11	40 ^ { \circ }
-0.9985356330871582	toan_9_bt_page_137_1	x - 1 < 0
-0.9103285637684166	toan_9_bt_page_137_10	\cos 0
-0.9965848922729492	toan_9_bt_page_137_12	0
-0.17664011317802794	toan_9_bt_page_137_15	\operatorname { sig } 73 ^ { \circ } > \sin 17 ^ { \circ }
-0.99951171875	toan_9_bt_page_137_28	0
-0.8074098647562096	toan_9_bt_page_137_30	\tan \alpha = \frac { \sin \alpha } { \cos \alpha } > s
-0.32177734375	toan_9_bt_page_137_32	2
-0.9853708744049072	toan_9_bt_page_138_13	
-0.7705078125	toan_9_bt_page_138_6	n
-0.8617858251557174	toan_9_bt_page_138_9	BC \approx 32,670 cn
-0.923828125	toan_9_bt_page_140_11	D
-0.6642481279559433	toan_9_bt_page_140_7	S _ { A B C D } = A
-0.7617885363288224	toan_9_bt_page_141_3	A D \approx 6,736 c
-0.30535681818423654	toan_9_bt_page_141_9	A B C = \frac { 1 } { 2 } B C \cdot A C
-0.8929807640640774	toan_9_bt_page_142_14	( \operatorname { cotg } 42 ^ { \circ } + \operatorname { cotg } 35 ^ { \circ } )
-0.6097674912724642	toan_9_bt_page_142_2	AH = bs
-0.2003161721950164	toan_9_bt_page_144_4	2 S _ { \triangle B C }
-0.9641876220703125	toan_9_bt_page_144_5	\frac { B } { 2 }
-0.9902503434568644	toan_9_bt_page_144_8	\approx 4,661
-0.34627308242061705	toan_9_bt_page_145_11	\sec ^ { 2 } \alpha
-0.44429475932929563	toan_9_bt_page_145_5	\operatorname { in } \alpha = \frac { 12 } { 13 }
-0.32361626625061035	toan_9_bt_page_145_7	a = \frac { 8 } { 17 }
-0.9738056659698486	toan_9_bt_page_145_9	x = 0,8
-0.053854802776026396	toan_9_bt_page_146_14	\perp
-0.8013190040364861	toan_9_bt_page_146_15	\in X C
-0.25525786914994836	toan_9_bt_page_146_7	
-0.9035794691680369	toan_9_bt_page_146_8	
-0.9819889068603516	toan_9_bt_page_146_9	Y \approx 3,210
-0.5026841163635254	toan_9_bt_page_147_12	B = 0,8
-0.93701171875	toan_9_bt_page_147_13	C = 0
-0.8549972985397568	toan_9_bt_page_148_15	CM = AC \cdot \cos
-0.27726229260701807	toan_9_bt_page_148_2	1 N - N
-0.652137279510498	toan_9_bt_page_148_3	AC \approx 8
-0.6603218615055084	toan_9_bt_page_148_4	1 / B
-0.11350721909120032	toan_9_bt_page_149_2	\frac { S _ { A B C } } { S _ { D D } } = \frac { 1 } { 2 }
-0.8907947391271591	toan_9_bt_page_150_10	= \frac { 1 } { 2 } AN ^ { 2 }
-0.9485791250065176	toan_9_bt_page_150_14	\hat { NAM } = \frac { 3 } { 5 }
-0.5750636608434547	toan_9_bt_page_150_15	= \sqrt { 1 - \sin ^ { 2 } \hat { NAM } }
-0.7256183624267578	toan_9_bt_page_150_18	B C = h
-0.34419002883357963	toan_9_bt_page_150_9	= \frac { 1 } { 2 } AN . M
-0.6312932103627107	toan_9_bt_page_15_7	\sqrt { \frac { x } { y ^ { 3 } } }
-0.3637085424213639	toan_9_bt_page_161_2	1 C / / AO
-0.27504152432084084	toan_9_bt_page_164_3	D O
-0.16249016279471107	toan_9_bt_page_164_5	) 0
-0.99462890625	toan_9_bt_page_164_6	0
-0.6963156146730398	toan_9_bt_page_166_3	00 ^ { \prime } =
-0.44951809103743673	toan_9_bt_page_167_5	O = IN . IO
-0.25853802335256904	toan_9_bt_page_175_2	
-0.5383830070495605	toan_9_bt_page_175_8	C > B D
-0.82958984375	toan_9_bt_page_176_6	c
-0.4134196821465866	toan_9_bt_page_177_11	/ / MC / / ND
-0.8322813619307479	toan_9_bt_page_177_13	
-0.4806019866802014	toan_9_bt_page_177_14	VM / / AH
-0.11217727641195052	toan_9_bt_page_177_7	CM / / D
-0.7164701817328023	toan_9_bt_page_177_9	IC \perp CD
-0.9321821189623734	toan_9_bt_page_178_3	H \perp CD
-0.7403762266039848	toan_9_bt_page_178_7	E \perp C D
-0.8149352073669434	toan_9_bt_page_179_1	K \perp CD
-0.6721830368041992	toan_9_bt_page_179_12	K \perp CD
-0.19374704360961914	toan_9_bt_page_179_2	J
-0.692312043129408	toan_9_bt_page_179_3	OI > O
-0.8096273301472543	toan_9_bt_page_179_6	BC > AC > A
-0.6164371146914285	toan_9_bt_page_179_7	OH < OI < O
-0.7577429733937606	toan_9_bt_page_179_9	K \perp CD
-0.5194921848459422	toan_9_bt_page_181_2	K \perp C
-0.22679397445460836	toan_9_bt_page_181_3	
-0.8290625670924783	toan_9_bt_page_186_2	d
-0.49504605110752076	toan_9_bt_page_187_2	11 AO
-0.7826215948360637	toan_9_bt_page_189_2	= OH ^ { 2 } = R ^ { 2 }
-0.7594871520996094	toan_9_bt_page_189_9	=
-0.5975675126244725	toan_9_bt_page_190_3	
-0.6116716861724854	toan_9_bt_page_190_7	( \frac { A B } { 2 } + \frac { B C } { 2 } + \frac { C A } { 2 } )
-0.9550198645031279	toan_9_bt_page_192_4	D C = \frac { a + c - b } { 2 } \cdot \frac { a + b - c } { 2 } = \frac { a - ( b - c ) } { 2 } \cdot \frac { a + ( b - c ) } { 2 }
-0.6784719534165236	toan_9_bt_page_192_8	D C = \frac { 2 b c } { 4 } = \frac { b c } { 2 } = S _ { A B C }
+0.7468806841643527	toan_9_bt_page_124_16	P _ { 3 } = 50 \operatorname {cm}
+0.6403033925380441	toan_9_bt_page_127_21	h = \frac { bc } { a }
+0.194091796875	toan_9_bt_page_127_22	\triangle \mathrm{ABC} \sim \triangle \mathrm{HBA}
+0.955946317403751	toan_9_bt_page_129_10	\widehat { DMC } = \widehat { AMB }
+0.9960978019516915	toan_9_bt_page_130_5	\cot P = 2 \cot N
+0.7507781982421875	toan_9_bt_page_130_7	\cot \alpha \approx 1,3333
+0.8984375	toan_9_bt_page_132_17	C K = C I \sin \alpha
+0.8625698089599609	toan_9_bt_page_132_22	\frac { 1 } { 2 } B D \cdot A C \sin \alpha
+0.9771106004482135	toan_9_bt_page_132_6	\widehat { BAC } = 60 ^ { \circ }
+0.786796216852963	toan_9_bt_page_133_10	\cot C
+0.48767131982767675	toan_9_bt_page_133_14	\sin 30 ^ { \circ } = \cos 60 ^ { \circ }
+0.6338482545829318	toan_9_bt_page_135_16	\widehat { XBC } = \widehat { XDC }
+0.3352675464643677	toan_9_bt_page_135_18	\widehat { LAN } \cdot \text ( va ) \tan \widehat { MBN }
+0.8393181953579187	toan_9_bt_page_136_11	\cos 40 ^ { \circ }
+0.9985356330871582	toan_9_bt_page_137_1	\sin x - 1 < 0
+0.9103285637684166	toan_9_bt_page_137_10	\cos \alpha
+0.9965848922729492	toan_9_bt_page_137_12	0 < \cos \alpha < 1
+0.17664011317802794	toan_9_bt_page_137_15	\cot 73 ^ { \circ } > \sin 17 ^ { \circ }
+0.99951171875	toan_9_bt_page_137_28	0 < \cos \alpha < 1
+0.8074098647562096	toan_9_bt_page_137_30	\tan \alpha = \frac { \sin \alpha } { \cos \alpha } > \sin \alpha
+0.32177734375	toan_9_bt_page_137_32	\cos \alpha > 0
+0.9853708744049072	toan_9_bt_page_138_13	\widehat { ADC }
+0.7705078125	toan_9_bt_page_138_6	\alpha
+0.8617858251557174	toan_9_bt_page_138_9	BC \approx 32,670 \operatorname {cm}
+0.923828125	toan_9_bt_page_140_11	\hat D
+0.6642481279559433	toan_9_bt_page_140_7	S _ { A B C D } = AH . BC
+0.7617885363288224	toan_9_bt_page_141_3	A D \approx 6,736 \operatorname {cm}
+0.30535681818423654	toan_9_bt_page_141_9	A B C = \frac { 1 } { 2 } B C \cdot A C \sin C
+0.8929807640640774	toan_9_bt_page_142_14	h ( \cot 42 ^ { \circ } + \cot 35 ^ { \circ } )
+0.6097674912724642	toan_9_bt_page_142_2	AH = b \sin \alpha
+0.2003161721950164	toan_9_bt_page_144_4	2 S _ { A B C }
+0.9641876220703125	toan_9_bt_page_144_5	\frac { B C } { 2 }
+0.9902503434568644	toan_9_bt_page_144_8	z = \approx 4,661
+0.34627308242061705	toan_9_bt_page_145_11	\cos ^ { 2 } \alpha
+0.44429475932929563	toan_9_bt_page_145_5	\sin \alpha = \frac { 12 } { 13 }
+0.32361626625061035	toan_9_bt_page_145_7	\sin \alpha = \frac { 8 } { 17 }
+0.9738056659698486	toan_9_bt_page_145_9	\sin \alpha = 0,8
+0.053854802776026396	toan_9_bt_page_146_14	B T \perp X C
+0.8013190040364861	toan_9_bt_page_146_15	T \in X C
+0.25525786914994836	toan_9_bt_page_146_7	D Y / / B X
+0.9035794691680369	toan_9_bt_page_146_8	\widehat { D Y Z }
+0.9819889068603516	toan_9_bt_page_146_9	D Y \approx 3,210
+0.5026841163635254	toan_9_bt_page_147_12	\sin B = 0,8
+0.93701171875	toan_9_bt_page_147_13	\sin C = 0,6
+0.8549972985397568	toan_9_bt_page_148_15	CM = AC \cdot \cos C
+0.27726229260701807	toan_9_bt_page_148_2	\widehat { BMN } = \widehat { MBC }
+0.652137279510498	toan_9_bt_page_148_3	AC \approx 8,66 \operatorname {cm}
+0.6603218615055084	toan_9_bt_page_148_4	M N / / B C
+0.11350721909120032	toan_9_bt_page_149_2	\frac { S _ { A B C } } { S _ { D B C } } = \frac { 1 } { 2 }
+0.8907947391271591	toan_9_bt_page_150_10	\frac { 1 } { 2 } AN . AM \sin \widehat { NAM }= \frac { 1 } { 2 } AN ^ { 2 } \sin \widehat { NAM }
+0.9485791250065176	toan_9_bt_page_150_14	\sin \widehat { NAM } = \frac { 3 } { 5 }
+0.5750636608434547	toan_9_bt_page_150_15	\cos \widehat { NAM } = \sqrt { 1 - \sin ^ { 2 } \widehat { NAM } }
+0.7256183624267578	toan_9_bt_page_150_18	B C = \frac { h } { \sin \alpha }
+0.34419002883357963	toan_9_bt_page_150_9	S _ { AMN } = \frac { 1 } { 2 } AN . MH
+0.6312932103627107	toan_9_bt_page_15_7	\sqrt[x] { \frac { x } { y ^ { 3 } } }
+0.3637085424213639	toan_9_bt_page_161_2	M C / / AO
+0.27504152432084084	toan_9_bt_page_164_3	O O ^ { \prime }
+0.16249016279471107	toan_9_bt_page_164_5	O O ^ { \prime }
+0.99462890625	toan_9_bt_page_164_6	O ^ { \prime }
+0.6963156146730398	toan_9_bt_page_166_3	00 ^ { \prime } = 5 \operatorname {cm}
+0.44951809103743673	toan_9_bt_page_167_5	IM . IO = IN . IO ^ { \prime }
+0.25853802335256904	toan_9_bt_page_175_2	OH / / AI / / BK
+0.5383830070495605	toan_9_bt_page_175_8	AC > B D
+0.82958984375	toan_9_bt_page_176_6	S _ { ABCD }
+0.4134196821465866	toan_9_bt_page_177_11	OI / / MC / / ND
+0.8322813619307479	toan_9_bt_page_177_13	ON / / BK
+0.4806019866802014	toan_9_bt_page_177_14	NM / / AH
+0.11217727641195052	toan_9_bt_page_177_7	IO / / CM / / DN
+0.7164701817328023	toan_9_bt_page_177_9	MC \perp CD
+0.9321821189623734	toan_9_bt_page_178_3	OH \perp CD
+0.7403762266039848	toan_9_bt_page_178_7	OE \perp C D
+0.8149352073669434	toan_9_bt_page_179_1	OK \perp CD
+0.6721830368041992	toan_9_bt_page_179_12	OK \perp CD
+0.19374704360961914	toan_9_bt_page_179_2	OI > OK
+0.692312043129408	toan_9_bt_page_179_3	OI > OK
+0.8096273301472543	toan_9_bt_page_179_6	BC > AC > AB
+0.6164371146914285	toan_9_bt_page_179_7	OH < OI < OK
+0.7577429733937606	toan_9_bt_page_179_9	OK \perp CD
+0.5194921848459422	toan_9_bt_page_181_2	OK \perp CB
+0.22679397445460836	toan_9_bt_page_181_3	\triangle \mathrm{OHC} = \triangle \mathrm{OKC}
+0.8290625670924783	toan_9_bt_page_186_2	d _ { 1 }
+0.49504605110752076	toan_9_bt_page_187_2	MC / / AO
+0.7826215948360637	toan_9_bt_page_189_2	HM . HN = OH ^ { 2 } = R ^ { 2 }
+0.7594871520996094	toan_9_bt_page_189_9	AM . BN = HM. HN
+0.5975675126244725	toan_9_bt_page_190_3	MA / / BD
+0.6116716861724854	toan_9_bt_page_190_7	( \frac { A B } { 2 } + \frac { B C } { 2 } + \frac { C A } { 2 } ) . r
+0.9550198645031279	toan_9_bt_page_192_4	BD . D C = \frac { a + c - b } { 2 } \cdot \frac { a + b - c } { 2 } = \frac { a - ( b - c ) } { 2 } \cdot \frac { a + ( b - c ) } { 2 }
+0.6784719534165236	toan_9_bt_page_192_8	BD . D C = \frac { 2 b c } { 4 } = \frac { b c } { 2 } = S _ { A B C }
 0.4070868618301737	toan_9_bt_page_194_11	OH ^ { 2 } = O A ^ { 2 } - AH ^ { 2 } = 15 ^ { 2 } - 12 ^ { 2 } = 8
-0.3182190311111898	toan_9_bt_page_195_12	
-0.2828420128252483	toan_9_bt_page_195_13	\hat { C } _ { 1 } = \hat { O } ^ { 1 }
-0.22661041143158245	toan_9_bt_page_195_15	\hat { C } _ { 2 } = \hat { O } ^ { i }
-0.3877943142044842	toan_9_bt_page_195_3	O ^ { \prime }
-0.6453517865399564	toan_9_bt_page_197_12	K / / O ^ { \prime }
-0.9413111650969036	toan_9_bt_page_197_15	
-0.18983798198618626	toan_9_bt_page_198_11	1 + \hat { A } _ { 2 } = \frac { 180 ^ { \circ } - AOB } { 2 } + \frac { 180 ^ { \circ } - \hat { AO ^ { \prime } C } } { 2 } = \frac { 360 ^ { \circ } - ( \hat { AOB } + \hat { AO ^ { \prime } C ) } } { 2 }
-0.8570716931462725	toan_9_bt_page_198_15	MA = 3 c
-0.08534514343911209	toan_9_bt_page_198_8	D O ^ { \perp } \perp C D
-0.6390770156559676	toan_9_bt_page_199_3	/ / EO ^ { \prime } \Rightarrow \hat { O } _ { 1 } + \hat { O } _ { 1 } ^ { \prime } = 180 ^ { \circ }
-0.48544302410560997	toan_9_bt_page_200_7	/ / O ^ { \prime }
-0.21534632739264095	toan_9_bt_page_200_9	\Rightarrow \frac { 10 } { 00 ^ { \prime } } = \frac { 2 } { 1 } \Rightarrow 10 = 2.00 ^ { \prime } = 12 ( cm )
-0.26072251587174833	toan_9_bt_page_202_13	0 ^ { \prime }
-0.8366041978788417	toan_9_bt_page_203_4	= DC ^ { 2 }
-0.321856327238482	toan_9_bt_page_203_5	N \cdot DB = DC ^ { 2 }
-0.40336740016937256	toan_9_bt_page_204_3	x
-0.31783152740104437	toan_9_bt_page_204_4	
-0.8314007502490305	toan_9_bt_page_205_6	
-0.29189751006288134	toan_9_bt_page_205_9	O ^ { \prime }
-0.45500928175169975	toan_9_bt_page_206_19	E / / A D
-0.6958969625940308	toan_9_bt_page_206_4	
-0.2630189809428871	toan_9_bt_page_207_11	
-0.23728105948466	toan_9_bt_page_207_14	
-0.47090222497843115	toan_9_bt_page_208_1	= \hat { D N }
-0.99755859375	toan_9_bt_page_208_5	=
-0.9970703125	toan_9_bt_page_208_6	=
-0.89892578125	toan_9_bt_page_209_12	A _ { 1 }
-0.29934159011743566	toan_9_bt_page_209_18	IE \perp O
-0.056037231174441565	toan_9_bt_page_209_2	\vec { C } - 2 \hat { HMA }
-0.10527732671827814	toan_9_bt_page_209_5	AC
-0.7124674079199167	toan_9_bt_page_209_8	M / / BD
-0.4854320287704468	toan_9_bt_page_209_9	11
-0.9517064094543457	toan_9_bt_page_213_11	: 5 x - 0 y = 25
-0.9853649139404297	toan_9_bt_page_213_7	2 x + 3 y = 0
-0.898047924041748	toan_9_bt_page_213_9	: 2 x + 3 y = 7
-0.9336259365081787	toan_9_bt_page_214_10	: ( 3 a - 1 ) x + 2 b y = 56
-0.987321138381958	toan_9_bt_page_214_14	: 4 x - 10 y = 14
-0.7887897491455078	toan_9_bt_page_214_16	: x + y = m
-0.989772547618486	toan_9_bt_page_214_9	\frac { 1 } { 2 } a x - ( 3 b + 2 ) y = 3
-0.9281056770123541	toan_9_bt_page_216_4	: 3 x - b y = 5
-0.3597557544708252	toan_9_bt_page_216_6	5 x - 2 y = c
-0.5724742412567139	toan_9_bt_page_216_7	x + b y = 2
-0.9960954189300537	toan_9_bt_page_217_14	3 x - 5 y = 1
-0.9926822170382366	toan_9_bt_page_217_2	y = ( 2 m - 5 ) x - 5 m
-0.7758057117462158	toan_9_bt_page_217_6	: 10 x - 7 y = 74
-0.6784053687433698	toan_9_bt_page_217_7	: 4 m x + ( 2 m - 1 ) y = m + 2
-0.9189453125	toan_9_bt_page_218_3	88
-0.9052734375	toan_9_bt_page_218_4	88
-0.7227914333343506	toan_9_bt_page_218_5	818
-0.9072265625	toan_9_bt_page_218_6	88
-0.76904296875	toan_9_bt_page_218_7	818
-0.982421875	toan_9_bt_page_218_8	818
-0.9658203125	toan_9_bt_page_218_9	88
-1	toan_9_bt_page_221_7	75
-0.8688966758171746	toan_9_bt_page_225_18	= 0 \neq a ^ { \prime }
-0.2316358328533411	toan_9_bt_page_228_24	= 0 = a ^ { \prime }
-0.8379892163720797	toan_9_bt_page_229_1	( d _ { 2 } ) , ( d _ { 3 } ) , ( d _ { 4 } )
-1	toan_9_bt_page_230_11	( 3 a - 1 ) x + 2 b y = 56
-0.9951193332672119	toan_9_bt_page_230_12	\frac { 1 } { 2 } a x - ( 3 b + 2 ) y = 3
-0.9892999362839219	toan_9_bt_page_231_2	5 x - 2 y = 27
-0.38288915157318115	toan_9_bt_page_232_14	m x + 3 y = 10
-0.69189453125	toan_9_bt_page_232_15	x - 2 y = 4
-0.4410592317581177	toan_9_bt_page_234_4	\Gamma
-0.70263671875	toan_9_bt_page_235_7	a x + b y = - 1
-0.7803804874420166	toan_9_bt_page_235_9	a x - b y = 4
-0.6751940250396729	toan_9_bt_page_240_3	: 3 x - 5 y = 1
-0.69482421875	toan_9_bt_page_242_1	88
-0.9253649711608887	toan_9_bt_page_242_3	818
-0.966796875	toan_9_bt_page_242_6	88
-0.9609746932983398	toan_9_bt_page_242_7	818
-0.9746668010484427	toan_9_bt_page_243_16	km / h
-0.21791112422943115	toan_9_bt_page_243_8	x
-0.9117855303870783	toan_9_bt_page_243_9	( km / h )
-0.47570285101010296	toan_9_bt_page_248_6	\left\{ \left. \begin{array} { l } { 3 ( x + y ) + 9 = 2 ( x - y ) } \\ { 2 ( x + y ) = 3 ( x - y ) - 11 } \end{array} \right. \Leftrightarrow \left\{ \left. \begin{array} { c } { x + 5 y = - 9 } \\ { - x + 5 y = - 11 } \end{array} \right. \Leftrightarrow \left\{ \begin{array} { l } { x = 1 } \\ { y = - } \end{array} \right. \right. \right.
-0.5993099957789753	toan_9_bt_page_248_7	\left\{ \left. \begin{array} { l } { 2 ( x + 3 ) = 3 ( y + 1 ) + 1 } \\ { 3 ( x - y + 1 ) = 2 ( x - 2 ) + 3 } \end{array} \right. \Leftrightarrow \left\{ \left. \begin{array} { l } { 2 x - 3 y = - 2 } \\ { x - 3 y = - 4 } \end{array} \right. \Leftrightarrow \left\{ \begin{array} { l } { x = } \\ { y = } \end{array} \right. \right. \right.
-0.40332840879710596	toan_9_bt_page_250_8	, 6 km / l
-0.3618758214068407	toan_9_bt_page_251_5	Q = 0,24 R I ^ { 2 }
-0.7125425338745117	toan_9_bt_page_257_18	m x ^ { 2 } - 3 x + 5 = x ^ { 2 } - m
-0.9558221381032289	toan_9_bt_page_257_20	x + m ^ { 2 } x ^ { 2 } + m = x ^ { 2 } + m x + m +
-0.998046875	toan_9_bt_page_260_6	1
-0.5747070460665782	toan_9_bt_page_264_14	X
-0.8830934860743582	toan_9_bt_page_265_19	5 - \sqrt { 3 - 2 x } = 12 x - 3
-0.37131846459107054	toan_9_bt_page_266_2	, 2 g / c m ^ { 3 }
-0.7625538174761459	toan_9_bt_page_266_4	150 m ^ { 3 }
-0.82275390625	toan_9_bt_page_270_3	x
-0.6279296875	toan_9_bt_page_271_27	R
-0.9114662182983011	toan_9_bt_page_272_10	P ( x ) = x ^ { 2 }
-0.99951171875	toan_9_bt_page_273_16	- 6 x + 9 = 9 - 5 \Leftrightarrow ( x - 3 ) ^ { 2 } = 4 \Leftrightarrow x - 3 = \pm 2
-0.3930635013800317	toan_9_bt_page_276_20	x _ { 1 } = \frac { - 7,9 - 4,7 } { 6 ! } = - \frac { 12,6 } { 6 } = - 2,1
-0.9848771095275879	toan_9_bt_page_276_25	x _ { 1 } = - 1
-0.9931743110064417	toan_9_bt_page_279_17	a ^ { 2 } - 2 a b + b ^ { 2 } = ( a - b ) ^ { 2 } \geq 0 , b ^ { 2 } - 2 b c + c ^ { 2 } = ( b - c ) ^ { 2 } \geq
-0.9970715045928955	toan_9_bt_page_279_30	x _ { 1 } + x _ { 2 } = - 8 + 2 = - 6 = \frac { - 2 } { 1 }
-0.61865234375	toan_9_bt_page_27_1	\sqrt { 1 - 4 x + 4 x ^ { 2 } } = \sqrt { ( 1 - 2 x ) ^ { 2 } } = 11 - 2 x
-0.8708269596099854	toan_9_bt_page_27_10	- 2 \sqrt { 2 } x + 2 = x ^ { 2 } - 2 \sqrt { 2 } x + ( \sqrt { 2 } ) ^ { 2 } = ( x - \sqrt { 2 } ) ^ { 2 }
-0.9970724578015506	toan_9_bt_page_281_9	\Delta ^ { \prime } = 4 - ( 2 - \sqrt { 3 } ) ( 2 + \sqrt { 2 } ) = 2 ( \sqrt { 3 } - \sqrt { 2 } ) + \sqrt { 6 } >
-0.23214175239755416	toan_9_bt_page_282_14	V ^ { \prime }
-0.7834467887878418	toan_9_bt_page_282_21	11 ^ { 2 }
-0.9611592160317242	toan_9_bt_page_285_22	\Leftrightarrow x ^ { 3 } + 3 x ^ { 2 } + 3 x + 1 - x +
-1	toan_9_bt_page_288_27	\frac { x } { x + 1 } =
-0.9990234375	toan_9_bt_page_289_15	= 1 > 0
-0.6712954771377556	toan_9_bt_page_289_25	\Delta _ { 2 } ^ { \prime } \geq 0 \Leftrightarrow m ^ { 3 } + m + 2 \geq 0 \Leftrightarrow ( m + 1 ) ( m ^ { 2 } - m + 2 ) \geq 0 \Leftrightarrow m \geq
-0.43266203021630645	toan_9_bt_page_290_6	> - 1
-0.7850849628448486	toan_9_bt_page_291_14	, 8 g / cm ^ { 3 }
-0.3776037892333761	toan_9_bt_page_291_15	, 6 g / cm ^ { 3 }
-0.42612264707776853	toan_9_bt_page_291_16	x ( k m / h ) , x \geq
-0.8920373916625977	toan_9_bt_page_292_9	\frac { 96 } { 100 } \cdot 450
-0.9377149385290977	toan_9_bt_page_293_25	( km / h )
-0.9373572397410836	toan_9_bt_page_294_10	( km / h ) , x > 0
-0.974609375	toan_9_bt_page_298_5	x ^ { 2 } =
-0.8819544314828818	toan_9_bt_page_299_3	( km / h ) , x > 3
-0.927734375	toan_9_bt_page_300_3	\sqrt { x ^ { 2 } + x + 1 } =
-0.9248455003016652	toan_9_bt_page_303_8	
-0.29953998031691453	toan_9_bt_page_303_9	
-0.8892003869173095	toan_9_bt_page_306_11	
-0.5037837583226974	toan_9_bt_page_306_2	H < O
-0.5548881199210882	toan_9_bt_page_307_2	
-0.6713786947075278	toan_9_bt_page_307_3	
-0.8750555540900677	toan_9_bt_page_310_4	
-0.96435546875	toan_9_bt_page_310_5	D
-0.879511566250585	toan_9_bt_page_310_8	KBD
-0.8408551424508914	toan_9_bt_page_311_4	\hat { COB }
-0.9438748359680176	toan_9_bt_page_321_1	\pi
-0.8133794891045909	toan_9_bt_page_321_12	
-0.7948267953470349	toan_9_bt_page_321_16	ZMT
-0.08867404264758937	toan_9_bt_page_323_1	\left. \begin{array}{l}{ \hat { AOB } + \hat { COB } = 180 ^ { \circ } }\\{ \hline AOC = 180 ^ { \circ } }\end{array} \right.
-0.4503234685398638	toan_9_bt_page_325_12	S > B D
-0.22986817359924316	toan_9_bt_page_325_13	8
-0.96923828125	toan_9_bt_page_325_14	<
-0.3583559989929199	toan_9_bt_page_325_15	B C
-0.509765625	toan_9_bt_page_325_3	\hat { C O D }
-0.9560934538658673	toan_9_bt_page_325_4	COE , COA , DOE
-0.5825180800124048	toan_9_bt_page_325_8	EOA = 60 ^ { \circ }
-0.6358721459548204	toan_9_bt_page_326_11	CDF > \hat { CFD }
-0.4952279550957474	toan_9_bt_page_326_17	
-0.14344566607785741	toan_9_bt_page_326_19	\hat { BC } =
-0.35761400640756713	toan_9_bt_page_326_2	\Delta AOC = \Delta BO
-0.87841796875	toan_9_bt_page_327_1	0
-0.45248269989353773	toan_9_bt_page_327_12	\Delta M A ^ { \prime }
-0.16116841603117665	toan_9_bt_page_327_13	B = M A
-0.6096858726323262	toan_9_bt_page_329_14	\Delta B D A = \Delta B M
-0.71293035915055	toan_9_bt_page_329_15	MA = MB + M
-0.8788812149056184	toan_9_bt_page_330_1	FDE = 20 ^ { \circ }
-0.16193484505744815	toan_9_bt_page_330_13	
-0.1841259948797471	toan_9_bt_page_330_6	
-0.6372836242605899	toan_9_bt_page_331_1	
-0.8045118249064287	toan_9_bt_page_331_14	MT ^ { 2 } = N
-0.9311857223510742	toan_9_bt_page_331_4	CBD
-0.4809857847358953	toan_9_bt_page_331_8	
-0.9081764221191406	toan_9_bt_page_332_1	
-0.5799994468688965	toan_9_bt_page_332_2	ABC
-0.6877030787516575	toan_9_bt_page_333_1	MT ^ { 2 } = MA
-0.5333566665649414	toan_9_bt_page_334_1	B x
-0.34859650792418506	toan_9_bt_page_334_7	BOD = \hat { CBx }
-0.955078125	toan_9_bt_page_335_2	E
-0.9274595766328275	toan_9_bt_page_336_7	
-0.9267933368682861	toan_9_bt_page_337_10	CBD
-0.7628109455108643	toan_9_bt_page_337_5	BIC
-0.19690747116874263	toan_9_bt_page_337_6	
-0.6790418006598884	toan_9_bt_page_337_9	
-0.9282236679361806	toan_9_bt_page_338_1	KBC = \hat { CBD }
-0.5771446836986343	toan_9_bt_page_338_2	KBD
-0.5692549804863734	toan_9_bt_page_339_1	BmC
-0.6527955634519458	toan_9_bt_page_339_11	3 B
-0.65869140625	toan_9_bt_page_339_2	A
-0.3060215774692438	toan_9_bt_page_340_4	BIC = 90 ^ { \circ } + A _ { 2 }
-0.7988269813358784	toan_9_bt_page_340_9	AmB
-0.9833984375	toan_9_bt_page_341_14	=
-0.587873953078315	toan_9_bt_page_341_15	ODP = 90
-0.6140470504760742	toan_9_bt_page_341_16	D
-0.4566772412613318	toan_9_bt_page_341_17	
-0.7543135627503883	toan_9_bt_page_341_19	POD ^ { \prime } = OC ^ { \prime } H
-0.99658203125	toan_9_bt_page_341_2	135
-0.97802734375	toan_9_bt_page_341_20	=
-0.19921875	toan_9_bt_page_341_5	a
-0.06541462253677122	toan_9_bt_page_341_7	BC ^ { P }
-0.3121857833183507	toan_9_bt_page_341_9	BC ^ { F }
-0.5913146990351379	toan_9_bt_page_342_2	00 ^ { \circ }
-0.4080256016459316	toan_9_bt_page_342_3	BCD = 90 ^ { \circ }
-0.9990234375	toan_9_bt_page_342_5	45
-0.9815304279327393	toan_9_bt_page_342_9	50 ^ { \circ }
+0.3182190311111898	toan_9_bt_page_195_12	CA / / IO ^ { \prime }
+0.2828420128252483	toan_9_bt_page_195_13	\hat { C } _ { 1 } = \hat { O ^ { \prime } } _ { 1 }
+0.22661041143158245	toan_9_bt_page_195_15	\hat { C } _ { 2 } = \hat { O ^ { \prime } } _ { 1 }
+0.3877943142044842	toan_9_bt_page_195_3	O ^ { \prime } K
+0.6453517865399564	toan_9_bt_page_197_12	O K / / O ^ { \prime } A
+0.9413111650969036	toan_9_bt_page_197_15	O A O ^ { \prime } K
+0.18983798198618626	toan_9_bt_page_198_11	\hat { A } _ { 1 } + \hat { A } _ { 2 } = \frac { 180 ^ { \circ } - \widehat { AOB } } { 2 } + \frac { 180 ^ { \circ } - \widehat { AO ^ { \prime } C } } { 2 } = \frac { 360 ^ { \circ } - ( \widehat { AOB } + \widehat { AO ^ { \prime } C ) } } { 2 }
+0.8570716931462725	toan_9_bt_page_198_15	MA = 3 \operatorname {cm}
+0.08534514343911209	toan_9_bt_page_198_8	D O ^ { \prime } \perp C D
+0.6390770156559676	toan_9_bt_page_199_3	OD / / EO ^ { \prime } \Rightarrow \hat { O } _ { 1 } + \hat { O } _ { 1 } ^ { \prime } = 180 ^ { \circ }
+0.48544302410560997	toan_9_bt_page_200_7	O C / / O ^ { \prime } B
+0.21534632739264095	toan_9_bt_page_200_9	\Rightarrow \frac { IO } { 00 ^ { \prime } } = \frac { 2 } { 1 } \Rightarrow IO = 2.00 ^ { \prime } = 12 ( \operatorname {cm} )
+0.26072251587174833	toan_9_bt_page_202_13	O 0 ^ { \prime }
+0.8366041978788417	toan_9_bt_page_203_4	DM . DA = DC ^ { 2 }
+0.321856327238482	toan_9_bt_page_203_5	DN \cdot DB = DC ^ { 2 }
+0.40336740016937256	toan_9_bt_page_204_3	EF <= 6 \operatorname {cm}
+0.31783152740104437	toan_9_bt_page_204_4	EF / / O O ^ { \prime }
+0.8314007502490305	toan_9_bt_page_205_6	IN .  IO ^ { \prime }
+0.29189751006288134	toan_9_bt_page_205_9	O ^ { \prime } K
+0.45500928175169975	toan_9_bt_page_206_19	CE / / A D
+0.6958969625940308	toan_9_bt_page_206_4	FA / / NE
+0.2630189809428871	toan_9_bt_page_207_11	BD / / EC 
+0.23728105948466	toan_9_bt_page_207_14	O ^ { \prime } I A
+0.47090222497843115	toan_9_bt_page_208_1	\widehat { EMH } = \widehat { DMH } . MH
+0.99755859375	toan_9_bt_page_208_5	\triangle \mathrm{ MAE } = \triangle \mathrm{ MBD }
+0.9970703125	toan_9_bt_page_208_6	\triangle \mathrm{ MHE } = \triangle \mathrm{ MHD }
+0.89892578125	toan_9_bt_page_209_12	\hat A _ { 1 }
+0.29934159011743566	toan_9_bt_page_209_18	IE \perp OM
+0.056037231174441565	toan_9_bt_page_209_2	\widehat { HMC } = 2 \widehat { HMA }
+0.10527732671827814	toan_9_bt_page_209_5	OM / / AC
+0.7124674079199167	toan_9_bt_page_209_8	OM / / BD
+0.4854320287704468	toan_9_bt_page_209_9	OM \perp CD
+0.9517064094543457	toan_9_bt_page_213_11	( d _ {4} ) : 5 x - 0 y = 25
+0.9853649139404297	toan_9_bt_page_213_7	( d _ {2} ) : 2 x + 3 y = 0
+0.898047924041748	toan_9_bt_page_213_9	( d _ {2} ) : 2 x + 3 y = 7
+0.9336259365081787	toan_9_bt_page_214_10	( d _ {1} ) : ( 3 a - 1 ) x + 2 b y = 56
+0.987321138381958	toan_9_bt_page_214_14	( d _ {2} ) : 4 x - 10 y = 14
+0.7887897491455078	toan_9_bt_page_214_16	( d _ {2} ) : x + y = m
+0.989772547618486	toan_9_bt_page_214_9	( d _ {2} ) : \frac { 1 } { 2 } a x - ( 3 b + 2 ) y = 3
+0.9281056770123541	toan_9_bt_page_216_4	( d _ {2} ) : 3 x - b y = 5
+0.3597557544708252	toan_9_bt_page_216_6	( d _ {1} ) : 5 x - 2 y = c
+0.5724742412567139	toan_9_bt_page_216_7	( d _ {2} ): x + b y = 2
+0.9960954189300537	toan_9_bt_page_217_14	( d ) : 3 x - 5 y = 1
+0.9926822170382366	toan_9_bt_page_217_2	( d ) : y = ( 2 m - 5 ) x - 5 m
+0.7758057117462158	toan_9_bt_page_217_6	( d _ {2} ) : 10 x - 7 y = 74
+0.6784053687433698	toan_9_bt_page_217_7	( d _ {3} ) : 4 m x + ( 2 m - 1 ) y = m + 2
+0.9189453125	toan_9_bt_page_218_3	\varnothing 8
+0.9052734375	toan_9_bt_page_218_4	\varnothing 8
+0.7227914333343506	toan_9_bt_page_218_5	\varnothing 18
+0.9072265625	toan_9_bt_page_218_6	\varnothing 8
+0.76904296875	toan_9_bt_page_218_7	\varnothing 18
+0.982421875	toan_9_bt_page_218_8	\varnothing 18
+0.9658203125	toan_9_bt_page_218_9	\varnothing 8
+1	toan_9_bt_page_221_7	75 \operatorname {km}
+0.8688966758171746	toan_9_bt_page_225_18	a = 0 \neq a ^ { \prime }
+0.2316358328533411	toan_9_bt_page_228_24	a = 0 = a ^ { \prime }
+0.8379892163720797	toan_9_bt_page_229_1	( d _ { 1 } ) ,( d _ { 2 } ) , ( d _ { 3 } ) , ( d _ { 4 } )
+1	toan_9_bt_page_230_11	( d _ {1} ) :( 3 a - 1 ) x + 2 b y = 56
+0.9951193332672119	toan_9_bt_page_230_12	( d _ {2} ) : \frac { 1 } { 2 } a x - ( 3 b + 2 ) y = 3
+0.9892999362839219	toan_9_bt_page_231_2	( d _ {1} ) : 5 x - 2 y = 27
+0.38288915157318115	toan_9_bt_page_232_14	( d _ {1} ) : m x + 3 y = 10
+0.69189453125	toan_9_bt_page_232_15	( d _ {2} ) : x - 2 y = 4
+0.4410592317581177	toan_9_bt_page_234_4	( I )
+0.70263671875	toan_9_bt_page_235_7	( d ) : a x + b y = - 1
+0.7803804874420166	toan_9_bt_page_235_9	( d ) : a x - b y = 4
+0.6751940250396729	toan_9_bt_page_240_3	( d ) : 3 x - 5 y = 1
+0.69482421875	toan_9_bt_page_242_1	\varnothing 8
+0.9253649711608887	toan_9_bt_page_242_3	\varnothing 18
+0.966796875	toan_9_bt_page_242_6	\varnothing 8
+0.9609746932983398	toan_9_bt_page_242_7	\varnothing 18
+0.9746668010484427	toan_9_bt_page_243_16	45 \operatorname {km/h}
+0.21791112422943115	toan_9_bt_page_243_8	10 \operatorname {km/h}
+0.9117855303870783	toan_9_bt_page_243_9	x \operatorname {km/h}
+0.47570285101010296	toan_9_bt_page_248_6	\left\{ \left. \begin{array} { l } { 3 ( x + y ) + 9 = 2 ( x - y ) } \\ { 2 ( x + y ) = 3 ( x - y ) - 11 } \end{array} \right. \Leftrightarrow \left\{ \left. \begin{array} { c } { x + 5 y = - 9 } \\ { - x + 5 y = - 11 } \end{array} \right. \Leftrightarrow \left\{ \begin{array} { l } { x = 1 } \\ { y = - 2 } \end{array} \right. \right. \right.
+0.5993099957789753	toan_9_bt_page_248_7	\left\{ \left. \begin{array} { l } { 2 ( x + 3 ) = 3 ( y + 1 ) + 1 } \\ { 3 ( x - y + 1 ) = 2 ( x - 2 ) + 3 } \end{array} \right. \Leftrightarrow \left\{ \left. \begin{array} { l } { 2 x - 3 y = - 2 } \\ { x - 3 y = - 4 } \end{array} \right. \Leftrightarrow \left\{ \begin{array} { l } { x = 2 } \\ { y = 2 } \end{array} \right. \right. \right.
+0.40332840879710596	toan_9_bt_page_250_8	3,6 45 \operatorname {km/h}
+0.3618758214068407	toan_9_bt_page_251_5	Q = 0,24 R I ^ { 2 } t
+0.7125425338745117	toan_9_bt_page_257_18	m x ^ { 2 } - 3 x + 5 = x ^ { 2 } - m x
+0.9558221381032289	toan_9_bt_page_257_20	x + m ^ { 2 } x ^ { 2 } + m = x ^ { 2 } + m x + m + 2
+0.998046875	toan_9_bt_page_260_6	\triangle
+0.5747070460665782	toan_9_bt_page_264_14	X _ { 1 }
+0.8830934860743582	toan_9_bt_page_265_19	5 - \sqrt { 3 - 2 x } = | 2 x - 3 |
+0.37131846459107054	toan_9_bt_page_266_2	0, 2 45 \operatorname {g / c m ^ { 3 }}
+0.7625538174761459	toan_9_bt_page_266_4	450 \operatorname {m} ^ { 3 }
+0.82275390625	toan_9_bt_page_270_3	x ^ 2
+0.6279296875	toan_9_bt_page_271_27	B _ { 2 }
+0.9114662182983011	toan_9_bt_page_272_10	x.P ( x ) = x ^ { 2 }
+0.99951171875	toan_9_bt_page_273_16	x ^ 2 - 6 x + 9 = 9 - 5 \Leftrightarrow ( x - 3 ) ^ { 2 } = 4 \Leftrightarrow x - 3 = \pm 2
+0.3930635013800317	toan_9_bt_page_276_20	x _ { 1 } = \frac { - 7,9 - 4,7 } { 6 } = - \frac { 12,6 } { 6 } = - 2,1
+0.9848771095275879	toan_9_bt_page_276_25	x _ { 1 } = - 1,5
+0.9931743110064417	toan_9_bt_page_279_17	a ^ { 2 } - 2 a b + b ^ { 2 } = ( a - b ) ^ { 2 } \geq 0 , b ^ { 2 } - 2 b c + c ^ { 2 } = ( b - c ) ^ { 2 } \geq 0
+0.9970715045928955	toan_9_bt_page_279_30	x _ { 1 } + x _ { 2 } = - 8 + 2 = - 6 = \frac { - 2 } { \frac { 1 } { 3 } }
+0.61865234375	toan_9_bt_page_27_1	\sqrt { 1 - 4 x + 4 x ^ { 2 } } = \sqrt { ( 1 - 2 x ) ^ { 2 } } = | 1 - 2 x |
+0.8708269596099854	toan_9_bt_page_27_10	x ^ 2 - 2 \sqrt { 2 } x + 2 = x ^ { 2 } - 2 \sqrt { 2 } x + ( \sqrt { 2 } ) ^ { 2 } = ( x - \sqrt { 2 } ) ^ { 2 }
+0.9970724578015506	toan_9_bt_page_281_9	\Delta ^ { \prime } = 4 - ( 2 - \sqrt { 3 } ) ( 2 + \sqrt { 2 } ) = 2 ( \sqrt { 3 } - \sqrt { 2 } ) + \sqrt { 6 } > 0
+0.23214175239755416	toan_9_bt_page_282_14	u \text ( va ) v ^ { \prime }
+0.7834467887878418	toan_9_bt_page_282_21	u ^ { 2 }
+0.9611592160317242	toan_9_bt_page_285_22	\Leftrightarrow x ^ { 3 } + 3 x ^ { 2 } + 3 x + 1 - x + 1
+1	toan_9_bt_page_288_27	\frac { x } { x + 1 } = t
+0.9990234375	toan_9_bt_page_289_15	a = 1 > 0
+0.6712954771377556	toan_9_bt_page_289_25	\Delta _ { 2 } ^ { \prime } \geq 0 \Leftrightarrow m ^ { 3 } + m + 2 \geq 0 \Leftrightarrow ( m + 1 ) ( m ^ { 2 } - m + 2 ) \geq 0 \Leftrightarrow m \geq -1
+0.43266203021630645	toan_9_bt_page_290_6	m > - 1
+0.7850849628448486	toan_9_bt_page_291_14	0, 8 \operatorname { g / cm ^ { 3 } }
+0.3776037892333761	toan_9_bt_page_291_15	0, 6 \operatorname { g / cm ^ { 3 } }
+0.42612264707776853	toan_9_bt_page_291_16	x \operatorname { k m / h } , x \geq 0
+0.8920373916625977	toan_9_bt_page_292_9	\frac { 96 } { 100 } \cdot 450 ( \operatorname {m} ^ 3 )
+0.9377149385290977	toan_9_bt_page_293_25	x \operatorname { km / h }
+0.9373572397410836	toan_9_bt_page_294_10	x \operatorname { km / h } , x > 0
+0.974609375	toan_9_bt_page_298_5	x ^ { 2 } = t
+0.8819544314828818	toan_9_bt_page_299_3	x \operatorname { km / h } , x > 3
+0.927734375	toan_9_bt_page_300_3	\sqrt { x ^ { 2 } + x + 1 } = t
+0.9248455003016652	toan_9_bt_page_303_8	B O ^ { \prime } D
+0.29953998031691453	toan_9_bt_page_303_9	O ^ { \prime } B D
+0.8892003869173095	toan_9_bt_page_306_11	\widehat { AOB }
+0.5037837583226974	toan_9_bt_page_306_2	OH < OK
+0.5548881199210882	toan_9_bt_page_307_2	\widehat { ABC }
+0.6713786947075278	toan_9_bt_page_307_3	\widehat { DAC }
+0.8750555540900677	toan_9_bt_page_310_4	\widehat { BAC }
+0.96435546875	toan_9_bt_page_310_5	\hat D
+0.879511566250585	toan_9_bt_page_310_8	\widehat { KBD }
+0.8408551424508914	toan_9_bt_page_311_4	\sin \widehat { COB }
+0.9438748359680176	toan_9_bt_page_321_1	\pi R
+0.8133794891045909	toan_9_bt_page_321_12	\widehat { BOC }
+0.7948267953470349	toan_9_bt_page_321_16	\widehat { ZMT }
+0.08867404264758937	toan_9_bt_page_323_1	\begin{aligned} \widehat{\mathrm{AOB}}+\widehat{\mathrm{COB}}  &=180^{\circ} \\ + \quad \quad \widehat{\mathrm{AOC}} &=180^{\circ} \end{aligned}
+0.4503234685398638	toan_9_bt_page_325_12	BC > B D
+0.22986817359924316	toan_9_bt_page_325_13	BC > BD
+0.96923828125	toan_9_bt_page_325_14	OH < OK
+0.3583559989929199	toan_9_bt_page_325_15	B C > BD
+0.509765625	toan_9_bt_page_325_3	\widehat { AOB }, \widehat { BOC }, \widehat { BOD }, \widehat { BOE }, \widehat { COD }
+0.9560934538658673	toan_9_bt_page_325_4	\widehat { COE }, \widehat { COA }, \widehat { DOE }, \widehat { DOA }, \widehat { EOA }
+0.5825180800124048	toan_9_bt_page_325_8	\widehat { EOA } = 60 ^ { \circ }
+0.6358721459548204	toan_9_bt_page_326_11	\widehat { CDF } > \widehat { CFD }
+0.4952279550957474	toan_9_bt_page_326_17	CD / / FB
+0.14344566607785741	toan_9_bt_page_326_19	\widehat { BC } = \widehat { BE }
+0.35761400640756713	toan_9_bt_page_326_2	\triangle AOC = \triangle BOD
+0.87841796875	toan_9_bt_page_327_1	SM \perp OM
+0.45248269989353773	toan_9_bt_page_327_12	\triangle M A ^ { \prime } B
+0.16116841603117665	toan_9_bt_page_327_13	MA . MB = M A ^ { \prime } . MB ^ { \prime }
+0.6096858726323262	toan_9_bt_page_329_14	\triangle BDA = \triangle BMC
+0.71293035915055	toan_9_bt_page_329_15	MA = MB + MC
+0.8788812149056184	toan_9_bt_page_330_1	\widehat { FDE } = 20 ^ { \circ }
+0.16193484505744815	toan_9_bt_page_330_13	AF / / CD
+0.1841259948797471	toan_9_bt_page_330_6	xy / / BC
+0.6372836242605899	toan_9_bt_page_331_1	\widehat { AnB }
+0.8045118249064287	toan_9_bt_page_331_14	MT ^ { 2 } = MA .  MB
+0.9311857223510742	toan_9_bt_page_331_4	\widehat { CBD }
+0.4809857847358953	toan_9_bt_page_331_8	\widehat { CMD }
+0.9081764221191406	toan_9_bt_page_332_1	\widehat { ADC }
+0.5799994468688965	toan_9_bt_page_332_2	\widehat { ABC }
+0.6877030787516575	toan_9_bt_page_333_1	MT ^ { 2 } = MA . MB
+0.5333566665649414	toan_9_bt_page_334_1	\widehat { CBx }
+0.34859650792418506	toan_9_bt_page_334_7	\widehat { BOD } = \widehat { CBx }
+0.955078125	toan_9_bt_page_335_2	\hat E
+0.9274595766328275	toan_9_bt_page_336_7	\widehat { n AH }
+0.9267933368682861	toan_9_bt_page_337_10	\widehat { CBD }
+0.7628109455108643	toan_9_bt_page_337_5	\widehat { BIC }
+0.19690747116874263	toan_9_bt_page_337_6	\widehat { BKD }
+0.6790418006598884	toan_9_bt_page_337_9	\widehat { KBC }
+0.9282236679361806	toan_9_bt_page_338_1	\widehat { KBC } = \widehat { CBD }
+0.5771446836986343	toan_9_bt_page_338_2	\widehat { KBD }
+0.5692549804863734	toan_9_bt_page_339_1	\widehat { BmC }
+0.6527955634519458	toan_9_bt_page_339_11	B B _ {o}
+0.65869140625	toan_9_bt_page_339_2	A ^ { \prime }
+0.3060215774692438	toan_9_bt_page_340_4	\widehat { BIC } = 90 ^ { \circ } + \hat A _ { 2 }
+0.7988269813358784	toan_9_bt_page_340_9	\widehat { AmB }
+0.9833984375	toan_9_bt_page_341_14	\triangle OPD = \triangle COH
+0.587873953078315	toan_9_bt_page_341_15	\widehat { ODP } = 90 ^ { \circ }
+0.6140470504760742	toan_9_bt_page_341_16	OD ^ { \prime }
+0.4566772412613318	toan_9_bt_page_341_17	C ^ { \prime }
+0.7543135627503883	toan_9_bt_page_341_19	\widehat { POD ^ { \prime } } = \widehat { OC ^ { \prime } H ^ { \prime } }
+0.99658203125	toan_9_bt_page_341_2	135 ^ { \circ }
+0.97802734375	toan_9_bt_page_341_20	\triangle O D ^ { \prime } P = \triangle C ^ { \prime } H ^ { \prime } O
+0.19921875	toan_9_bt_page_341_5	C ^ { \prime }
+0.06541462253677122	toan_9_bt_page_341_7	BC ^ { \prime } E ^ { \prime }
+0.3121857833183507	toan_9_bt_page_341_9	BC ^ { \prime } E ^ { \prime }
+0.5913146990351379	toan_9_bt_page_342_2	90 ^ { \circ }
+0.4080256016459316	toan_9_bt_page_342_3	\widehat { BCD } = 90 ^ { \circ }
+0.9990234375	toan_9_bt_page_342_5	45 ^ { \circ }
+0.9815304279327393	toan_9_bt_page_342_9	60 ^ { \circ }
 0.5504625964981642	toan_9_bt_page_343_11	MA + MB +
 0.5865418910980225	toan_9_bt_page_343_4	
 0.9731817245483398	toan_9_bt_page_343_5	
