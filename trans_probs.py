@@ -56,6 +56,7 @@ def detect_text(img):
     lines = []
     line_idx = 0
     
+    # should smooth sth first
     #img = cv2.medianBlur(img, 3)
     #img = cv2.GaussianBlur(img, (3, 3), 0)
 
@@ -97,20 +98,20 @@ def detect_text(img):
     # print(len(lines))
     # image = cv2.imread(filename, cv2.IMREAD_COLOR)
     
-    color_idx = 0
-    color_table= [(0,0,0), (0,0,255), (0,255,0), (0,255,255), (255,0,0), (255,0,255), (255,255,0)]
-    for blocks in lines:
-        for item in blocks:
-            cv2.rectangle(img, (item["box"][0], item["box"][1]), (item["box"][0]+ item["box"][2], item["box"][1]+ item["box"][3]),color_table[color_idx])
-        color_idx += 1
-        if color_idx >= len(color_table):
-            color_idx = 0
-
-    for bbox in lines_bbox:
-        if bbox is not None:
-            cv2.rectangle(img, (bbox[0], bbox[1]), (bbox[0]+ bbox[2], bbox[1]+ bbox[3]),color_table[5])
-    cv2.imshow("image", img)
-    cv2.waitKey()
+    # color_idx = 0
+    # color_table= [(0,0,0), (0,0,255), (0,255,0), (0,255,255), (255,0,0), (255,0,255), (255,255,0)]
+    # for blocks in lines:
+    #     for item in blocks:
+    #         cv2.rectangle(img, (item["box"][0], item["box"][1]), (item["box"][0]+ item["box"][2], item["box"][1]+ item["box"][3]),color_table[color_idx])
+    #     color_idx += 1
+    #     if color_idx >= len(color_table):
+    #         color_idx = 0
+    #
+    # for bbox in lines_bbox:
+    #     if bbox is not None:
+    #         cv2.rectangle(img, (bbox[0], bbox[1]), (bbox[0]+ bbox[2], bbox[1]+ bbox[3]),color_table[5])
+    # cv2.imshow("image", img)
+    # cv2.waitKey()
 
     return lines, lines_bbox
 
@@ -139,7 +140,6 @@ def detect_fomular(im, model='onmt'):
         hmer = Hmer()
     elif model == 'onmt' and onmt is None:
         onmt = TranslationImCli()
-        #onmt = TranslationServer()
         onmt.start('./configs/trans.conf.json')
     
     outputs = predictor(im)
@@ -271,15 +271,16 @@ def predict_final(filename):
     for i in range(len(formulas)):
         max_area = 0
         line_idx = 0
-        for j in range(len(lines_bbox)):
-            if lines_bbox[j] is None:
-                continue
-            tmp_area = intersection(formulas[i]['box'], lines_bbox[j])
-            if tmp_area > max_area:
-                max_area = tmp_area
-                line_idx = j
-        formulas[i]['line_idx'] = line_idx
-        print(f"formula line_idex= {formulas[i]['line_idx']}")
+        # for j in range(len(lines_bbox)):
+        #     if lines_bbox[j] is None:
+        #         continue
+        #     tmp_area = intersection(formulas[i]['box'], lines_bbox[j])
+        #     if tmp_area > max_area:
+        #         max_area = tmp_area
+        #         line_idx = j
+        # formulas[i]['line_idx'] = line_idx
+
+        # print(f"formula line_idex= {formulas[i]['line_idx']}")
         # if "formulas" not in lines_bbox[line_idx]:
         #     lines_bbox[line_idx]["formulas"] = []
         # lines_bbox[line_idx]['formulas'].append(formulas[i])
@@ -297,19 +298,19 @@ def predict_final(filename):
 
             for f_idx, formula in enumerate(formulas):
                 tmp_area = intersection(formula["box"], text["box"])
-                if tmp_area > 0:
+                if tmp_area > 30:
                     ok_to_add = False
 
-                if "line_idx" not in formula or formula["line_idx"] != i:
-                    continue
+                # if "line_idx" not in formula or formula["line_idx"] != i:
+                #     continue
 
-                # den luc insert formulas vao hay chua ??
+                # # den luc insert formulas vao hay chua ??
                 # if (formula["box"][0] < text["box"][0]) and "pass" not in formula:
                 #     # print("debug, ",formula, "i ", i)
                 #     res += "$$" + formula["text"] + "$$ "
                 #     formula["pass"] = True
-                print(f" Text and formula {text['text']} and {formula['text']}")
-                if (text["text"] in formula["text"]) and "pass" not in formula:
+                # print(f" Text and formula {text['text']} and {formula['text']}")
+                if (tmp_area > 30) and "pass" not in formula:
                     # print("debug, ",formula, "i ", i)
                     res += "$$" + formula["text"] + "$$ "
                     formula["pass"] = True
@@ -335,7 +336,7 @@ def predict_final(filename):
 
 #/Users/thanhtruongle/Downloads/20200611_Sample-test/a50/image248.jpg
 if __name__ == '__main__':
-    print(predict_final("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image006.jpg"))
+    print(predict_final("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/A50/image020.jpg"))
     #print(predict_final("/home/dcthang/Projects/MathFormulaReg/Code/math-formula-recognize/images/layers_all/2_12/toan_12/page_105.jpg"))
     #print(detect_fomular("/home/dcthang/Projects/MathFormulaReg/Docs/Test/20200724_datatest/hoidap/image040.jpg", "onmt"))
     #print(predict_final("/home/dcthang/Projects/MathFormulaReg/Code/mfr-pytorch-hmer/data/csv3/images4/toan_12_page_15_11.jpg"))
